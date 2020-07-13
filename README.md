@@ -18,7 +18,6 @@ I also became Twitch Affiliate as a **live coder** and you can follow me at <a h
 - 🔭 I’m currently working on our first product at Experts Inside called "EasyLife365" (<a href="https://www.easylife365.cloud" target="_blank">easylife365.cloud</a>) 
 - 🌱 I’m currently learning React/Typescript, Blazor and ASP.NET Core GraphQL
 - 🏊🚴🏃 Sport fact: I am an Ironman finisher and I am training for the next Ironman race (Thun 2021)
-- ⚡ Fun fact:
 
 ## How to reach me 📫
 - e-mail: emanueleb@outlook.com
