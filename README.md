@@ -9,10 +9,10 @@ I share my love for technology through my blog in Italian <a href="https://www.e
 I also became Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code. 
 
 <p align='center'>
-<a href="https://dev.to/kasuken"><img height="30" src="https://raw.githubusercontent.com/kasuken/kasuken/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/kasuken"><img height="30" src="https://raw.githubusercontent.com/kasuken/kasuken/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/kasuken"><img height="30" src="https://raw.githubusercontent.com/kasuken/kasuken/instagram.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/bartolesiemanuele/"><img height="30" src="https://raw.githubusercontent.com/kasuken/kasuken/linkedin.png"></a>
+<a href="https://dev.to/kasuken"><img height="30" src="https://github.com/kasuken/kasuken/blob/master/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/kasuken"><img height="30" src="https://github.com/kasuken/kasuken/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/kasuken"><img height="30" src="https://github.com/kasuken/kasuken/blob/master/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bartolesiemanuele/"><img height="30" src="https://github.com/kasuken/kasuken/blob/master/linkedin.png?raw=true"></a>
 </p>
 
 ## Find me around the web 🌎
