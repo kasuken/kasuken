@@ -9,12 +9,10 @@ I share my love for technology through my blog in Italian <a href="https://www.e
 I also became Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code. 
 
 <p align='center'>
-<a href="https://www.emanuelebartolesi.com"><img height="40" src="https://img.icons8.com/fluent/96/000000/domain.png"></a>&nbsp;&nbsp;
-<a href="https://dev.to/kasuken"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/kasuken"><img height="40" src="https://img.icons8.com/color/96/000000/instagram-new.png"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/waylonwalker/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://dev.to/kasuken"><img height="30" src="https://raw.githubusercontent.com/kasuken/kasuken/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/kasuken"><img height="30" src="https://raw.githubusercontent.com/kasuken/kasuken/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/kasuken"><img height="30" src="https://raw.githubusercontent.com/kasuken/kasuken/instagram.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/bartolesiemanuele/"><img height="30" src="https://raw.githubusercontent.com/kasuken/kasuken/linkedin.png"></a>
 </p>
 
 ## Find me around the web 🌎
