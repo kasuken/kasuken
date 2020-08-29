@@ -32,6 +32,22 @@ I also became Twitch Affiliate as a **live coder** and you can follow me at <a h
 - twitter: kasuken
 - tiktok: kasuken
 
+## GitHub Stats
+<a href="https://github.com/kasuken/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuken&hide=java,html,powershell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/kasuken/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasuken&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/MartinHeinz/go-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 <!--
 **kasuken/kasuken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
