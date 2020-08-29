@@ -15,24 +15,24 @@ I also became Twitch Affiliate as a **live coder** and you can follow me at <a h
 <a href="https://www.linkedin.com/in/bartolesiemanuele/"><img height="50" src="https://github.com/kasuken/kasuken/blob/master/linkedin.png?raw=true"></a>
 </p>
 
-## Find me around the web 🌎
+## 🌎 Find me around the web 
 - Learning in public on <a href="https://www.twitch.tv/kasuken" target="_blank">Twitch</a> or <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a> 🎦 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/bartolesiemanuele/">LinkedIn</a> 💼
 - My about site: <a href="https://about.emanuelebartolesi.com/" target="_blank">about.emanuele.bartolesi.com</a>
 
-## Current situation ✨
+## ✨ Current situation
 
 - 🔭 I’m currently working on our first product at Experts Inside called "EasyLife365" (<a href="https://www.easylife365.cloud" target="_blank">easylife365.cloud</a>) 
 - 🌱 I’m currently learning React/Typescript, Blazor and ASP.NET Core GraphQL
 - 🏊🚴🏃 Sport fact: I am an Ironman finisher and I am training for the next Ironman race (Thun 2021)
 
-## How to reach me 📫
+## 📫 How to reach me 
 - e-mail: emanueleb@outlook.com
 - instagram: kasuken
 - twitter: kasuken
 - tiktok: kasuken
 
-## GitHub Stats
+## 📈 GitHub Stats
 <a href="https://github.com/kasuken/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuken&hide=java,html,powershell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
@@ -40,12 +40,12 @@ I also became Twitch Affiliate as a **live coder** and you can follow me at <a h
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kasuken&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kasuken/BlazorDevToAnalytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuken&repo=BlazorDevToAnalytics&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kasuken/DevToPostsScheduler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuken&repo=DevToPostsScheduler&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!--
