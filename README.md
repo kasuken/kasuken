@@ -42,7 +42,7 @@ I also became Twitch Affiliate as a **live coder** and you can follow me at <a h
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuken&repo=Urlify&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/kasuken/DevToPostsScheduler">
+<a href="https://github.com/kasuken/Sellooze">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kasuken&repo=Sellooze&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
