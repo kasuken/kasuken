@@ -15,7 +15,7 @@ I also became Twitch Affiliate as a **live coder** and you can follow me at <a h
 
 ## ✨ Current situation
 
-- 🔭 I’m currently working as Microsoft 365 Architect at SoftwareONE (Switzerland)
+- 🔭 I’m currently working as Microsoft 365 Architect at SoftwareONE (Switzerland) and as CTO for a few Startups around the world
 - 🌱 I’m currently learning React/Typescript, Blazor and ASP.NET Core GraphQL
 - 🏊🚴🏃 Sport fact: I am an Ironman finisher and I am training for the next Ironman race (Thun 2022)
 
