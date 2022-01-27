@@ -1,7 +1,7 @@
 
 # Hi, I'm Emanuele 👋 🏊🚴🏃 💻
 
-<img src="https://raw.githubusercontent.com/kasuken/kasuken/master/githubbanner.png" alt="Emanuele Bartolesi - software engineer, content creator and community organizer">
+<img src="https://raw.githubusercontent.com/kasuken/kasuken/master/Banner.png" alt="Emanuele Bartolesi - software engineer, content creator and community organizer">
 
 I'm a **Full Stack Web Developer** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
