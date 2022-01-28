@@ -8,6 +8,8 @@ I currently live in **Zurich** and actively participate in local and internation
 I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
 I also became Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
 
+I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitHub Star</a> ⭐ and a Microsoft MVP.
+
 ## 🌎 Find me around the web 
 - Learning in public on <a href="https://www.twitch.tv/kasuken" target="_blank">Twitch</a> or <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a> 🎦 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/bartolesiemanuele/">LinkedIn</a> 💼
@@ -58,7 +60,7 @@ I also became Twitch Affiliate as a **live coder** and you can follow me at <a h
 [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCU67JYtJURWRTx7vrdx9APg)
 
 ---
-<p align="center"> © 2021 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
+<p align="center"> © 2022 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
 <p align="center">
 https://www.emanuelebartolesi.com
 </p>
