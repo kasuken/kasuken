@@ -3,9 +3,9 @@
 
 <img src="https://raw.githubusercontent.com/kasuken/kasuken/master/Banner.png" alt="Emanuele Bartolesi - software engineer, content creator and community organizer">
 
-I'm a **Full Stack Web Developer** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
+I'm a **Microsoft 365 Architect** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
-I share my love for technology through my blog <a href="https://www.emanuelebartolesi.com" target="_blank">emanuelebartolesi.com</a>.
+I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
 I also became Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
 
 ## 🌎 Find me around the web 
