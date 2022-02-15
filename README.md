@@ -53,6 +53,9 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kasuken&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## 💌 Contact Me
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/kasuken)
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/kasuken)
