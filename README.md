@@ -53,6 +53,8 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kasuken&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
+## ⚡ Recent Activities
+
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#8](https://github.com/kasuken/BlazorKit.Spinners/issues/8) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
 2. 🎉 Merged PR [#9](https://github.com/kasuken/BlazorKit.Spinners/pull/9) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
