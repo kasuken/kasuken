@@ -56,11 +56,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/kasuken/BlazorKit.Spinners/issues/8) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-2. 🎉 Merged PR [#9](https://github.com/kasuken/BlazorKit.Spinners/pull/9) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-3. 🎉 Merged PR [#71](https://github.com/marcominerva/TinyHelpers/pull/71) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
-4. 💪 Opened PR [#71](https://github.com/marcominerva/TinyHelpers/pull/71) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
-5. 🗣 Commented on [#8](https://github.com/kasuken/BlazorKit.Spinners/issues/8) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+1. 🎉 Merged PR [#4](https://github.com/kasuken/Moodflix/pull/4) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
+2. 💪 Opened PR [#4](https://github.com/kasuken/Moodflix/pull/4) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
+3. ❗️ Closed issue [#8](https://github.com/kasuken/BlazorKit.Spinners/issues/8) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+4. 🎉 Merged PR [#9](https://github.com/kasuken/BlazorKit.Spinners/pull/9) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+5. 🎉 Merged PR [#71](https://github.com/marcominerva/TinyHelpers/pull/71) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
 <!--END_SECTION:activity-->
 
 ## 💌 Contact Me
