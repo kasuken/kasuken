@@ -56,11 +56,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/kasuken/Moodflix/pull/8) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
-2. 💪 Opened PR [#8](https://github.com/kasuken/Moodflix/pull/8) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
-3. 🎉 Merged PR [#4](https://github.com/kasuken/Moodflix/pull/4) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
-4. 💪 Opened PR [#4](https://github.com/kasuken/Moodflix/pull/4) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
-5. ❗️ Closed issue [#8](https://github.com/kasuken/BlazorKit.Spinners/issues/8) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+1. 🎉 Merged PR [#14](https://github.com/kasuken/Moodflix/pull/14) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
+2. 💪 Opened PR [#14](https://github.com/kasuken/Moodflix/pull/14) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
+3. 🎉 Merged PR [#13](https://github.com/kasuken/Moodflix/pull/13) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
+4. 💪 Opened PR [#13](https://github.com/kasuken/Moodflix/pull/13) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
+5. 🎉 Merged PR [#8](https://github.com/kasuken/Moodflix/pull/8) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
 <!--END_SECTION:activity-->
 
 ## 💌 Contact Me
