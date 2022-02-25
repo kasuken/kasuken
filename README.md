@@ -87,7 +87,7 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 🏆GitHub Trophies
 <p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=kasuken&theme=flat&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kasuken&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
   
 ## ⚡ Recent Activities
