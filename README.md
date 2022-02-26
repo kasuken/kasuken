@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/kasuken/Feedzor/issues/3) in [kasuken/Feedzor](https://github.com/kasuken/Feedzor)
-2. ❗️ Opened issue [#2](https://github.com/kasuken/Feedzor/issues/2) in [kasuken/Feedzor](https://github.com/kasuken/Feedzor)
-3. 🎉 Merged PR [#3](https://github.com/kasuken/emanuelebartolesi.com/pull/3) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-4. 💪 Opened PR [#3](https://github.com/kasuken/emanuelebartolesi.com/pull/3) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-5. 🎉 Merged PR [#2](https://github.com/kasuken/emanuelebartolesi.com/pull/2) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+1. ❗️ Closed issue [#3](https://github.com/kasuken/DevToPostsScheduler/issues/3) in [kasuken/DevToPostsScheduler](https://github.com/kasuken/DevToPostsScheduler)
+2. 🗣 Commented on [#3](https://github.com/kasuken/DevToPostsScheduler/issues/3) in [kasuken/DevToPostsScheduler](https://github.com/kasuken/DevToPostsScheduler)
+3. ❗️ Opened issue [#3](https://github.com/kasuken/Feedzor/issues/3) in [kasuken/Feedzor](https://github.com/kasuken/Feedzor)
+4. ❗️ Opened issue [#2](https://github.com/kasuken/Feedzor/issues/2) in [kasuken/Feedzor](https://github.com/kasuken/Feedzor)
+5. 🎉 Merged PR [#3](https://github.com/kasuken/emanuelebartolesi.com/pull/3) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
