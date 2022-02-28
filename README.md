@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/kasuken/stone.css/issues/4) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
-2. ❗️ Opened issue [#3](https://github.com/kasuken/stone.css/issues/3) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
-3. ❗️ Opened issue [#2](https://github.com/kasuken/stone.css/issues/2) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
-4. ❗️ Closed issue [#3](https://github.com/kasuken/DevToPostsScheduler/issues/3) in [kasuken/DevToPostsScheduler](https://github.com/kasuken/DevToPostsScheduler)
-5. 🗣 Commented on [#3](https://github.com/kasuken/DevToPostsScheduler/issues/3) in [kasuken/DevToPostsScheduler](https://github.com/kasuken/DevToPostsScheduler)
+1. 🎉 Merged PR [#4](https://github.com/kasuken/emanuelebartolesi.com/pull/4) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+2. 💪 Opened PR [#4](https://github.com/kasuken/emanuelebartolesi.com/pull/4) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+3. ❗️ Opened issue [#4](https://github.com/kasuken/stone.css/issues/4) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
+4. ❗️ Opened issue [#3](https://github.com/kasuken/stone.css/issues/3) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
+5. ❗️ Opened issue [#2](https://github.com/kasuken/stone.css/issues/2) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
