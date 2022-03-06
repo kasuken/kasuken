@@ -89,7 +89,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 <p align="center" style="witdh:100%">
   <img src="https://github-profile-trophy.vercel.app/?username=kasuken&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
-  
+
+## 📝 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
