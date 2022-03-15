@@ -92,11 +92,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to use Feature Flags in a Blazor Application](https://dev.to/kasuken/how-to-use-feature-flags-in-a-blazor-application-1ni6)
 - [Sennheiser HD 450BT review](https://dev.to/kasuken/sennheiser-hd-450bt-review-2cgj)
 - [Weekly 002 + Weekly 003](https://dev.to/kasuken/weekly-002-weekly-003-34an)
 - [readme-generator: a global dotnet tool for your next project](https://dev.to/kasuken/readme-generator-a-global-dotnet-tool-for-your-next-project-57bg)
 - [Weekly 001](https://dev.to/kasuken/weekly-001-35p6)
-- [My 3 favourites Windows Apps from the Store &lpar;free&rpar;](https://dev.to/kasuken/my-3-favourites-windows-apps-from-the-store-free-22o0)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
