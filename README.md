@@ -102,11 +102,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/kasuken/Moodflix/pull/33) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
-2. 💪 Opened PR [#33](https://github.com/kasuken/Moodflix/pull/33) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
-3. 💪 Opened PR [#1317](https://github.com/wesbos/awesome-uses/pull/1317) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-4. 🎉 Merged PR [#5](https://github.com/kasuken/emanuelebartolesi.com/pull/5) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-5. 💪 Opened PR [#5](https://github.com/kasuken/emanuelebartolesi.com/pull/5) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+1. ❗️ Closed issue [#4](https://github.com/kasuken/stone.css/issues/4) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
+2. 🎉 Merged PR [#5](https://github.com/kasuken/stone.css/pull/5) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
+3. 🎉 Merged PR [#33](https://github.com/kasuken/Moodflix/pull/33) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
+4. 💪 Opened PR [#33](https://github.com/kasuken/Moodflix/pull/33) in [kasuken/Moodflix](https://github.com/kasuken/Moodflix)
+5. 💪 Opened PR [#1317](https://github.com/wesbos/awesome-uses/pull/1317) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
