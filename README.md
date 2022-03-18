@@ -92,11 +92,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory - Part 2](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-2-1ppd)
 - [Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory - Part 1](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-1-382d)
 - [How to use Feature Flags in a Blazor Application](https://dev.to/kasuken/how-to-use-feature-flags-in-a-blazor-application-1ni6)
 - [Sennheiser HD 450BT review](https://dev.to/kasuken/sennheiser-hd-450bt-review-2cgj)
 - [Weekly 002 + Weekly 003](https://dev.to/kasuken/weekly-002-weekly-003-34an)
-- [readme-generator: a global dotnet tool for your next project](https://dev.to/kasuken/readme-generator-a-global-dotnet-tool-for-your-next-project-57bg)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
