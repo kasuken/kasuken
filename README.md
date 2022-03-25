@@ -92,11 +92,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I am officially a Codemotion Ambassador](https://dev.to/kasuken/i-am-officially-a-codemotion-ambassador-4ojd)
 - [Increasing the productivity with the same theme for Visual Studio 2022, Visual Studio Code and Rider](https://dev.to/kasuken/increasing-the-productivity-with-the-same-theme-for-visual-studio-2022-visual-studio-code-and-rider-2mg2)
 - [Weekly 004](https://dev.to/kasuken/weekly-004-5d6k)
 - [Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory - Part 2](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-2-1ppd)
 - [Securing a Blazor WebAssembly Hosted Apps with Azure Active Directory - Part 1](https://dev.to/kasuken/securing-a-blazor-webassembly-hosted-apps-with-azure-active-directory-part-1-382d)
-- [How to use Feature Flags in a Blazor Application](https://dev.to/kasuken/how-to-use-feature-flags-in-a-blazor-application-1ni6)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
