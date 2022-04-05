@@ -92,11 +92,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create a gitignore file with dotnet cli](https://dev.to/kasuken/create-a-gitignore-file-with-dotnet-cli-4oho)
+- [Weekly 006](https://dev.to/kasuken/weekly-006-1mn1)
 - [Getting started with GitHub Copilot in Visual Studio 2022](https://dev.to/kasuken/getting-started-with-github-copilot-in-visual-studio-2022-54bi)
 - [Tools I use for my online sessions at events](https://dev.to/kasuken/tools-i-use-for-my-online-sessions-at-events-2ob2)
 - [Weekly 005](https://dev.to/kasuken/weekly-005-10ia)
-- [I am officially a Codemotion Ambassador](https://dev.to/kasuken/i-am-officially-a-codemotion-ambassador-4ojd)
-- [Increasing the productivity with the same theme for Visual Studio 2022, Visual Studio Code and Rider](https://dev.to/kasuken/increasing-the-productivity-with-the-same-theme-for-visual-studio-2022-visual-studio-code-and-rider-2mg2)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
