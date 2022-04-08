@@ -92,11 +92,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 007](https://dev.to/kasuken/weekly-007-55h)
 - [My Visual Studio 2022 Settings](https://dev.to/kasuken/my-visual-studio-2022-settings-n25)
 - [Create a gitignore file with dotnet cli](https://dev.to/kasuken/create-a-gitignore-file-with-dotnet-cli-4oho)
 - [Weekly 006](https://dev.to/kasuken/weekly-006-1mn1)
 - [Getting started with GitHub Copilot in Visual Studio 2022](https://dev.to/kasuken/getting-started-with-github-copilot-in-visual-studio-2022-54bi)
-- [Tools I use for my online sessions at events](https://dev.to/kasuken/tools-i-use-for-my-online-sessions-at-events-2ob2)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
