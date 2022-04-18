@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 008](https://dev.to/kasuken/weekly-008-dkg)
 - [Best settings for Logitech Brio 4k](https://dev.to/kasuken/best-settings-for-logitech-brio-4k-j2b)
 - [Weekly 007](https://dev.to/kasuken/weekly-007-55h)
 - [My Visual Studio 2022 Settings](https://dev.to/kasuken/my-visual-studio-2022-settings-n25)
 - [Create a gitignore file with dotnet cli](https://dev.to/kasuken/create-a-gitignore-file-with-dotnet-cli-4oho)
-- [Weekly 006](https://dev.to/kasuken/weekly-006-1mn1)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
