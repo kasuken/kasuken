@@ -102,11 +102,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#77](https://github.com/marcominerva/TinyHelpers/pull/77) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
-2. 🎉 Merged PR [#7](https://github.com/kasuken/emanuelebartolesi.com/pull/7) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-3. 💪 Opened PR [#7](https://github.com/kasuken/emanuelebartolesi.com/pull/7) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-4. 🎉 Merged PR [#6](https://github.com/kasuken/emanuelebartolesi.com/pull/6) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-5. 💪 Opened PR [#6](https://github.com/kasuken/emanuelebartolesi.com/pull/6) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+1. 🗣 Commented on [#77](https://github.com/marcominerva/TinyHelpers/issues/77) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
+2. 💪 Opened PR [#77](https://github.com/marcominerva/TinyHelpers/pull/77) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
+3. 🎉 Merged PR [#7](https://github.com/kasuken/emanuelebartolesi.com/pull/7) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+4. 💪 Opened PR [#7](https://github.com/kasuken/emanuelebartolesi.com/pull/7) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+5. 🎉 Merged PR [#6](https://github.com/kasuken/emanuelebartolesi.com/pull/6) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
