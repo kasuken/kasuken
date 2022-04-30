@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0010](https://dev.to/kasuken/weekly-0010-1ij3)
 - [Create a class from a JSON in Visual Studio 2022](https://dev.to/kasuken/create-a-class-from-a-json-in-visual-studio-2022-3ei3)
 - [How to take awesome screenshots of Azure Portal with Edge](https://dev.to/kasuken/how-to-take-awesome-screenshots-of-azure-portal-with-edge-30eg)
 - [Weekly 009](https://dev.to/kasuken/weekly-009-26ep)
 - [Weekly 008](https://dev.to/kasuken/weekly-008-dkg)
-- [Best settings for Logitech Brio 4k](https://dev.to/kasuken/best-settings-for-logitech-brio-4k-j2b)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
