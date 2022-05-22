@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0013](https://dev.to/kasuken/weekly-0013-4hmg)
 - [7 Command Prompts for Windows you must know](https://dev.to/kasuken/7-command-prompts-for-windows-you-must-know-52ah)
 - [I am officially an Auth0 Ambassador](https://dev.to/kasuken/i-am-officially-an-auth0-ambassador-23bi)
 - [Weekly 0012](https://dev.to/kasuken/weekly-0012-b8g)
 - [How to deploy multiple web apps on the same Azure App Service](https://dev.to/kasuken/how-to-deploy-multiple-web-apps-on-the-same-azure-app-service-409e)
-- [Weekly 0011](https://dev.to/kasuken/weekly-0011-o2c)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
