@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0014](https://dev.to/kasuken/weekly-0014-5fhd)
 - [Securing .NET 6 Minimal API with Auth0](https://dev.to/kasuken/securing-net-6-minimal-api-with-auth0-4h5f)
 - [I just finished reading &quot;Customizing ASP.NET Core 6.0&quot; and this is my review](https://dev.to/kasuken/i-just-finished-reading-customizing-aspnet-core-60-and-this-is-my-review-3ln3)
 - [Weekly 0013](https://dev.to/kasuken/weekly-0013-4hmg)
 - [7 Command Prompts for Windows you must know](https://dev.to/kasuken/7-command-prompts-for-windows-you-must-know-52ah)
-- [I am officially an Auth0 Ambassador](https://dev.to/kasuken/i-am-officially-an-auth0-ambassador-23bi)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
