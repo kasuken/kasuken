@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0015](https://dev.to/kasuken/weekly-0015-4nmb)
 - [Install Node Version Manager &lpar;NVM&rpar; without Admin Rights](https://dev.to/kasuken/install-node-version-manager-nvm-without-admin-rights-194f)
 - [DevToys: A Swiss Army knife for developers](https://dev.to/kasuken/devtoys-a-swiss-army-knife-for-developers-25ol)
 - [Weekly 0014](https://dev.to/kasuken/weekly-0014-5fhd)
 - [Securing .NET 6 Minimal API with Auth0](https://dev.to/kasuken/securing-net-6-minimal-api-with-auth0-4h5f)
-- [I just finished reading &quot;Customizing ASP.NET Core 6.0&quot; and this is my review](https://dev.to/kasuken/i-just-finished-reading-customizing-aspnet-core-60-and-this-is-my-review-3ln3)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
