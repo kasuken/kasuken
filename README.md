@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0016](https://dev.to/kasuken/weekly-0016-4ip6)
 - [Update &amp; Sync GitHub Repositories in the morning](https://dev.to/kasuken/update-sync-github-repositories-in-the-morning-1fab)
 - [Weekly 0015](https://dev.to/kasuken/weekly-0015-4nmb)
 - [Install Node Version Manager &lpar;NVM&rpar; without Admin Rights](https://dev.to/kasuken/install-node-version-manager-nvm-without-admin-rights-194f)
 - [DevToys: A Swiss Army knife for developers](https://dev.to/kasuken/devtoys-a-swiss-army-knife-for-developers-25ol)
-- [Weekly 0014](https://dev.to/kasuken/weekly-0014-5fhd)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
