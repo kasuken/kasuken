@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing ASP.NET Core MVC 6 App - add authentication to the application - Part 1](https://dev.to/kasuken/securing-aspnet-core-mvc-6-app-add-authentication-to-the-application-part-1-1584)
 - [I just finished reading &quot;Microsoft 365 Fundamental Guide&quot; and this is my review](https://dev.to/kasuken/i-just-finished-reading-microsoft-365-fundamental-guide-and-this-is-my-review-723)
 - [Weekly 0016](https://dev.to/kasuken/weekly-0016-4ip6)
 - [Update &amp; Sync GitHub Repositories in the morning](https://dev.to/kasuken/update-sync-github-repositories-in-the-morning-1fab)
 - [Weekly 0015](https://dev.to/kasuken/weekly-0015-4nmb)
-- [Install Node Version Manager &lpar;NVM&rpar; without Admin Rights](https://dev.to/kasuken/install-node-version-manager-nvm-without-admin-rights-194f)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
