@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing ASP.NET Core MVC 6 App - Add roles - Part 3](https://dev.to/kasuken/securing-aspnet-core-mvc-6-app-add-roles-part-3-j29)
 - [Securing ASP.NET Core MVC 6 App - Add a profile page - Part 2](https://dev.to/kasuken/securing-aspnet-core-mvc-6-app-add-a-profile-page-part-2-1fhh)
 - [Weekly 0018](https://dev.to/kasuken/weekly-0018-3gjo)
 - [.NET Project Folders Structure](https://dev.to/kasuken/net-project-folders-structure-36o8)
 - [How to debug a Time Trigger Azure Function Locally](https://dev.to/kasuken/how-to-debug-a-time-trigger-azure-function-locally-2850)
-- [Weekly 0017](https://dev.to/kasuken/weekly-0017-5g3p)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
