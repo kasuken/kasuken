@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I have been awarded for 9 years in a row as Microsoft MVP](https://dev.to/kasuken/i-have-been-awarded-for-9-years-in-a-row-as-microsoft-mvp-28a5)
 - [Weekly 0019](https://dev.to/kasuken/weekly-0019-4c5d)
 - [Why I chose Auth0 for my startup](https://dev.to/kasuken/why-i-chose-auth0-for-my-startup-27p8)
 - [Securing ASP.NET Core MVC 6 App - Add roles - Part 3](https://dev.to/kasuken/securing-aspnet-core-mvc-6-app-add-roles-part-3-j29)
 - [Securing ASP.NET Core MVC 6 App - Add a profile page - Part 2](https://dev.to/kasuken/securing-aspnet-core-mvc-6-app-add-a-profile-page-part-2-1fhh)
-- [Weekly 0018](https://dev.to/kasuken/weekly-0018-3gjo)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
