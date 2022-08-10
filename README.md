@@ -103,10 +103,10 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/kasuken/stone.css/issues/6) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
-2. 🗣 Commented on [#6](https://github.com/kasuken/stone.css/issues/6) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
-3. 💪 Opened PR [#1](https://github.com/kasuken/azureday001/pull/1) in [kasuken/azureday001](https://github.com/kasuken/azureday001)
-4. 🗣 Commented on [#77](https://github.com/marcominerva/TinyHelpers/issues/77) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
+1. 🗣 Commented on [#1](https://github.com/kasuken/npm-info-lens/issues/1) in [kasuken/npm-info-lens](https://github.com/kasuken/npm-info-lens)
+2. ❗️ Closed issue [#6](https://github.com/kasuken/stone.css/issues/6) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
+3. 🗣 Commented on [#6](https://github.com/kasuken/stone.css/issues/6) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
+4. 💪 Opened PR [#1](https://github.com/kasuken/azureday001/pull/1) in [kasuken/azureday001](https://github.com/kasuken/azureday001)
 5. 🎉 Merged PR [#6](https://github.com/kasuken/emanuelebartolesi.com/pull/6) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
 <!--END_SECTION:activity-->
 
