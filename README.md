@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [EasyCaching in a ASP.NET Core Minimal API project](https://dev.to/kasuken/easycaching-in-a-aspnet-core-minimal-api-project-263f)
 - [Weekly 0022](https://dev.to/kasuken/weekly-0022-2j6e)
 - [Weekly 0021](https://dev.to/kasuken/weekly-0021-3afb)
 - [My Journey as LinkedIn Technical Instructor](https://dev.to/kasuken/my-journey-as-linkedin-technical-instructor-14bn)
 - [Weekly 0020](https://dev.to/kasuken/weekly-0020-54be)
-- [I have been awarded for 9 years in a row as Microsoft MVP](https://dev.to/kasuken/i-have-been-awarded-for-9-years-in-a-row-as-microsoft-mvp-28a5)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
