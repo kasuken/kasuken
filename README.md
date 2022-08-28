@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 0025](https://dev.to/kasuken/week-0025-4iec)
 - [Redis Hackathon - Placify](https://dev.to/kasuken/redis-hackathon-placify-56m0)
 - [Week 0024](https://dev.to/kasuken/week-0024-4f1h)
 - [Deploy a .NET 6 Web Application to an Azure App Service by the command line](https://dev.to/kasuken/deploy-a-net-6-web-application-to-an-azure-app-service-by-the-command-line-533j)
 - [Weekly 0023](https://dev.to/kasuken/weekly-0023-10gk)
-- [EasyCaching in a ASP.NET Core Minimal API project](https://dev.to/kasuken/easycaching-in-a-aspnet-core-minimal-api-project-263f)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
