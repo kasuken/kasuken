@@ -103,11 +103,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kasuken/Placify/issues/1) in [kasuken/Placify](https://github.com/kasuken/Placify)
+1. 🗣 Commented on [#2](https://github.com/kasuken/npm-info-lens/issues/2) in [kasuken/npm-info-lens](https://github.com/kasuken/npm-info-lens)
 2. 🗣 Commented on [#1](https://github.com/kasuken/Placify/issues/1) in [kasuken/Placify](https://github.com/kasuken/Placify)
-3. 🎉 Merged PR [#10](https://github.com/kasuken/BlazorKit.Spinners/pull/10) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-4. ❗️ Closed issue [#1](https://github.com/kasuken/npm-info-lens/issues/1) in [kasuken/npm-info-lens](https://github.com/kasuken/npm-info-lens)
-5. 🗣 Commented on [#1](https://github.com/kasuken/npm-info-lens/issues/1) in [kasuken/npm-info-lens](https://github.com/kasuken/npm-info-lens)
+3. 🗣 Commented on [#1](https://github.com/kasuken/Placify/issues/1) in [kasuken/Placify](https://github.com/kasuken/Placify)
+4. 🎉 Merged PR [#10](https://github.com/kasuken/BlazorKit.Spinners/pull/10) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+5. ❗️ Closed issue [#1](https://github.com/kasuken/npm-info-lens/issues/1) in [kasuken/npm-info-lens](https://github.com/kasuken/npm-info-lens)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
