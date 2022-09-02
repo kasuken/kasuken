@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to debug an Azure App Service with Visual Studio 2022](https://dev.to/kasuken/how-to-debug-an-azure-app-service-with-visual-studio-2022-458i)
 - [Week 0025](https://dev.to/kasuken/week-0025-4iec)
 - [Redis Hackathon - Placify](https://dev.to/kasuken/redis-hackathon-placify-56m0)
 - [Week 0024](https://dev.to/kasuken/week-0024-4f1h)
 - [Deploy a .NET 6 Web Application to an Azure App Service by the command line](https://dev.to/kasuken/deploy-a-net-6-web-application-to-an-azure-app-service-by-the-command-line-533j)
-- [Weekly 0023](https://dev.to/kasuken/weekly-0023-10gk)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
