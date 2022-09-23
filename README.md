@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What’s in my bag when I go to the office &lpar;September 2022 Edition&rpar;](https://dev.to/kasuken/whats-in-my-bag-when-i-go-to-the-office-september-2022-edition-3fdf)
 - [Week 0028](https://dev.to/kasuken/week-0028-12kl)
 - [Open Edge Developer Tools automatically by launching debug with Visual Studio 2022](https://dev.to/kasuken/open-edge-developer-tools-automatically-by-launching-debug-with-visual-studio-2022-54og)
 - [Week 0027](https://dev.to/kasuken/week-0027-3nc1)
 - [Clean up space on a .NET Developer Machine](https://dev.to/kasuken/clean-up-space-on-a-net-developer-machine-29c0)
-- [Weekly 0026](https://dev.to/kasuken/weekly-0026-4h3i)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
