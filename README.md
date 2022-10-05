@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Look mum, I wrote a book about ASP.NET Minimal API and it will be released in October](https://dev.to/kasuken/look-mum-i-wrote-a-book-about-aspnet-minimal-api-and-it-will-be-release-in-october-52ig)
 - [Week 0030](https://dev.to/kasuken/week-0030-3i7d)
 - [How to record a video for your app](https://dev.to/kasuken/how-to-record-a-video-for-your-app-599d)
 - [Week 0029](https://dev.to/kasuken/week-0029-1hh2)
 - [What’s in my bag when I go to the office &lpar;September 2022 Edition&rpar;](https://dev.to/kasuken/whats-in-my-bag-when-i-go-to-the-office-september-2022-edition-3fdf)
-- [Week 0028](https://dev.to/kasuken/week-0028-12kl)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
