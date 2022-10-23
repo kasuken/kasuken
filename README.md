@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate Random Numbers with .NET 6](https://dev.to/kasuken/generate-random-numbers-with-net-6-1620)
 - [Weekly 0032](https://dev.to/kasuken/weekly-0032-53am)
 - [Azure Portal Keyboard Shortcuts to improve the navigation experience &lpar;and speed it up&rpar;](https://dev.to/kasuken/azure-portal-keyboard-shortcuts-to-improve-the-navigation-experienceand-speed-it-up-2f7o)
 - [Weekly 0031](https://dev.to/kasuken/weekly-0031-20kb)
 - [Look mum, I wrote a book about ASP.NET Minimal API and it will be released in October](https://dev.to/kasuken/look-mum-i-wrote-a-book-about-aspnet-minimal-api-and-it-will-be-release-in-october-52ig)
-- [Weekly 0030](https://dev.to/kasuken/week-0030-3i7d)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
