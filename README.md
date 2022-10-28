@@ -103,11 +103,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/kasuken/emanuelebartolesi.com/pull/11) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-2. 🎉 Merged PR [#10](https://github.com/kasuken/emanuelebartolesi.com/pull/10) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-3. 💪 Opened PR [#10](https://github.com/kasuken/emanuelebartolesi.com/pull/10) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-4. 🎉 Merged PR [#9](https://github.com/kasuken/emanuelebartolesi.com/pull/9) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-5. 💪 Opened PR [#9](https://github.com/kasuken/emanuelebartolesi.com/pull/9) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+1. 🎉 Merged PR [#11](https://github.com/kasuken/emanuelebartolesi.com/pull/11) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+2. 💪 Opened PR [#11](https://github.com/kasuken/emanuelebartolesi.com/pull/11) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+3. 🎉 Merged PR [#10](https://github.com/kasuken/emanuelebartolesi.com/pull/10) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+4. 💪 Opened PR [#10](https://github.com/kasuken/emanuelebartolesi.com/pull/10) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+5. 🎉 Merged PR [#9](https://github.com/kasuken/emanuelebartolesi.com/pull/9) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
