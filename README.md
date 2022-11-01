@@ -19,8 +19,8 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 - 🔭 I’m currently working as Microsoft 365 Architect at SoftwareONE (Switzerland) and as CTO for a few Startups around the world
 - 🌱 I’m currently learning React/Typescript, Blazor and ASP.NET Core GraphQL
-- 📙 I'm writing a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com)**
-- 🏊🚴🏃 Sport fact: I am an Ironman finisher and I am training for the next Ironman race (Thun 2022)
+- 📙 I wrote a **book** about **Minimal APIs** for **[Packt]([https://www.packtpub.com](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824))**
+- 🏊🚴🏃 Sport fact: I am an Ironman finisher and I am training for the next Ironman race (Thun 2023)
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
