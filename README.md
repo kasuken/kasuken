@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0035](https://dev.to/kasuken/weekly-0035-5h33)
 - [Enabling and Disabling Logs in ASP.NET Core 6](https://dev.to/kasuken/enabling-and-disabling-logs-in-aspnet-core-6-4076)
 - [Weekly 0034](https://dev.to/kasuken/weekly-0034-4976)
 - [Getting started with GitHub CLI](https://dev.to/kasuken/getting-started-with-github-cli-3dph)
 - [Weekly 0033](https://dev.to/kasuken/weekly-0033-1nc7)
-- [Generate Random Numbers with .NET 6](https://dev.to/kasuken/generate-random-numbers-with-net-6-1620)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
