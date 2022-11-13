@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0036](https://dev.to/kasuken/weekly-0036-18hm)
 - [Code Metrics inside Visual Studio 2022](https://dev.to/kasuken/code-metrics-inside-visual-studio-2022-3g1c)
 - [Weekly 0035](https://dev.to/kasuken/weekly-0035-5h33)
 - [Enabling and Disabling Logs in ASP.NET Core 6](https://dev.to/kasuken/enabling-and-disabling-logs-in-aspnet-core-6-4076)
 - [Weekly 0034](https://dev.to/kasuken/weekly-0034-4976)
-- [Getting started with GitHub CLI](https://dev.to/kasuken/getting-started-with-github-cli-3dph)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
