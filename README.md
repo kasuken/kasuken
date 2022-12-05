@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0039](https://dev.to/kasuken/weekly-0039-3k7n)
 - [Change GitHub account on Windows](https://dev.to/kasuken/change-github-account-on-windows-2b91)
 - [Weekly 0038](https://dev.to/kasuken/weekly-0038-16nc)
 - [Write to the console.log with styles from Blazor](https://dev.to/kasuken/write-to-the-consolelog-with-styles-from-blazor-1937)
 - [Weekly 0037](https://dev.to/kasuken/weekly-0037-3j4m)
-- [Weekly 0036](https://dev.to/kasuken/weekly-0036-18hm)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
