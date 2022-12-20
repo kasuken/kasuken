@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0041](https://dev.to/kasuken/weekly-0041-2ag8)
 - [Tools I use every day](https://dev.to/kasuken/tools-i-use-every-day-810)
 - [A plugin for Insomnia to retrieve secrets from Azure Key Vault](https://dev.to/kasuken/a-plugin-for-insomnia-to-retrieve-secrets-from-azure-key-vault-3mip)
 - [Weekly 0039](https://dev.to/kasuken/weekly-0039-3k7n)
 - [Change GitHub account on Windows](https://dev.to/kasuken/change-github-account-on-windows-2b91)
-- [Weekly 0038](https://dev.to/kasuken/weekly-0038-16nc)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
