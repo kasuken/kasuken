@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to get base64 encoded string of a certificate in C#](https://dev.to/kasuken/how-to-get-base64-encoded-string-of-a-certificate-in-c-2pko)
 - [2022 - an year in review](https://dev.to/kasuken/2022-an-year-in-review-4l17)
 - [Auth0: implementing a device flow in a Console Application with .NET 7 - Part 2](https://dev.to/kasuken/auth0-implementing-a-device-flow-in-a-console-application-with-net-7-part-2-45kh)
 - [Auth0: implementing a device flow in a Console Application with .NET 7](https://dev.to/kasuken/auth0-implementing-a-device-flow-in-a-console-application-with-net-7-k9l)
 - [Weekly 0041](https://dev.to/kasuken/weekly-0041-2ag8)
-- [Tools I use every day](https://dev.to/kasuken/tools-i-use-every-day-810)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
