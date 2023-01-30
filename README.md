@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0045](https://dev.to/kasuken/weekly-0045-3b82)
 - [Add or Change a license on GitHub](https://dev.to/kasuken/add-or-change-a-license-on-github-1k53)
 - [Weekly 0044](https://dev.to/kasuken/weekly-0044-21d1)
 - [Getting started with BenchmarkDotNet](https://dev.to/kasuken/getting-started-with-benchmarkdotnet-13f0)
 - [Weekly 0043](https://dev.to/kasuken/weekly-0043-3h9c)
-- [Weekly 0042](https://dev.to/kasuken/weekly-0042-38be)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
