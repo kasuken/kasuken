@@ -93,11 +93,11 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Elgato Stream Deck with Microsoft Teams](https://dev.to/kasuken/using-elgato-stream-deck-with-microsoft-teams-7hg)
 - [Learning GitHub: a course](https://dev.to/kasuken/learning-github-a-course-5ba5)
 - [Weekly 0045](https://dev.to/kasuken/weekly-0045-3b82)
 - [Add or Change a license on GitHub](https://dev.to/kasuken/add-or-change-a-license-on-github-1k53)
 - [Weekly 0044](https://dev.to/kasuken/weekly-0044-21d1)
-- [Getting started with BenchmarkDotNet](https://dev.to/kasuken/getting-started-with-benchmarkdotnet-13f0)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
