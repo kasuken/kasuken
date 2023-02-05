@@ -36,12 +36,21 @@ By the end of this book, you’ll be able to fully leverage new features in .NET
 ![](https://static.packt-cdn.com/products/9781803237824/cover/smaller)
 
 ## Courses
-### Learning GitHub
+### Learning GitHub on LinkedIn Learning
 GitHub is the industry-standard tool for collaborating on and sharing code. It’s popular among software developers, project managers, designers, and students for its flexibility and control. This course introduces GitHub and Git, the version control system that GitHub is built upon. Instructor Emanuele Bartolesi shows how GitHub can create collaborative workflows for you and your team. Explore how version control enables you and your team to track the changes in your files, maintain a history of them, and get some advice to work better with open-source projects. Emanuele gives you the knowledge you need to be able to select appropriate projects to be pushed to GitHub, successfully initialize Git on an existing project, navigate the GitHub UI to perform common tasks like branching, commits, and pull requests, and more.
 
 [Access the course](https://bit.ly/learningithub)
 
 ![Learning GitHub on LinkedIn Learning](https://res.cloudinary.com/practicaldev/image/fetch/s--Laqhrfbs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--5kHCcnIf--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/32086c2rvlxyk1rb1y6i.png)
+
+### Mastering Visual Studio Code on Improove
+Master Visual Studio Code prepares developers to code, debug, using version control and other development operations with Visual Studio Code.
+You don't need to be a seasoned developer to follow this course. It will be a course as agnostic as possible to programming languages.
+After completing this course, you'll know how to use the most important features to work, with a special focus on productivity, with Visual Studio Code.
+In addition, you will learn how create new extensions and themes to customize your code editors and publish them to the Microsoft store.
+
+🔜 Coming soon on [improove.tech](https://www.improove.tech/course/mastering-visual-studio-code)
+
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
