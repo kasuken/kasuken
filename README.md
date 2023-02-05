@@ -23,6 +23,18 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 - 🧙‍♂️ I released a course "**[Learning GitHub](https://bit.ly/learningithub)**" on **LinkedIn Learning**
 - 🏊🚴🏃 Sport fact: I am an Ironman finisher and I am training for the next Ironman race (Thun 2023)
 
+## 📖 Books
+### Mastering Minimal APIs in ASP.NET Core
+The Minimal APIs feature, introduced in .NET 6, is the answer to code complexity and rising dependencies in creating even the simplest of APIs. Minimal APIs facilitate API development using compact code syntax and help you develop web APIs quickly.
+
+This practical guide explores Minimal APIs end-to-end and helps you take advantage of its features and benefits for your ASP.NET Core projects. The chapters in this book will help you speed up your development process by writing less code and maintaining fewer files using Minimal APIs. You’ll also learn how to enable Swagger for API documentation along with CORS and handle application errors. The book even promotes ideas to structure your code in a better way using the dependency injection library in .NET. Finally, you'll learn about performance and benchmarking improvements for your apps.
+
+By the end of this book, you’ll be able to fully leverage new features in .NET 6 for API development and explore how Minimal APIs are an evolution over classical web API development in ASP.NET Core.
+
+[Buy this book](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)
+
+![](https://static.packt-cdn.com/products/9781803237824/cover/smaller)
+
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
