@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3283](https://github.com/kamranahmedse/developer-roadmap/issues/3283) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-2. ❗️ Opened issue [#3282](https://github.com/kamranahmedse/developer-roadmap/issues/3282) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-3. 💪 Opened PR [#1](https://github.com/glconti/insomnia-plugin-azure-keyvault-secrets/pull/1) in [glconti/insomnia-plugin-azure-keyvault-secrets](https://github.com/glconti/insomnia-plugin-azure-keyvault-secrets)
-4. 🎉 Merged PR [#11](https://github.com/kasuken/BlazorKit.Spinners/pull/11) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-5. ❗️ Opened issue [#2](https://github.com/matthiasjost/dotnet-creators-opml/issues/2) in [matthiasjost/dotnet-creators-opml](https://github.com/matthiasjost/dotnet-creators-opml)
+1. 🎉 Merged PR [#1](https://github.com/kasuken/ShopWest/pull/1) in [kasuken/ShopWest](https://github.com/kasuken/ShopWest)
+2. 💪 Opened PR [#1](https://github.com/kasuken/ShopWest/pull/1) in [kasuken/ShopWest](https://github.com/kasuken/ShopWest)
+3. ❗️ Opened issue [#3283](https://github.com/kamranahmedse/developer-roadmap/issues/3283) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+4. ❗️ Opened issue [#3282](https://github.com/kamranahmedse/developer-roadmap/issues/3282) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+5. 💪 Opened PR [#1](https://github.com/glconti/insomnia-plugin-azure-keyvault-secrets/pull/1) in [glconti/insomnia-plugin-azure-keyvault-secrets](https://github.com/glconti/insomnia-plugin-azure-keyvault-secrets)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
