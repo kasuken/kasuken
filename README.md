@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0048](https://dev.to/kasuken/weekly-0048-46fl)
 - [Update the HTML head from a Blazor component](https://dev.to/kasuken/update-the-html-head-from-a-blazor-component-3om0)
 - [Weekly 0047](https://dev.to/kasuken/weekly-0047-12a0)
 - [Accessing hidden Edge Features and Settings](https://dev.to/kasuken/accessing-hidden-edge-features-and-settings-5882)
 - [Weekly 0046](https://dev.to/kasuken/weekly-0046-1n00)
-- [Using Elgato Stream Deck with Microsoft Teams](https://dev.to/kasuken/using-elgato-stream-deck-with-microsoft-teams-7hg)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
