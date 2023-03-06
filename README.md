@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Day 03](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-day-03-3f5p)
 - [Weekly 0050](https://dev.to/kasuken/weekly-0050-3244)
 - [Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Day 02](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-day-02-10ne)
 - [Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Day 01](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-day-01-3a5f)
 - [Weekly 49](https://dev.to/kasuken/weekly-49-3g44)
-- [Customizing Swagger in Azure Functions](https://dev.to/kasuken/customizing-swagger-in-azure-functions-87m)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
