@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0051](https://dev.to/kasuken/weekly-0051-1li2)
 - [Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Day 06](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-day-06-39ji)
 - [Microsoft Ignite Spotlight on Switzerland - My experience at Ask The Experts table](https://dev.to/kasuken/microsoft-ignite-spotlight-on-switzerland-my-experience-at-ask-the-experts-table-27k2)
 - [Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Day 05](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-day-05-4eih)
 - [Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Day 04](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-day-04-2jhk)
-- [Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Day 03](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-day-03-3f5p)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
