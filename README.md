@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#95](https://github.com/vitalybibikov/AzureExtensions.Swashbuckle/issues/95) in [vitalybibikov/AzureExtensions.Swashbuckle](https://github.com/vitalybibikov/AzureExtensions.Swashbuckle)
-2. 🎉 Merged PR [#1](https://github.com/kasuken/ShopWest/pull/1) in [kasuken/ShopWest](https://github.com/kasuken/ShopWest)
-3. 💪 Opened PR [#1](https://github.com/kasuken/ShopWest/pull/1) in [kasuken/ShopWest](https://github.com/kasuken/ShopWest)
-4. ❗️ Opened issue [#3283](https://github.com/kamranahmedse/developer-roadmap/issues/3283) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
-5. ❗️ Opened issue [#3282](https://github.com/kamranahmedse/developer-roadmap/issues/3282) in [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+1. ❗️ Closed issue [#1](https://github.com/kasuken/powershell-snippets-vscode/issues/1) in [kasuken/powershell-snippets-vscode](https://github.com/kasuken/powershell-snippets-vscode)
+2. 🗣 Commented on [#1](https://github.com/kasuken/powershell-snippets-vscode/issues/1) in [kasuken/powershell-snippets-vscode](https://github.com/kasuken/powershell-snippets-vscode)
+3. 🗣 Commented on [#95](https://github.com/vitalybibikov/AzureExtensions.Swashbuckle/issues/95) in [vitalybibikov/AzureExtensions.Swashbuckle](https://github.com/vitalybibikov/AzureExtensions.Swashbuckle)
+4. 🎉 Merged PR [#1](https://github.com/kasuken/ShopWest/pull/1) in [kasuken/ShopWest](https://github.com/kasuken/ShopWest)
+5. 💪 Opened PR [#1](https://github.com/kasuken/ShopWest/pull/1) in [kasuken/ShopWest](https://github.com/kasuken/ShopWest)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
