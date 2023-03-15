@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/milano-js/good-party-2018/issues/4) in [milano-js/good-party-2018](https://github.com/milano-js/good-party-2018)
-2. ❌ Closed PR [#6](https://github.com/spboyer/dotnet-upforgrabs/pull/6) in [spboyer/dotnet-upforgrabs](https://github.com/spboyer/dotnet-upforgrabs)
-3. 🎉 Merged PR [#38](https://github.com/Bad-Developers-Troop/polarisdesk/pull/38) in [Bad-Developers-Troop/polarisdesk](https://github.com/Bad-Developers-Troop/polarisdesk)
-4. ❗️ Closed issue [#1](https://github.com/kasuken/powershell-snippets-vscode/issues/1) in [kasuken/powershell-snippets-vscode](https://github.com/kasuken/powershell-snippets-vscode)
-5. 🗣 Commented on [#1](https://github.com/kasuken/powershell-snippets-vscode/issues/1) in [kasuken/powershell-snippets-vscode](https://github.com/kasuken/powershell-snippets-vscode)
+1. ❗️ Opened issue [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
+2. ❗️ Closed issue [#4](https://github.com/milano-js/good-party-2018/issues/4) in [milano-js/good-party-2018](https://github.com/milano-js/good-party-2018)
+3. ❌ Closed PR [#6](https://github.com/spboyer/dotnet-upforgrabs/pull/6) in [spboyer/dotnet-upforgrabs](https://github.com/spboyer/dotnet-upforgrabs)
+4. 🎉 Merged PR [#38](https://github.com/Bad-Developers-Troop/polarisdesk/pull/38) in [Bad-Developers-Troop/polarisdesk](https://github.com/Bad-Developers-Troop/polarisdesk)
+5. ❗️ Closed issue [#1](https://github.com/kasuken/powershell-snippets-vscode/issues/1) in [kasuken/powershell-snippets-vscode](https://github.com/kasuken/powershell-snippets-vscode)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
