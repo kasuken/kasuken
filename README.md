@@ -134,10 +134,10 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
-2. 🎉 Merged PR [#1](https://github.com/kasuken/M365-Today/pull/1) in [kasuken/M365-Today](https://github.com/kasuken/M365-Today)
-3. 💪 Opened PR [#1](https://github.com/kasuken/M365-Today/pull/1) in [kasuken/M365-Today](https://github.com/kasuken/M365-Today)
-4. ❗️ Opened issue [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
-5. ❗️ Closed issue [#4](https://github.com/milano-js/good-party-2018/issues/4) in [milano-js/good-party-2018](https://github.com/milano-js/good-party-2018)
+2. 🗣 Commented on [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
+3. 🎉 Merged PR [#1](https://github.com/kasuken/M365-Today/pull/1) in [kasuken/M365-Today](https://github.com/kasuken/M365-Today)
+4. 💪 Opened PR [#1](https://github.com/kasuken/M365-Today/pull/1) in [kasuken/M365-Today](https://github.com/kasuken/M365-Today)
+5. ❗️ Opened issue [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
