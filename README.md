@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
+1. 🗣 Commented on [#3](https://github.com/kasuken/stone.css/issues/3) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
 2. 🗣 Commented on [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
-3. 🎉 Merged PR [#1](https://github.com/kasuken/M365-Today/pull/1) in [kasuken/M365-Today](https://github.com/kasuken/M365-Today)
-4. 💪 Opened PR [#1](https://github.com/kasuken/M365-Today/pull/1) in [kasuken/M365-Today](https://github.com/kasuken/M365-Today)
-5. ❗️ Opened issue [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
+3. 🗣 Commented on [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
+4. 🎉 Merged PR [#1](https://github.com/kasuken/M365-Today/pull/1) in [kasuken/M365-Today](https://github.com/kasuken/M365-Today)
+5. 💪 Opened PR [#1](https://github.com/kasuken/M365-Today/pull/1) in [kasuken/M365-Today](https://github.com/kasuken/M365-Today)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
