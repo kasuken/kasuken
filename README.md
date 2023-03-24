@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/WeAreDotnet/dotnet-creator-cards/pull/83) in [WeAreDotnet/dotnet-creator-cards](https://github.com/WeAreDotnet/dotnet-creator-cards)
-2. 🗣 Commented on [#3](https://github.com/kasuken/stone.css/issues/3) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
-3. 🗣 Commented on [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
+1. 💪 Opened PR [#40](https://github.com/marcominerva/ChatGptNet/pull/40) in [marcominerva/ChatGptNet](https://github.com/marcominerva/ChatGptNet)
+2. 💪 Opened PR [#83](https://github.com/WeAreDotnet/dotnet-creator-cards/pull/83) in [WeAreDotnet/dotnet-creator-cards](https://github.com/WeAreDotnet/dotnet-creator-cards)
+3. 🗣 Commented on [#3](https://github.com/kasuken/stone.css/issues/3) in [kasuken/stone.css](https://github.com/kasuken/stone.css)
 4. 🗣 Commented on [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
-5. 🎉 Merged PR [#1](https://github.com/kasuken/M365-Today/pull/1) in [kasuken/M365-Today](https://github.com/kasuken/M365-Today)
+5. 🗣 Commented on [#195](https://github.com/microsoft/hack-together/issues/195) in [microsoft/hack-together](https://github.com/microsoft/hack-together)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
