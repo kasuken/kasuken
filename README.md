@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#148](https://github.com/marcominerva/TinyHelpers/pull/148) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
-2. 💪 Opened PR [#146](https://github.com/marcominerva/TinyHelpers/pull/146) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
-3. 💪 Opened PR [#145](https://github.com/marcominerva/TinyHelpers/pull/145) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
-4. ❗️ Closed issue [#4](https://github.com/kasuken/fakerestapi/issues/4) in [kasuken/fakerestapi](https://github.com/kasuken/fakerestapi)
-5. 🗣 Commented on [#4](https://github.com/kasuken/fakerestapi/issues/4) in [kasuken/fakerestapi](https://github.com/kasuken/fakerestapi)
+1. 💪 Opened PR [#29](https://github.com/GuidoPenta/awesome-italian-tech-communities/pull/29) in [GuidoPenta/awesome-italian-tech-communities](https://github.com/GuidoPenta/awesome-italian-tech-communities)
+2. 💪 Opened PR [#148](https://github.com/marcominerva/TinyHelpers/pull/148) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
+3. 💪 Opened PR [#146](https://github.com/marcominerva/TinyHelpers/pull/146) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
+4. 💪 Opened PR [#145](https://github.com/marcominerva/TinyHelpers/pull/145) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
+5. ❗️ Closed issue [#4](https://github.com/kasuken/fakerestapi/issues/4) in [kasuken/fakerestapi](https://github.com/kasuken/fakerestapi)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
