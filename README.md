@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0054](https://dev.to/kasuken/weekly-0054-2l2)
 - [My LinkedIn Course &quot;Learning GitHub&quot; by numbers](https://dev.to/this-is-learning/my-linkedin-course-learning-github-by-numbers-237j)
 - [Weekly 0053](https://dev.to/kasuken/weekly-0053-2enc)
 - [Debugging Multiple .NET Projects in VS Code](https://dev.to/this-is-learning/debugging-multiple-net-projects-in-vs-code-28kn)
 - [Weekly 0052](https://dev.to/kasuken/weekly-0052-4had)
-- [Hackathon - Hack Together: Microsoft Graph and .NET 🦒 - Submission Day!](https://dev.to/kasuken/hackathon-hack-together-microsoft-graph-and-net-submission-day-3kam)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
