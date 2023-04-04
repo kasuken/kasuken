@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/kasuken/BlazorKit.Spinners/issues/12) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-2. 💪 Opened PR [#30](https://github.com/GuidoPenta/awesome-italian-tech-communities/pull/30) in [GuidoPenta/awesome-italian-tech-communities](https://github.com/GuidoPenta/awesome-italian-tech-communities)
-3. 💪 Opened PR [#29](https://github.com/GuidoPenta/awesome-italian-tech-communities/pull/29) in [GuidoPenta/awesome-italian-tech-communities](https://github.com/GuidoPenta/awesome-italian-tech-communities)
-4. 💪 Opened PR [#148](https://github.com/marcominerva/TinyHelpers/pull/148) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
-5. 💪 Opened PR [#146](https://github.com/marcominerva/TinyHelpers/pull/146) in [marcominerva/TinyHelpers](https://github.com/marcominerva/TinyHelpers)
+1. ❗️ Closed issue [#12](https://github.com/kasuken/BlazorKit.Spinners/issues/12) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+2. 🎉 Merged PR [#14](https://github.com/kasuken/BlazorKit.Spinners/pull/14) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+3. ❗️ Opened issue [#12](https://github.com/kasuken/BlazorKit.Spinners/issues/12) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+4. 💪 Opened PR [#30](https://github.com/GuidoPenta/awesome-italian-tech-communities/pull/30) in [GuidoPenta/awesome-italian-tech-communities](https://github.com/GuidoPenta/awesome-italian-tech-communities)
+5. 💪 Opened PR [#29](https://github.com/GuidoPenta/awesome-italian-tech-communities/pull/29) in [GuidoPenta/awesome-italian-tech-communities](https://github.com/GuidoPenta/awesome-italian-tech-communities)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
