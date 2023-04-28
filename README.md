@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Create an Azure Function with PowerShell and Visual Studio Code](https://dev.to/this-is-learning/create-an-azure-function-with-powershell-and-visual-studio-code-3k9n)
 - [How to Clean Up ASP.NET and Visual Studio Cache and Temp Files](https://dev.to/this-is-learning/how-to-clean-up-aspnet-and-visual-studio-cache-and-temp-files-2oee)
 - [Weekly 0055](https://dev.to/kasuken/weekly-0055-2a2d)
 - [Weekly 0054](https://dev.to/kasuken/weekly-0054-2l2)
 - [My LinkedIn Course &quot;Learning GitHub&quot; by numbers](https://dev.to/this-is-learning/my-linkedin-course-learning-github-by-numbers-237j)
-- [Weekly 0053](https://dev.to/kasuken/weekly-0053-2enc)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
