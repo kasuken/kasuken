@@ -133,8 +133,8 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#12](https://github.com/kasuken/BlazorKit.Spinners/issues/12) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
-2. 🎉 Merged PR [#14](https://github.com/kasuken/BlazorKit.Spinners/pull/14) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
+1. 🎉 Merged PR [#2](https://github.com/kasuken/Horostory.API/pull/2) in [kasuken/Horostory.API](https://github.com/kasuken/Horostory.API)
+2. 💪 Opened PR [#2](https://github.com/kasuken/Horostory.API/pull/2) in [kasuken/Horostory.API](https://github.com/kasuken/Horostory.API)
 3. ❗️ Opened issue [#12](https://github.com/kasuken/BlazorKit.Spinners/issues/12) in [kasuken/BlazorKit.Spinners](https://github.com/kasuken/BlazorKit.Spinners)
 4. 💪 Opened PR [#30](https://github.com/GuidoPenta/awesome-italian-tech-communities/pull/30) in [GuidoPenta/awesome-italian-tech-communities](https://github.com/GuidoPenta/awesome-italian-tech-communities)
 5. 💪 Opened PR [#29](https://github.com/GuidoPenta/awesome-italian-tech-communities/pull/29) in [GuidoPenta/awesome-italian-tech-communities](https://github.com/GuidoPenta/awesome-italian-tech-communities)
