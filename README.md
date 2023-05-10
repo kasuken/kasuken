@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Visual Studio Like a Pro When Presenting Your Code](https://dev.to/this-is-learning/how-to-use-visual-studio-like-a-pro-when-presenting-your-code-5955)
 - [Week 0058](https://dev.to/kasuken/week-0058-l06)
 - [How to Use Promise.all and Promise.race to Speed Up Your JavaScript Code](https://dev.to/this-is-learning/how-to-use-promiseall-and-promiseraceto-speed-up-your-javascript-code-3obh)
 - [Async and Await in Vanilla JavaScript](https://dev.to/this-is-learning/async-and-await-in-vanilla-javascript-2mep)
 - [Week 0056](https://dev.to/kasuken/week-0056-2843)
-- [Create an Azure Function with PowerShell and Visual Studio Code](https://dev.to/this-is-learning/create-an-azure-function-with-powershell-and-visual-studio-code-3k9n)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
