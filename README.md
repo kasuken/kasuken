@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Write Better PowerShell Scripts: Architecture and Best Practices](https://dev.to/this-is-learning/how-to-write-better-powershell-scripts-architecture-and-best-practices-emh)
 - [Weekly 0060](https://dev.to/kasuken/weekly-0060-1ac1)
 - [How to Unleash the Power of Multithreading in JavaScript with Web Workers](https://dev.to/this-is-learning/how-to-unleash-the-power-of-multithreading-in-javascript-with-web-workers-20m5)
 - [Weekly 0059](https://dev.to/kasuken/weekly-0059-1c4j)
 - [How to Use Visual Studio Like a Pro When Presenting Your Code](https://dev.to/this-is-learning/how-to-use-visual-studio-like-a-pro-when-presenting-your-code-5955)
-- [Week 0058](https://dev.to/kasuken/week-0058-l06)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
