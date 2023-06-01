@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Visual Studio 2022: A New Way to Work with HTTP Requests and Responses](https://dev.to/this-is-learning/visual-studio-2022-a-new-way-to-work-with-http-requests-and-responses-41hp)
 - [Understanding and Using ConfigureAwait in Asynchronous Programming](https://dev.to/this-is-learning/understanding-and-using-configureawait-in-asynchronous-programming-2da3)
 - [The Top 5 Best Takeaways from Microsoft Build 2023](https://dev.to/this-is-learning/the-top-5-best-takeaways-from-microsoft-build-2023-43nh)
 - [How to Write Better PowerShell Scripts: Architecture and Best Practices](https://dev.to/this-is-learning/how-to-write-better-powershell-scripts-architecture-and-best-practices-emh)
 - [Weekly 0060](https://dev.to/kasuken/weekly-0060-1ac1)
-- [How to Unleash the Power of Multithreading in JavaScript with Web Workers](https://dev.to/this-is-learning/how-to-unleash-the-power-of-multithreading-in-javascript-with-web-workers-20m5)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
