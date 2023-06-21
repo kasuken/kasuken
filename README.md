@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0064](https://dev.to/kasuken/weekly-0064-3edi)
 - [How to Clean Up Your Local Repository with Git Commands](https://dev.to/this-is-learning/how-to-clean-up-your-local-repository-with-git-commands-531o)
 - [Weekly 0063](https://dev.to/kasuken/weekly-0063-n74)
 - [How to Boost Your Web Performance with HTML5 Features](https://dev.to/this-is-learning/how-to-boost-your-web-performance-with-html5-features-4027)
 - [Safari 17 Beta: A Game Changer for PWAs on MacOS](https://dev.to/this-is-learning/safari-17-beta-a-game-changer-for-pwas-on-macos-ddp)
-- [Weekly 0062](https://dev.to/kasuken/weekly-0062-4mho)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
