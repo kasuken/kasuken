@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I’m Back on Twitch! Join Me for Live Coding, Learning, and Fun!](https://dev.to/kasuken/im-back-on-twitch-join-me-for-live-coding-learning-and-fun-4p4a)
 - [Why You Should Attend Experts Live Europe 2023](https://dev.to/kasuken/why-you-should-attend-experts-live-europe-2023-4ldp)
 - [How to prevent the screen turn off after a while in Blazor](https://dev.to/this-is-learning/how-to-prevent-the-screen-turn-off-after-a-while-in-blazor-4b29)
 - [Celebrating 10 Years as a Microsoft MVP 🎉](https://dev.to/kasuken/celebrating-10-years-as-a-microsoft-mvp-2bed)
 - [Backend development is more than writing endpoints for frontend](https://dev.to/this-is-learning/backend-development-is-more-than-writing-endpoints-for-frontend-gl1)
-- [Weekly 0064](https://dev.to/kasuken/weekly-0064-3edi)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
