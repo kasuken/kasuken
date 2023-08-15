@@ -133,8 +133,8 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Tanddant/ModernVersionHistory/pull/1) in [Tanddant/ModernVersionHistory](https://github.com/Tanddant/ModernVersionHistory)
-2. 💪 Opened PR [#3](https://github.com/kasuken/Horostory.API/pull/3) in [kasuken/Horostory.API](https://github.com/kasuken/Horostory.API)
+1. 🗣 Commented on [#1](https://github.com/Tanddant/ModernVersionHistory/pull/1#issuecomment-1678887255) in [Tanddant/ModernVersionHistory](https://github.com/Tanddant/ModernVersionHistory)
+2. 💪 Opened PR [#1](https://github.com/Tanddant/ModernVersionHistory/pull/1) in [Tanddant/ModernVersionHistory](https://github.com/Tanddant/ModernVersionHistory)
 3. 🎉 Merged PR [#2](https://github.com/kasuken/Horostory.API/pull/2) in [kasuken/Horostory.API](https://github.com/kasuken/Horostory.API)
 4. 💪 Opened PR [#2](https://github.com/kasuken/Horostory.API/pull/2) in [kasuken/Horostory.API](https://github.com/kasuken/Horostory.API)
 5. 💪 Opened PR [#29](https://github.com/GuidoPenta/awesome-italian-tech-communities/pull/29) in [GuidoPenta/awesome-italian-tech-communities](https://github.com/GuidoPenta/awesome-italian-tech-communities)
