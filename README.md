@@ -133,7 +133,7 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/kasuken/Horostory.API/pull/3) in [kasuken/Horostory.API](https://github.com/kasuken/Horostory.API)
+1. 💪 Opened PR [#1](https://github.com/Tanddant/ModernVersionHistory/pull/1) in [Tanddant/ModernVersionHistory](https://github.com/Tanddant/ModernVersionHistory)
 2. 💪 Opened PR [#3](https://github.com/kasuken/Horostory.API/pull/3) in [kasuken/Horostory.API](https://github.com/kasuken/Horostory.API)
 3. 🎉 Merged PR [#2](https://github.com/kasuken/Horostory.API/pull/2) in [kasuken/Horostory.API](https://github.com/kasuken/Horostory.API)
 4. 💪 Opened PR [#2](https://github.com/kasuken/Horostory.API/pull/2) in [kasuken/Horostory.API](https://github.com/kasuken/Horostory.API)
