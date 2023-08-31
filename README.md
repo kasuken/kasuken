@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/kasuken/Passwordify/issues/2) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-2. ❗ Opened issue [#1](https://github.com/kasuken/Passwordify/issues/1) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-3. 💪 Opened PR [#630](https://github.com/estruyf/vscode-front-matter/pull/630) in [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
-4. 🗣 Commented on [#1](https://github.com/Tanddant/ModernVersionHistory/pull/1#issuecomment-1678887255) in [Tanddant/ModernVersionHistory](https://github.com/Tanddant/ModernVersionHistory)
-5. 💪 Opened PR [#1](https://github.com/Tanddant/ModernVersionHistory/pull/1) in [Tanddant/ModernVersionHistory](https://github.com/Tanddant/ModernVersionHistory)
+1. ❗ Opened issue [#5](https://github.com/kasuken/Passwordify/issues/5) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+2. ❗ Opened issue [#4](https://github.com/kasuken/Passwordify/issues/4) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+3. ❗ Opened issue [#2](https://github.com/kasuken/Passwordify/issues/2) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+4. ❗ Opened issue [#1](https://github.com/kasuken/Passwordify/issues/1) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+5. 💪 Opened PR [#630](https://github.com/estruyf/vscode-front-matter/pull/630) in [estruyf/vscode-front-matter](https://github.com/estruyf/vscode-front-matter)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
