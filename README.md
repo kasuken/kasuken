@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/kasuken/Passwordify/issues/1) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-2. 🎉 Merged PR [#3](https://github.com/kasuken/Passwordify/pull/3) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-3. ❗ Opened issue [#5](https://github.com/kasuken/Passwordify/issues/5) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-4. ❗ Opened issue [#4](https://github.com/kasuken/Passwordify/issues/4) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-5. ❗ Opened issue [#2](https://github.com/kasuken/Passwordify/issues/2) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+1. 🎉 Merged PR [#15](https://github.com/kasuken/emanuelebartolesi.com/pull/15) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+2. 💪 Opened PR [#15](https://github.com/kasuken/emanuelebartolesi.com/pull/15) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+3. 🎉 Merged PR [#14](https://github.com/kasuken/emanuelebartolesi.com/pull/14) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+4. 💪 Opened PR [#14](https://github.com/kasuken/emanuelebartolesi.com/pull/14) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+5. 🎉 Merged PR [#13](https://github.com/kasuken/emanuelebartolesi.com/pull/13) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
