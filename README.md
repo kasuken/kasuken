@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Contact Form with Microsoft Azure and Blazor](https://dev.to/this-is-learning/building-a-contact-form-with-microsoft-azure-and-blazor-3fbh)
 - [Weekly 0067](https://dev.to/kasuken/weekly-0067-53d6)
 - [Setting up VS Code for C# development](https://dev.to/this-is-learning/setting-up-vs-code-for-c-development-21do)
 - [Weekly 0066](https://dev.to/kasuken/weekly-0066-18hk)
 - [PowerShell: Turn Your Custom Objects into CSV Files &lpar;and vice versa&rpar; with a Snap of Your Fingers](https://dev.to/this-is-learning/powershell-turn-your-custom-objects-into-csv-files-and-vice-versa-with-a-snap-of-your-fingers-ifk)
-- [I’m Back on Twitch! Join Me for Live Coding, Learning, and Fun!](https://dev.to/kasuken/im-back-on-twitch-join-me-for-live-coding-learning-and-fun-4p4a)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
