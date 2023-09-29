@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Experts Live 2023 - My Recap](https://dev.to/this-is-learning/experts-live-2023-my-recap-4ack)
 - [What&#39;s in my bag for Experts Live Europe](https://dev.to/this-is-learning/whats-in-my-bag-for-experts-live-europe-9dn)
 - [Weekly 0068](https://dev.to/kasuken/weekly-0068-2og2)
 - [Building a Contact Form with Microsoft Azure and Blazor](https://dev.to/this-is-learning/building-a-contact-form-with-microsoft-azure-and-blazor-3fbh)
 - [Weekly 0067](https://dev.to/kasuken/weekly-0067-53d6)
-- [Setting up VS Code for C# development](https://dev.to/this-is-learning/setting-up-vs-code-for-c-development-21do)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
