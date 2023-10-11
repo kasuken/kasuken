@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/kasuken/Passwordify/pull/9) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-2. 🔒 Closed issue [#4](https://github.com/kasuken/Passwordify/issues/4) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-3. 🎉 Merged PR [#7](https://github.com/kasuken/Passwordify/pull/7) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-4. 🔒 Closed issue [#5](https://github.com/kasuken/Passwordify/issues/5) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-5. 🎉 Merged PR [#8](https://github.com/kasuken/Passwordify/pull/8) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+1. 🗣 Commented on [#1](https://github.com/mjtpena/CloudIcons/issues/1#issuecomment-1757528626) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
+2. ❗ Opened issue [#1](https://github.com/mjtpena/CloudIcons/issues/1) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
+3. 🎉 Merged PR [#9](https://github.com/kasuken/Passwordify/pull/9) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+4. 🔒 Closed issue [#4](https://github.com/kasuken/Passwordify/issues/4) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+5. 🎉 Merged PR [#7](https://github.com/kasuken/Passwordify/pull/7) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
