@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to avoid Microsoft Graph API throttling and optimize network traffic](https://dev.to/this-is-learning/how-to-avoid-microsoft-graph-api-throttling-and-optimize-network-traffic-5c2g)
 - [Azure Automation vs Azure Functions with Powershell](https://dev.to/this-is-learning/azure-automation-vs-azure-functions-with-powershell-ef)
 - [Weekly 0070](https://dev.to/kasuken/weekly-0070-321)
 - [Experts Live 2023 - My Recap](https://dev.to/this-is-learning/experts-live-2023-my-recap-4ack)
 - [What&#39;s in my bag for Experts Live Europe](https://dev.to/this-is-learning/whats-in-my-bag-for-experts-live-europe-9dn)
-- [Weekly 0068](https://dev.to/kasuken/weekly-0068-2og2)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
