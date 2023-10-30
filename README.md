@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Recap Codemotion 2023](https://dev.to/this-is-learning/recap-codemotion-2023-1o6c)
 - [How to Release a Side Project as a Real Product](https://dev.to/this-is-learning/how-to-release-a-side-project-as-a-real-product-emj)
 - [How To Handle Microsoft Graph Paging in PowerShell](https://dev.to/this-is-learning/how-to-handle-microsoft-graph-paging-in-powershell-4l8m)
 - [How to avoid Microsoft Graph API throttling and optimize network traffic](https://dev.to/this-is-learning/how-to-avoid-microsoft-graph-api-throttling-and-optimize-network-traffic-5c2g)
 - [Azure Automation vs Azure Functions with Powershell](https://dev.to/this-is-learning/azure-automation-vs-azure-functions-with-powershell-ef)
-- [Weekly 0070](https://dev.to/kasuken/weekly-0070-321)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
