@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/mjtpena/CloudIcons/pull/2#issuecomment-1768170871) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
-2. 🗣 Commented on [#2](https://github.com/mjtpena/CloudIcons/pull/2#issuecomment-1762051776) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
-3. 💪 Opened PR [#2](https://github.com/mjtpena/CloudIcons/pull/2) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
-4. 🗣 Commented on [#1](https://github.com/mjtpena/CloudIcons/issues/1#issuecomment-1757528626) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
-5. ❗ Opened issue [#1](https://github.com/mjtpena/CloudIcons/issues/1) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
+1. 🎉 Merged PR [#16](https://github.com/kasuken/emanuelebartolesi.com/pull/16) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+2. 💪 Opened PR [#16](https://github.com/kasuken/emanuelebartolesi.com/pull/16) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+3. 🗣 Commented on [#2](https://github.com/mjtpena/CloudIcons/pull/2#issuecomment-1768170871) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
+4. 🗣 Commented on [#2](https://github.com/mjtpena/CloudIcons/pull/2#issuecomment-1762051776) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
+5. 💪 Opened PR [#2](https://github.com/mjtpena/CloudIcons/pull/2) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
