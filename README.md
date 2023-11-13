@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I love Monaspace font for coding](https://dev.to/this-is-learning/why-i-love-monaspace-font-for-coding-47e7)
 - [Recap Codemotion 2023](https://dev.to/this-is-learning/recap-codemotion-2023-1o6c)
 - [How to Release a Side Project as a Real Product](https://dev.to/this-is-learning/how-to-release-a-side-project-as-a-real-product-emj)
 - [How To Handle Microsoft Graph Paging in PowerShell](https://dev.to/this-is-learning/how-to-handle-microsoft-graph-paging-in-powershell-4l8m)
 - [How to avoid Microsoft Graph API throttling and optimize network traffic](https://dev.to/this-is-learning/how-to-avoid-microsoft-graph-api-throttling-and-optimize-network-traffic-5c2g)
-- [Azure Automation vs Azure Functions with Powershell](https://dev.to/this-is-learning/azure-automation-vs-azure-functions-with-powershell-ef)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
