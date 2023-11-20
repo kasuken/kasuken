@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/kasuken/Passwordify/pull/10) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-2. 🎉 Merged PR [#16](https://github.com/kasuken/emanuelebartolesi.com/pull/16) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-3. 💪 Opened PR [#16](https://github.com/kasuken/emanuelebartolesi.com/pull/16) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-4. 🗣 Commented on [#2](https://github.com/mjtpena/CloudIcons/pull/2#issuecomment-1768170871) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
-5. 🗣 Commented on [#2](https://github.com/mjtpena/CloudIcons/pull/2#issuecomment-1762051776) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
+1. 💪 Opened PR [#1692](https://github.com/wesbos/awesome-uses/pull/1692) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+2. 🎉 Merged PR [#10](https://github.com/kasuken/Passwordify/pull/10) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+3. 🎉 Merged PR [#16](https://github.com/kasuken/emanuelebartolesi.com/pull/16) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+4. 💪 Opened PR [#16](https://github.com/kasuken/emanuelebartolesi.com/pull/16) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+5. 🗣 Commented on [#2](https://github.com/mjtpena/CloudIcons/pull/2#issuecomment-1768170871) in [mjtpena/CloudIcons](https://github.com/mjtpena/CloudIcons)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
