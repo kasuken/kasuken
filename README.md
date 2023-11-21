@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Set up GitHub Codespaces for a .NET 8 application](https://dev.to/this-is-learning/set-up-github-codespaces-for-a-net-8-application-5999)
+- [GitHub Codespaces: A Faster Way to Develop in the Cloud](https://dev.to/this-is-learning/github-codespaces-a-faster-way-to-develop-in-the-cloud-2ml4)
 - [ESPC 2023: How to Spice Up Your Meetings with Microsoft Teams Meeting Extensions](https://dev.to/kasuken/espc-2023-how-to-spice-up-your-meetings-with-microsoft-teams-meeting-extensions-20kg)
 - [Why I love Monaspace font for coding](https://dev.to/this-is-learning/why-i-love-monaspace-font-for-coding-47e7)
 - [Recap Codemotion 2023](https://dev.to/this-is-learning/recap-codemotion-2023-1o6c)
-- [How to Release a Side Project as a Real Product](https://dev.to/this-is-learning/how-to-release-a-side-project-as-a-real-product-emj)
-- [How To Handle Microsoft Graph Paging in PowerShell](https://dev.to/this-is-learning/how-to-handle-microsoft-graph-paging-in-powershell-4l8m)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
