@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to retrieve sub properties in a PowerShell script with the Invoke-Expression method](https://dev.to/this-is-learning/how-to-retrieve-sub-properties-in-a-powershell-script-with-the-invoke-expression-method-16f4)
 - [Fetching and Publishing Settings for Azure Functions with Azure Functions Core Tools Command Line](https://dev.to/this-is-learning/fetching-and-publishing-settings-for-azure-functions-with-azure-functions-core-tools-command-line-4akj)
 - [Developers and Sherpas: A Mountainous Analogy](https://dev.to/this-is-learning/developers-and-sherpas-a-mountainous-analogy-362i)
 - [Set up GitHub Codespaces for a .NET 8 application](https://dev.to/this-is-learning/set-up-github-codespaces-for-a-net-8-application-5999)
 - [GitHub Codespaces: A Faster Way to Develop in the Cloud](https://dev.to/this-is-learning/github-codespaces-a-faster-way-to-develop-in-the-cloud-2ml4)
-- [ESPC 2023: How to Spice Up Your Meetings with Microsoft Teams Meeting Extensions](https://dev.to/kasuken/espc-2023-how-to-spice-up-your-meetings-with-microsoft-teams-meeting-extensions-20kg)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
