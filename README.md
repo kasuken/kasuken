@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Speak the Language of the Internet: A Introduction to the Most Common Network Protocols](https://dev.to/this-is-learning/how-to-speak-the-language-of-the-internet-a-guide-to-the-most-common-network-protocols-j8e)
 - [The Power of Atomic Commits in Git: How and Why to Do It](https://dev.to/this-is-learning/the-power-of-atomic-commits-in-git-how-and-why-to-do-it-54mn)
 - [How to retrieve sub properties in a PowerShell script with the Invoke-Expression method](https://dev.to/this-is-learning/how-to-retrieve-sub-properties-in-a-powershell-script-with-the-invoke-expression-method-16f4)
 - [Fetching and Publishing Settings for Azure Functions with Azure Functions Core Tools Command Line](https://dev.to/this-is-learning/fetching-and-publishing-settings-for-azure-functions-with-azure-functions-core-tools-command-line-4akj)
 - [Developers and Sherpas: A Mountainous Analogy](https://dev.to/this-is-learning/developers-and-sherpas-a-mountainous-analogy-362i)
-- [Set up GitHub Codespaces for a .NET 8 application](https://dev.to/this-is-learning/set-up-github-codespaces-for-a-net-8-application-5999)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
