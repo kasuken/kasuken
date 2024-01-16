@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#75](https://github.com/kasuken/SonequaBot/pull/75) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
-2. 🎉 Merged PR [#76](https://github.com/kasuken/SonequaBot/pull/76) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
-3. 💪 Opened PR [#1692](https://github.com/wesbos/awesome-uses/pull/1692) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
-4. 🎉 Merged PR [#10](https://github.com/kasuken/Passwordify/pull/10) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-5. 🎉 Merged PR [#16](https://github.com/kasuken/emanuelebartolesi.com/pull/16) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+1. 💪 Opened PR [#40](https://github.com/pnp/spfx-reference-scenarios/pull/40) in [pnp/spfx-reference-scenarios](https://github.com/pnp/spfx-reference-scenarios)
+2. ❌ Closed PR [#75](https://github.com/kasuken/SonequaBot/pull/75) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
+3. 🎉 Merged PR [#76](https://github.com/kasuken/SonequaBot/pull/76) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
+4. 💪 Opened PR [#1692](https://github.com/wesbos/awesome-uses/pull/1692) in [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses)
+5. 🎉 Merged PR [#10](https://github.com/kasuken/Passwordify/pull/10) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
