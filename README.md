@@ -133,11 +133,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/pnp/pnp-test-sample-validation/pull/3) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
-2. ❌ Closed PR [#2](https://github.com/pnp/pnp-test-sample-validation/pull/2) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
-3. 💪 Opened PR [#40](https://github.com/pnp/spfx-reference-scenarios/pull/40) in [pnp/spfx-reference-scenarios](https://github.com/pnp/spfx-reference-scenarios)
-4. ❌ Closed PR [#75](https://github.com/kasuken/SonequaBot/pull/75) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
-5. 🎉 Merged PR [#76](https://github.com/kasuken/SonequaBot/pull/76) in [kasuken/SonequaBot](https://github.com/kasuken/SonequaBot)
+1. 💪 Opened PR [#8](https://github.com/pnp/pnp-test-sample-validation/pull/8) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
+2. ❌ Closed PR [#7](https://github.com/pnp/pnp-test-sample-validation/pull/7) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
+3. 💪 Opened PR [#7](https://github.com/pnp/pnp-test-sample-validation/pull/7) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
+4. ❌ Closed PR [#6](https://github.com/pnp/pnp-test-sample-validation/pull/6) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
+5. 💪 Opened PR [#6](https://github.com/pnp/pnp-test-sample-validation/pull/6) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
