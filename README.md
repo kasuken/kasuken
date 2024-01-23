@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Add Controllers To A Blazor Server App](https://dev.to/this-is-learning/how-to-add-controllers-to-a-blazor-server-app-a9)
 - [My Wrap Up of 2023: A Year of Growth and Recognition](https://dev.to/this-is-learning/my-wrap-up-of-2023-a-year-of-growth-and-recognition-4b6n)
 - [Keep Your Email out of Recipients’ Spam Folders](https://dev.to/this-is-learning/keep-your-email-out-of-recipients-spam-folders-177b)
 - [How to Speak the Language of the Internet: A Introduction to the Most Common Network Protocols](https://dev.to/this-is-learning/how-to-speak-the-language-of-the-internet-a-guide-to-the-most-common-network-protocols-j8e)
 - [The Power of Atomic Commits in Git: How and Why to Do It](https://dev.to/this-is-learning/the-power-of-atomic-commits-in-git-how-and-why-to-do-it-54mn)
-- [How to retrieve sub properties in a PowerShell script with the Invoke-Expression method](https://dev.to/this-is-learning/how-to-retrieve-sub-properties-in-a-powershell-script-with-the-invoke-expression-method-16f4)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
