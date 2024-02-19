@@ -123,11 +123,11 @@ In addition, you will learn how create new extensions and themes to customize yo
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Dilemma of Perfection: Balancing Timeliness and Quality in Product Development](https://dev.to/this-is-learning/the-dilemma-of-perfection-balancing-timeliness-and-quality-in-product-development-4jlj)
 - [Decoding Startup Jargon: A Comprehensive Guide for Entrepreneurs](https://dev.to/this-is-learning/decoding-startup-jargon-a-comprehensive-guide-for-entrepreneurs-12im)
 - [How to Manage Variables Configuration in a PowerShell Project](https://dev.to/this-is-learning/how-to-manage-variables-configuration-in-a-powershell-project-59cn)
 - [How Endel App Boosted My Productivity as a Developer and CTO](https://dev.to/this-is-learning/how-endel-app-boosted-my-productivity-as-a-developer-and-cto-5b7n)
 - [How To Add Controllers To A Blazor Server App](https://dev.to/this-is-learning/how-to-add-controllers-to-a-blazor-server-app-a9)
-- [My Wrap Up of 2023: A Year of Growth and Recognition](https://dev.to/this-is-learning/my-wrap-up-of-2023-a-year-of-growth-and-recognition-4b6n)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
