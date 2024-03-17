@@ -66,7 +66,6 @@ In addition, you will learn how create new extensions and themes to customize yo
 ## 💻 Framework and Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -150,7 +149,7 @@ In addition, you will learn how create new extensions and themes to customize yo
 [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCU67JYtJURWRTx7vrdx9APg)
 
 ---
-<p align="center"> © 2022 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
+<p align="center"> © 2024 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
 <p align="center">
 https://www.emanuelebartolesi.com
 </p>
