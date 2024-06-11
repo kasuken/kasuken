@@ -1,9 +1,9 @@
 
 # Hi, I'm Emanuele 👋 🏊🚴🏃 💻
 
-<img src="https://raw.githubusercontent.com/kasuken/kasuken/master/BannerGitHub.png" alt="Emanuele Bartolesi - software engineer, content creator and community organizer">
+<img src="https://github.com/kasuken/kasuken/assets/2757486/71303812-cfc3-4c7e-b821-b60888210255" alt="Emanuele Bartolesi - software engineer, content creator and community organizer">
 
-I'm a **Microsoft 365 Architect** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
+I'm a **CTO** and a **Microsoft 365 Architect** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
 I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
 I also became Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
@@ -14,14 +14,17 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 - Learning in public on <a href="https://www.twitch.tv/kasuken" target="_blank">Twitch</a> or <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a> 🎦 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/bartolesiemanuele/">LinkedIn</a> 💼
 - My site: <a href="https://www.emanuelebartolesi.com/" target="_blank">www.emanuelebartolesi.com</a>
+- Writing articles: <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>
 
 ## ✨ Current situation
 
-- 🔭 I’m currently working as Microsoft 365 Architect at SoftwareONE (Switzerland) and as CTO for a few Startups around the world
-- 🌱 I’m currently learning React/Typescript, Blazor and ASP.NET Core GraphQL
+- 🤓 I am the CTO and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI.
+- 🔭 I’m currently working as Microsoft 365 Architect at SoftwareONE (Switzerland)
+- 🌱 I’m currently learning Blazor and ASP.NET Core GraphQL
 - 📙 I wrote a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)**
+- 📝 I am writing a book about Networking in C# for Packt.
 - 🧙‍♂️ I released a course "**[Learning GitHub](https://bit.ly/learningithub)**" on **LinkedIn Learning**
-- 🏊🚴🏃 Sport fact: I am an Ironman finisher and I am training for the next Ironman race (Thun 2023)
+- 🏊🚴🏃 Sport fact: I am an Ironman finisher, still training for triathlon, came back to martial arts (kick boxing) since a while
 
 ## 📖 Books
 ### Mastering Minimal APIs in ASP.NET Core
@@ -42,15 +45,6 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 [Access the course](https://bit.ly/learningithub)
 
 ![Learning GitHub on LinkedIn Learning](https://res.cloudinary.com/practicaldev/image/fetch/s--Laqhrfbs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--5kHCcnIf--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/32086c2rvlxyk1rb1y6i.png)
-
-### Mastering Visual Studio Code on Improove
-Master Visual Studio Code prepares developers to code, debug, using version control and other development operations with Visual Studio Code.
-You don't need to be a seasoned developer to follow this course. It will be a course as agnostic as possible to programming languages.
-After completing this course, you'll know how to use the most important features to work, with a special focus on productivity, with Visual Studio Code.
-In addition, you will learn how create new extensions and themes to customize your code editors and publish them to the Microsoft store.
-
-🔜 Coming soon on [improove.tech](https://www.improove.tech/course/mastering-visual-studio-code)
-
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
