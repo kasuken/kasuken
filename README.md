@@ -20,9 +20,9 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 - 🤓 I am the CTO and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI.
 - 🔭 I’m currently working as Microsoft 365 Architect at SoftwareONE (Switzerland)
-- 🌱 I’m currently learning Blazor and ASP.NET Core GraphQL
+- 🌱 I’m currently learning Blazor, ASP.NET Core GraphQL, OpenAI and Semantic Kernel
 - 📙 I wrote a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)**
-- 📝 I am writing a book about Networking in C# for Packt.
+- 📝 I am writing a book about Networking in C# for Packt
 - 🧙‍♂️ I released a course "**[Learning GitHub](https://bit.ly/learningithub)**" on **LinkedIn Learning**
 - 🏊🚴🏃 Sport fact: I am an Ironman finisher, still training for triathlon, came back to martial arts (kick boxing) since a while
 
