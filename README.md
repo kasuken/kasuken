@@ -116,11 +116,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Impact of Not Turning Off Your PC for Three Weeks: A Deep Dive into Hibernate Mode and Application Performance](https://dev.to/this-is-learning/the-impact-of-not-turning-off-your-pc-for-three-weeks-a-deep-dive-into-hibernate-mode-and-application-performance-3dp7)
 - [Weekly 0075](https://dev.to/kasuken/weekly-0075-3bgi)
 - [Why You Should Attend Experts Live Europe 2024 in Budapest: Unlocking Opportunities in the Heart of Innovation](https://dev.to/this-is-learning/why-you-should-attend-experts-live-europe-2024-in-budapest-unlocking-opportunities-in-the-heart-of-innovation-3pbg)
 - [Why Reading Official Documentation First Made Me a Better Developer](https://dev.to/this-is-learning/why-reading-official-documentation-first-made-me-a-better-developer-1aol)
 - [Weekly 0074](https://dev.to/this-is-learning/weekly-0076-2ibl)
-- [🎉 Celebrating 11 Years as a Microsoft MVP: A Journey of Perseverance and Gratitude 🌟](https://dev.to/this-is-learning/celebrating-11-years-as-a-microsoft-mvp-a-journey-of-perseverance-and-gratitude-24dg)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
