@@ -19,7 +19,7 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ✨ Current situation
 
 - 🤓 I am the CTO and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI.
-- 🔭 I’m currently working as Microsoft 365 Architect at SoftwareONE (Switzerland)
+- 🔭 I am the CTO and co-founder of [cloudGlow](https://www.cloudglow.io), a governance tool for Entra ID resources.
 - 🌱 I’m currently learning Blazor, ASP.NET Core GraphQL, OpenAI and Semantic Kernel
 - 📙 I wrote a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)**
 - 📝 I am writing a book about Networking in C# for Packt
