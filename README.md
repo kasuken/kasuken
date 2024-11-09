@@ -126,7 +126,7 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/devlead/ARI/pull/6) in [devlead/ARI](https://github.com/devlead/ARI)
+1. ❗ Opened issue [#96](https://github.com/merill/bluesky/issues/96) in [merill/bluesky](https://github.com/merill/bluesky)
 2. 💪 Opened PR [#1](https://github.com/estruyf/indexeddb-cache/pull/1) in [estruyf/indexeddb-cache](https://github.com/estruyf/indexeddb-cache)
 3. 💪 Opened PR [#8](https://github.com/pnp/pnp-test-sample-validation/pull/8) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
 4. ❌ Closed PR [#7](https://github.com/pnp/pnp-test-sample-validation/pull/7) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
