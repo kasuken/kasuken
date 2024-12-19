@@ -116,11 +116,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Your Repository for Speed and Efficiency](https://dev.to/this-is-learning/optimizing-your-repository-for-speed-and-efficiency-5co2)
 - [The Secret Life of a Microsoft MVP](https://dev.to/this-is-learning/the-secret-life-of-a-microsoft-mvp-3dal)
 - [Introducing PowerShell Utility Scripts](https://dev.to/kasuken/introducing-powershell-utility-scripts-2e6m)
 - [Codemotion 2024 Milan: Rediscovering My Voice and Passion as a Speaker](https://dev.to/this-is-learning/codemotion-2024-milan-rediscovering-my-voice-and-passion-as-a-speaker-171o)
 - [Impostor Syndrome: from A - Z](https://dev.to/this-is-learning/impostor-syndrome-from-a-z-4dhl)
-- [Recap of Experts Live 2024 in Budapest: Three Days of Cloud, Code, and Connections](https://dev.to/this-is-learning/recap-of-experts-live-2024-in-budapest-three-days-of-cloud-code-and-connections-189h)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
