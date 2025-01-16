@@ -116,11 +116,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Enhance the API Response with a Wrapper Class with Additional Information with .NET Minimal API](https://dev.to/this-is-learning/how-to-enhance-the-api-response-with-a-wrapper-class-with-additional-information-with-net-minimal-45ea)
 - [My Favorite Tech Stack for Startup Success in 2025](https://dev.to/this-is-learning/my-favorite-tech-stack-for-startup-success-in-2025-1e14)
 - [How I Set Up an Awesome PowerShell Environment for Script Development](https://dev.to/this-is-learning/how-i-set-up-an-awesome-powershell-environment-for-script-development-d4p)
 - [Transforming Windows Terminal into a Productivity Powerhouse](https://dev.to/this-is-learning/transforming-windows-terminal-into-a-productivity-powerhouse-53d5)
 - [Using Git Maintenance in GitHub Actions: Optimize Your Repositories Automatically](https://dev.to/this-is-learning/using-git-maintenance-in-github-actions-optimize-your-repositories-automatically-39ka)
-- [Optimizing Your Repository for Speed and Efficiency](https://dev.to/this-is-learning/optimizing-your-repository-for-speed-and-efficiency-5co2)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
