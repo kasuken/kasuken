@@ -3,7 +3,7 @@
 
 <img src="https://github.com/kasuken/kasuken/assets/2757486/71303812-cfc3-4c7e-b821-b60888210255" alt="Emanuele Bartolesi - software engineer, content creator and community organizer">
 
-I'm a **CTO** and a **Microsoft 365 Architect** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
+I'm a **CTO** and a **a Cloud Architect** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
 I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
 I also became Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
@@ -18,8 +18,8 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## ✨ Current situation
 
-- 🤓 I am the CTO and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI.
-- 🔭 I am the CTO and co-founder of [cloudGlow](https://www.cloudglow.io), a governance tool for Entra ID resources.
+- 🤓 I am the CTO and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI
+- ☁️ I work as Senior Cloud Engineer at Xebia
 - 🌱 I’m currently learning Blazor, ASP.NET Core GraphQL, OpenAI and Semantic Kernel
 - 📙 I wrote a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)**
 - 📝 I am writing a book about Networking in C# for Packt
