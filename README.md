@@ -126,8 +126,8 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/santoshyadavdev/sponsorship-green-squares/pull/18) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-2. ❗ Opened issue [#96](https://github.com/merill/bluesky/issues/96) in [merill/bluesky](https://github.com/merill/bluesky)
+1. 🗣 Commented on [#13](https://github.com/kasuken/spfx-copilot-dashboard/issues/13#issuecomment-2700263699) in [kasuken/spfx-copilot-dashboard](https://github.com/kasuken/spfx-copilot-dashboard)
+2. 🔒 Closed issue [#13](https://github.com/kasuken/spfx-copilot-dashboard/issues/13) in [kasuken/spfx-copilot-dashboard](https://github.com/kasuken/spfx-copilot-dashboard)
 3. 💪 Opened PR [#8](https://github.com/pnp/pnp-test-sample-validation/pull/8) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
 4. ❌ Closed PR [#7](https://github.com/pnp/pnp-test-sample-validation/pull/7) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
 5. 💪 Opened PR [#7](https://github.com/pnp/pnp-test-sample-validation/pull/7) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
