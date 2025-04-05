@@ -126,9 +126,9 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1](https://github.com/kasuken/Harvest.CLI/releases/tag/V1) in [kasuken/Harvest.CLI](https://github.com/kasuken/Harvest.CLI)
-2. 🗣 Commented on [#13](https://github.com/kasuken/spfx-copilot-dashboard/issues/13#issuecomment-2700263699) in [kasuken/spfx-copilot-dashboard](https://github.com/kasuken/spfx-copilot-dashboard)
-3. 🔒 Closed issue [#13](https://github.com/kasuken/spfx-copilot-dashboard/issues/13) in [kasuken/spfx-copilot-dashboard](https://github.com/kasuken/spfx-copilot-dashboard)
+1. 🎉 Merged PR [#17](https://github.com/kasuken/emanuelebartolesi.com/pull/17) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+2. 💪 Opened PR [#17](https://github.com/kasuken/emanuelebartolesi.com/pull/17) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+3. 🚀 Published release [V1](https://github.com/kasuken/Harvest.CLI/releases/tag/V1) in [kasuken/Harvest.CLI](https://github.com/kasuken/Harvest.CLI)
 4. ❌ Closed PR [#7](https://github.com/pnp/pnp-test-sample-validation/pull/7) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
 5. 💪 Opened PR [#7](https://github.com/pnp/pnp-test-sample-validation/pull/7) in [pnp/pnp-test-sample-validation](https://github.com/pnp/pnp-test-sample-validation)
 <!--END_SECTION:activity-->
