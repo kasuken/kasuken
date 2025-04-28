@@ -126,11 +126,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/kasuken/DevGearBox/pull/3) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
-2. 💪 Opened PR [#3](https://github.com/kasuken/DevGearBox/pull/3) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
-3. 🎉 Merged PR [#1](https://github.com/kasuken/presentations/pull/1) in [kasuken/presentations](https://github.com/kasuken/presentations)
-4. 🎉 Merged PR [#17](https://github.com/kasuken/emanuelebartolesi.com/pull/17) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
-5. 💪 Opened PR [#17](https://github.com/kasuken/emanuelebartolesi.com/pull/17) in [kasuken/emanuelebartolesi.com](https://github.com/kasuken/emanuelebartolesi.com)
+1. 🎉 Merged PR [#16](https://github.com/kasuken/DevGearBox/pull/16) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+2. 💪 Opened PR [#16](https://github.com/kasuken/DevGearBox/pull/16) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+3. 🔒 Closed issue [#6](https://github.com/kasuken/DevGearBox/issues/6) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+4. ❗ Opened issue [#14](https://github.com/kasuken/DevGearBox/issues/14) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+5. ❗ Opened issue [#13](https://github.com/kasuken/DevGearBox/issues/13) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by Donating
