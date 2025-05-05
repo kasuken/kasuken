@@ -24,7 +24,7 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 - 📙 I wrote a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)**
 - 📝 I am writing a book about Cloud Automation with GitHub Copilot for Packt
 - 🧙‍♂️ I released a course "**[Learning GitHub](https://bit.ly/learningithub)**" on **LinkedIn Learning**
-- 🏊🚴🏃 Sport fact: I am an Ironman finisher, still training for triathlon, came back to martial arts (kick boxing) since a while
+- 🏊🚴🏃 Sport fact: I am an Ironman finisher, still training for triathlon, came back to martial arts (kick boxing) for a while
 
 ## 📖 Books
 ### Mastering Minimal APIs in ASP.NET Core
