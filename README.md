@@ -6,7 +6,7 @@
 I'm a **CTO** and a **a Cloud Architect** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
 I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
-I also became Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
+I also became a Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
 
 I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitHub Star</a> ⭐ and a Microsoft MVP.
 
@@ -19,10 +19,10 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ## ✨ Current situation
 
 - 🤓 I am the CTO and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI
-- ☁️ I work as Senior Cloud Engineer at Xebia
-- 🌱 I’m currently learning Blazor, ASP.NET Core GraphQL, OpenAI and Semantic Kernel
+- ☁️ I work as a Senior Cloud Engineer at Xebia
+- 🌱 I’m currently learning Blazor, ASP.NET Core GraphQL, OpenAI, and Semantic Kernel
 - 📙 I wrote a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)**
-- 📝 I am writing a book about Networking in C# for Packt
+- 📝 I am writing a book about Cloud Automation with GitHub Copilot for Packt
 - 🧙‍♂️ I released a course "**[Learning GitHub](https://bit.ly/learningithub)**" on **LinkedIn Learning**
 - 🏊🚴🏃 Sport fact: I am an Ironman finisher, still training for triathlon, came back to martial arts (kick boxing) since a while
 
@@ -30,7 +30,7 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 ### Mastering Minimal APIs in ASP.NET Core
 The Minimal APIs feature, introduced in .NET 6, is the answer to code complexity and rising dependencies in creating even the simplest of APIs. Minimal APIs facilitate API development using compact code syntax and help you develop web APIs quickly.
 
-This practical guide explores Minimal APIs end-to-end and helps you take advantage of its features and benefits for your ASP.NET Core projects. The chapters in this book will help you speed up your development process by writing less code and maintaining fewer files using Minimal APIs. You’ll also learn how to enable Swagger for API documentation along with CORS and handle application errors. The book even promotes ideas to structure your code in a better way using the dependency injection library in .NET. Finally, you'll learn about performance and benchmarking improvements for your apps.
+This practical guide explores Minimal APIs end-to-end and helps you take advantage of its features and benefits for your ASP.NET Core projects. The chapters in this book will help you speed up your development process by writing less code and maintaining fewer files using Minimal APIs. You’ll also learn how to enable Swagger for API documentation, along with CORS, and handle application errors. The book even promotes ideas to structure your code in a better way using the dependency injection library in .NET. Finally, you'll learn about performance and benchmarking improvements for your apps.
 
 By the end of this book, you’ll be able to fully leverage new features in .NET 6 for API development and explore how Minimal APIs are an evolution over classical web API development in ASP.NET Core.
 
@@ -40,7 +40,7 @@ By the end of this book, you’ll be able to fully leverage new features in .NET
 
 ## Courses
 ### Learning GitHub on LinkedIn Learning
-GitHub is the industry-standard tool for collaborating on and sharing code. It’s popular among software developers, project managers, designers, and students for its flexibility and control. This course introduces GitHub and Git, the version control system that GitHub is built upon. Instructor Emanuele Bartolesi shows how GitHub can create collaborative workflows for you and your team. Explore how version control enables you and your team to track the changes in your files, maintain a history of them, and get some advice to work better with open-source projects. Emanuele gives you the knowledge you need to be able to select appropriate projects to be pushed to GitHub, successfully initialize Git on an existing project, navigate the GitHub UI to perform common tasks like branching, commits, and pull requests, and more.
+GitHub is the industry-standard tool for collaborating on and sharing code. It’s popular among software developers, project managers, designers, and students for its flexibility and control. This course introduces GitHub and Git, the version control system that GitHub is built upon. Instructor Emanuele Bartolesi shows how GitHub can create collaborative workflows for you and your team. Explore how version control enables you and your team to track the changes in your files, maintain a history of them, and get some advice on working better with open-source projects. Emanuele gives you the knowledge you need to be able to select appropriate projects to be pushed to GitHub, successfully initialize Git on an existing project, navigate the GitHub UI to perform common tasks like branching, commits, and pull requests, and more.
 
 [Access the course](https://bit.ly/learningithub)
 
@@ -133,7 +133,7 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 5. ❗ Opened issue [#13](https://github.com/kasuken/DevGearBox/issues/13) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
 <!--END_SECTION:activity-->
 
-## 💰You can help me by Donating
+## 💰You can help me by donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kasuken) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kasuken) 
 
 ## 💌 Contact Me
