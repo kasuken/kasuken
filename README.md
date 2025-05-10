@@ -3,7 +3,7 @@
 
 <img src="https://github.com/kasuken/kasuken/assets/2757486/71303812-cfc3-4c7e-b821-b60888210255" alt="Emanuele Bartolesi - software engineer, content creator and community organizer">
 
-I'm a **CTO** and a **a Cloud Architect** and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
+I'm a **CTO** and a **Cloud Architect**, and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
 I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
 I also became a Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
@@ -18,8 +18,8 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## ✨ Current situation
 
+- ☁️ I work as a Senior Cloud Engineer at [Xebia](https://xebia.com/)
 - 🤓 I am the CTO and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI
-- ☁️ I work as a Senior Cloud Engineer at Xebia
 - 🌱 I’m currently learning Blazor, ASP.NET Core GraphQL, OpenAI, and Semantic Kernel
 - 📙 I wrote a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)**
 - 📝 I am writing a book about Cloud Automation with GitHub Copilot for Packt
@@ -28,9 +28,9 @@ I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitH
 
 ## 📖 Books
 ### Mastering Minimal APIs in ASP.NET Core
-The Minimal APIs feature, introduced in .NET 6, is the answer to code complexity and rising dependencies in creating even the simplest of APIs. Minimal APIs facilitate API development using compact code syntax and help you develop web APIs quickly.
+The Minimal APIs feature, introduced in .NET 6, answers code complexity and rising dependencies in creating even the simplest of APIs. Minimal APIs facilitate API development using compact code syntax and help you develop web APIs quickly.
 
-This practical guide explores Minimal APIs end-to-end and helps you take advantage of its features and benefits for your ASP.NET Core projects. The chapters in this book will help you speed up your development process by writing less code and maintaining fewer files using Minimal APIs. You’ll also learn how to enable Swagger for API documentation, along with CORS, and handle application errors. The book even promotes ideas to structure your code in a better way using the dependency injection library in .NET. Finally, you'll learn about performance and benchmarking improvements for your apps.
+This practical guide explores Minimal APIs end-to-end and helps you take advantage of its features and benefits for your ASP.NET Core projects. The chapters in this book will help you speed up your development process by writing less code and maintaining fewer files using Minimal APIs. You’ll also learn how to enable Swagger for API documentation, along with CORS, and handle application errors. The book even promotes ideas to structure your code better using the dependency injection library in .NET. Finally, you'll learn about performance and benchmarking improvements for your apps.
 
 By the end of this book, you’ll be able to fully leverage new features in .NET 6 for API development and explore how Minimal APIs are an evolution over classical web API development in ASP.NET Core.
 
