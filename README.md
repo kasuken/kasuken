@@ -126,9 +126,9 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/kasuken/presentations/pull/3) in [kasuken/presentations](https://github.com/kasuken/presentations)
-2. 🎉 Merged PR [#2](https://github.com/kasuken/presentations/pull/2) in [kasuken/presentations](https://github.com/kasuken/presentations)
-3. 🎉 Merged PR [#16](https://github.com/kasuken/DevGearBox/pull/16) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+1. ❗ Opened issue [#11](https://github.com/kasuken/Passwordify/issues/11) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+2. 🎉 Merged PR [#3](https://github.com/kasuken/presentations/pull/3) in [kasuken/presentations](https://github.com/kasuken/presentations)
+3. 🎉 Merged PR [#2](https://github.com/kasuken/presentations/pull/2) in [kasuken/presentations](https://github.com/kasuken/presentations)
 4. 💪 Opened PR [#16](https://github.com/kasuken/DevGearBox/pull/16) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
 5. 🔒 Closed issue [#6](https://github.com/kasuken/DevGearBox/issues/6) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
 <!--END_SECTION:activity-->
