@@ -116,11 +116,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My First 3 Months as a Senior Cloud Engineer at Xebia](https://dev.to/kasuken/my-first-3-months-as-a-senior-cloud-engineer-at-xebia-2kgk)
 - [Tips for Improving API Performance in ASP.NET Core](https://dev.to/this-is-learning/tips-for-improving-api-performance-in-aspnet-core-n4o)
 - [How to Configure YubiKey with GitHub](https://dev.to/this-is-learning/how-to-configure-yubikey-with-github-3lga)
 - [From Hello World to Hello Customers: Why Programs Aren’t Products](https://dev.to/this-is-learning/from-hello-world-to-hello-customers-why-programs-arent-products-imp)
 - [Git stashing: save and restore your code](https://dev.to/this-is-learning/git-stashing-save-and-restore-your-code-5eh6)
-- [C# to Typescript Cheatsheet](https://dev.to/this-is-learning/c-to-typescript-cheatsheet-gp6)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
