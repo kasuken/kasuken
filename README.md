@@ -126,11 +126,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#21](https://github.com/kasuken/copilotinstructions/issues/21) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
-2. ❗ Opened issue [#21](https://github.com/kasuken/copilotinstructions/issues/21) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
-3. 🔒 Closed issue [#20](https://github.com/kasuken/copilotinstructions/issues/20) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
-4. ❗ Opened issue [#20](https://github.com/kasuken/copilotinstructions/issues/20) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
-5. 🔒 Closed issue [#19](https://github.com/kasuken/copilotinstructions/issues/19) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
+1. 🔒 Closed issue [#23](https://github.com/kasuken/copilotinstructions/issues/23) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
+2. ❗ Opened issue [#23](https://github.com/kasuken/copilotinstructions/issues/23) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
+3. 🎉 Merged PR [#22](https://github.com/kasuken/copilotinstructions/pull/22) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
+4. 💪 Opened PR [#22](https://github.com/kasuken/copilotinstructions/pull/22) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
+5. 🔒 Closed issue [#21](https://github.com/kasuken/copilotinstructions/issues/21) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
