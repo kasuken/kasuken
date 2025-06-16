@@ -116,11 +116,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Weekly 0081](https://dev.to/kasuken/weekly-0081-1kbk)
 - [Tools I Use Every Day &lpar;June 2025 Edition&rpar;](https://dev.to/this-is-learning/tools-i-use-every-day-june-2025-edition-2kmb)
 - [Weekly 0080](https://dev.to/kasuken/weekly-0080-3ica)
 - [SignAI - AI-powered service email signatures](https://dev.to/kasuken/signai-ai-powered-service-email-signatures-3gnp)
 - [My First 3 Months as a Senior Cloud Engineer at Xebia](https://dev.to/kasuken/my-first-3-months-as-a-senior-cloud-engineer-at-xebia-2kgk)
-- [Tips for Improving API Performance in ASP.NET Core](https://dev.to/this-is-learning/tips-for-improving-api-performance-in-aspnet-core-n4o)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
