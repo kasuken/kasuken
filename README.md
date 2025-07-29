@@ -3,12 +3,12 @@
 
 <img src="https://github.com/kasuken/kasuken/assets/2757486/71303812-cfc3-4c7e-b821-b60888210255" alt="Emanuele Bartolesi - software engineer, content creator and community organizer">
 
-I'm a **CTO** and a **Cloud Architect**, and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
+I'm a **Senior Cloud Engineer**, and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
 I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
 I also became a Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
 
-I am a <a href="https://stars.github.com/profiles/kasuken/" target="_blank">GitHub Star</a> ⭐ and a Microsoft MVP.
+GitHub Star ⭐ (x4) and a Microsoft MVP (x12).
 
 ## 🌎 Find me around the web 
 - Learning in public on <a href="https://www.twitch.tv/kasuken" target="_blank">Twitch</a> or <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a> 🎦 ✍🏾
@@ -143,7 +143,7 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCU67JYtJURWRTx7vrdx9APg)
 
 ---
-<p align="center"> © 2024 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
+<p align="center"> © 2025 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
 <p align="center">
 https://www.emanuelebartolesi.com
 </p>
