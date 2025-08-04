@@ -8,7 +8,7 @@ I currently live in **Zurich** and actively participate in local and internation
 I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
 I also became a Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
 
-GitHub Star ⭐ (x4) and a Microsoft MVP (x12).
+GitHub Star ⭐ (x4) and a Microsoft MVP (x12). <br />
 GitHub Star of the Year 2023. 🏆
 
 ## 🌎 Find me around the web 
