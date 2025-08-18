@@ -127,7 +127,7 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Skylabs-Academy/juice-shop/pull/1) in [Skylabs-Academy/juice-shop](https://github.com/Skylabs-Academy/juice-shop)
+1. ❗ Opened issue [#1](https://github.com/kasuken/website/issues/1) in [kasuken/website](https://github.com/kasuken/website)
 2. 🗣 Commented on [#1](https://github.com/kasuken/BattleshipAI/issues/1#issuecomment-2992423194) in [kasuken/BattleshipAI](https://github.com/kasuken/BattleshipAI)
 3. ❗ Opened issue [#1](https://github.com/kasuken/BattleshipAI/issues/1) in [kasuken/BattleshipAI](https://github.com/kasuken/BattleshipAI)
 4. 🔒 Closed issue [#23](https://github.com/kasuken/copilotinstructions/issues/23) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
