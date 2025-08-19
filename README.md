@@ -117,11 +117,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Writing Emails: Tips &amp; Tricks &lpar;Especially for Developers&rpar;](https://dev.to/this-is-learning/writing-emails-tips-tricks-especially-for-developers-1e7i)
 - [How I Organize My Microsoft Teams Chats &lpar;Without Losing My Mind&rpar;](https://dev.to/this-is-learning/how-i-organize-my-microsoft-teams-chats-without-losing-my-mind-2hbm)
 - [Weekly 0083](https://dev.to/kasuken/weekly-0083-50j5)
 - [Running External Commands in C# and Wait Until They Finish](https://dev.to/this-is-learning/running-external-commands-in-c-and-wait-until-they-finish-3f8l)
 - [Structuring GitHub Enterprise: Best Practices from the Org Level Down](https://dev.to/this-is-learning/structuring-github-enterprise-best-practices-from-the-org-level-down-45i5)
-- [Weekly 0081](https://dev.to/kasuken/weekly-0081-1kbk)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
