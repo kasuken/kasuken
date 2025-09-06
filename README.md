@@ -127,9 +127,9 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/leandrosa81/taskbar-monitor/issues/45#issuecomment-3244986000) in [leandrosa81/taskbar-monitor](https://github.com/leandrosa81/taskbar-monitor)
-2. ❗ Opened issue [#1](https://github.com/kasuken/website/issues/1) in [kasuken/website](https://github.com/kasuken/website)
-3. ❗ Opened issue [#1](https://github.com/kasuken/BattleshipAI/issues/1) in [kasuken/BattleshipAI](https://github.com/kasuken/BattleshipAI)
+1. 💪 Opened PR [#2](https://github.com/kasuken/DropComments/pull/2) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
+2. 🗣 Commented on [#45](https://github.com/leandrosa81/taskbar-monitor/issues/45#issuecomment-3244986000) in [leandrosa81/taskbar-monitor](https://github.com/leandrosa81/taskbar-monitor)
+3. ❗ Opened issue [#1](https://github.com/kasuken/website/issues/1) in [kasuken/website](https://github.com/kasuken/website)
 4. 🔒 Closed issue [#23](https://github.com/kasuken/copilotinstructions/issues/23) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
 5. ❗ Opened issue [#23](https://github.com/kasuken/copilotinstructions/issues/23) in [kasuken/copilotinstructions](https://github.com/kasuken/copilotinstructions)
 <!--END_SECTION:activity-->
