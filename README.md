@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/kasuken/DropComments/pull/15) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
-2. 💪 Opened PR [#15](https://github.com/kasuken/DropComments/pull/15) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
-3. 🎉 Merged PR [#14](https://github.com/kasuken/DropComments/pull/14) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
-4. 💪 Opened PR [#14](https://github.com/kasuken/DropComments/pull/14) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
-5. 🎉 Merged PR [#13](https://github.com/kasuken/DropComments/pull/13) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
+1. 🎉 Merged PR [#16](https://github.com/kasuken/DropComments/pull/16) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
+2. 💪 Opened PR [#16](https://github.com/kasuken/DropComments/pull/16) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
+3. 🎉 Merged PR [#15](https://github.com/kasuken/DropComments/pull/15) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
+4. 💪 Opened PR [#15](https://github.com/kasuken/DropComments/pull/15) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
+5. 🎉 Merged PR [#14](https://github.com/kasuken/DropComments/pull/14) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
