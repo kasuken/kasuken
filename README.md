@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/kasuken/website/pull/3) in [kasuken/website](https://github.com/kasuken/website)
-2. 💪 Opened PR [#3](https://github.com/kasuken/website/pull/3) in [kasuken/website](https://github.com/kasuken/website)
-3. 💪 Opened PR [#37](https://github.com/alexnguyennz/astro-aws-amplify/pull/37) in [alexnguyennz/astro-aws-amplify](https://github.com/alexnguyennz/astro-aws-amplify)
-4. 🎉 Merged PR [#16](https://github.com/kasuken/DropComments/pull/16) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
-5. 💪 Opened PR [#16](https://github.com/kasuken/DropComments/pull/16) in [kasuken/DropComments](https://github.com/kasuken/DropComments)
+1. 🎉 Merged PR [#4](https://github.com/kasuken/website/pull/4) in [kasuken/website](https://github.com/kasuken/website)
+2. 💪 Opened PR [#4](https://github.com/kasuken/website/pull/4) in [kasuken/website](https://github.com/kasuken/website)
+3. 🎉 Merged PR [#3](https://github.com/kasuken/website/pull/3) in [kasuken/website](https://github.com/kasuken/website)
+4. 💪 Opened PR [#3](https://github.com/kasuken/website/pull/3) in [kasuken/website](https://github.com/kasuken/website)
+5. 💪 Opened PR [#37](https://github.com/alexnguyennz/astro-aws-amplify/pull/37) in [alexnguyennz/astro-aws-amplify](https://github.com/alexnguyennz/astro-aws-amplify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
