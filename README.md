@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/kasuken/website/pull/7) in [kasuken/website](https://github.com/kasuken/website)
-2. 💪 Opened PR [#7](https://github.com/kasuken/website/pull/7) in [kasuken/website](https://github.com/kasuken/website)
-3. 🎉 Merged PR [#5](https://github.com/kasuken/website/pull/5) in [kasuken/website](https://github.com/kasuken/website)
-4. 💪 Opened PR [#5](https://github.com/kasuken/website/pull/5) in [kasuken/website](https://github.com/kasuken/website)
-5. 🎉 Merged PR [#4](https://github.com/kasuken/website/pull/4) in [kasuken/website](https://github.com/kasuken/website)
+1. 🎉 Merged PR [#8](https://github.com/kasuken/website/pull/8) in [kasuken/website](https://github.com/kasuken/website)
+2. 💪 Opened PR [#8](https://github.com/kasuken/website/pull/8) in [kasuken/website](https://github.com/kasuken/website)
+3. 🎉 Merged PR [#7](https://github.com/kasuken/website/pull/7) in [kasuken/website](https://github.com/kasuken/website)
+4. 💪 Opened PR [#7](https://github.com/kasuken/website/pull/7) in [kasuken/website](https://github.com/kasuken/website)
+5. 🎉 Merged PR [#5](https://github.com/kasuken/website/pull/5) in [kasuken/website](https://github.com/kasuken/website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
