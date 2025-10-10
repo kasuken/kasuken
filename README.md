@@ -117,11 +117,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [⚡ Turn On or Off Fast Startup in Windows 11](https://dev.to/kasuken/turn-on-or-off-fast-startup-in-windows-11-4pgh)
 - [Building My New Website with Astro, GitHub Copilot, and AWS Amplify](https://dev.to/this-is-learning/building-my-new-website-with-astro-github-copilot-and-aws-amplify-3eoc)
 - [🌱 Introducing Green Software Indicator: a Browser Extension for a greener web](https://dev.to/this-is-learning/introducing-green-software-indicator-a-browser-extension-for-a-greener-web-5692)
 - [Weekly 0087](https://dev.to/kasuken/weekly-0087-4l3d)
 - [✨ Advanced Tips and Tricks for GitHub Gists &lpar;Part 1: Unlocking the Power of Gists&rpar;](https://dev.to/this-is-learning/advanced-tips-and-tricks-for-github-gists-part-1-unlocking-the-power-of-gists-22h5)
-- [Weekly 0086](https://dev.to/kasuken/weekly-0086-246i)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
