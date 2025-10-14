@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/kasuken/website/pull/8) in [kasuken/website](https://github.com/kasuken/website)
-2. 💪 Opened PR [#8](https://github.com/kasuken/website/pull/8) in [kasuken/website](https://github.com/kasuken/website)
-3. 🎉 Merged PR [#7](https://github.com/kasuken/website/pull/7) in [kasuken/website](https://github.com/kasuken/website)
-4. 💪 Opened PR [#7](https://github.com/kasuken/website/pull/7) in [kasuken/website](https://github.com/kasuken/website)
-5. 🎉 Merged PR [#5](https://github.com/kasuken/website/pull/5) in [kasuken/website](https://github.com/kasuken/website)
+1. 💪 Opened PR [#4](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
+2. 🚀 Published release [v1.0.0](https://github.com/kasuken/vscode-octolink/releases/tag/v1.0.0) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
+3. ❌ Assigned PR [#3](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
+4. ❌ Labeled PR [#3](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
+5. ❌ Labeled PR [#3](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
