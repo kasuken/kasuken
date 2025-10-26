@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
-2. 💪 Opened PR [#4](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
-3. 🚀 Published release [v1.0.0](https://github.com/kasuken/vscode-octolink/releases/tag/v1.0.0) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
-4. ❌ Assigned PR [#3](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
-5. ❌ Labeled PR [#3](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
+1.  Assigned issue [#9](https://github.com/kasuken/website/issues/9) in [kasuken/website](https://github.com/kasuken/website)
+2. ❗ Opened issue [#9](https://github.com/kasuken/website/issues/9) in [kasuken/website](https://github.com/kasuken/website)
+3. 💪 Opened PR [#5](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
+4. 💪 Opened PR [#4](undefined) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
+5. 🚀 Published release [v1.0.0](https://github.com/kasuken/vscode-octolink/releases/tag/v1.0.0) in [kasuken/vscode-octolink](https://github.com/kasuken/vscode-octolink)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
