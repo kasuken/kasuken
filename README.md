@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/kasuken/learngit.space/pull/1#issuecomment-3469158169) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-2. 🔒 Closed issue [#9](https://github.com/kasuken/website/issues/9) in [kasuken/website](https://github.com/kasuken/website)
-3. ❌ Labeled PR [#10](undefined) in [kasuken/website](https://github.com/kasuken/website)
-4. 🗣 Commented on [#10](https://github.com/kasuken/website/pull/10#issuecomment-3449045350) in [kasuken/website](https://github.com/kasuken/website)
-5.  Assigned issue [#9](https://github.com/kasuken/website/issues/9) in [kasuken/website](https://github.com/kasuken/website)
+1. 🗣 Commented on [#3](https://github.com/kasuken/learngit.space/issues/3#issuecomment-3479989385) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+2.  Assigned issue [#3](https://github.com/kasuken/learngit.space/issues/3) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+3.  Labeled issue [#3](https://github.com/kasuken/learngit.space/issues/3) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+4. 🗣 Commented on [#1](https://github.com/kasuken/learngit.space/pull/1#issuecomment-3469158169) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+5. 🔒 Closed issue [#9](https://github.com/kasuken/website/issues/9) in [kasuken/website](https://github.com/kasuken/website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
