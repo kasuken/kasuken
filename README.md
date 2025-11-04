@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#18](undefined) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
-2. 🗣 Commented on [#3](https://github.com/kasuken/learngit.space/issues/3#issuecomment-3479989385) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-3.  Assigned issue [#3](https://github.com/kasuken/learngit.space/issues/3) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-4.  Labeled issue [#3](https://github.com/kasuken/learngit.space/issues/3) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-5. 🗣 Commented on [#1](https://github.com/kasuken/learngit.space/pull/1#issuecomment-3469158169) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+1. ❌ Labeled PR [#1](undefined) in [kasuken/diveintohtml5](https://github.com/kasuken/diveintohtml5)
+2. 🚀 Published release [V1.0](https://github.com/kasuken/diveintohtml5/releases/tag/v1.0) in [kasuken/diveintohtml5](https://github.com/kasuken/diveintohtml5)
+3. ❌ Closed PR [#18](undefined) in [santoshyadavdev/sponsorship-green-squares](https://github.com/santoshyadavdev/sponsorship-green-squares)
+4. 🗣 Commented on [#3](https://github.com/kasuken/learngit.space/issues/3#issuecomment-3479989385) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+5.  Assigned issue [#3](https://github.com/kasuken/learngit.space/issues/3) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
