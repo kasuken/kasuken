@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#5](undefined) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-2. 🗣 Commented on [#5](https://github.com/kasuken/learngit.space/pull/5#issuecomment-3488173311) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-3. 🗣 Commented on [#5](https://github.com/kasuken/learngit.space/pull/5#issuecomment-3488164883) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-4. ❌ Labeled PR [#1](undefined) in [kasuken/diveintohtml5](https://github.com/kasuken/diveintohtml5)
-5. 🚀 Published release [V1.0](https://github.com/kasuken/diveintohtml5/releases/tag/v1.0) in [kasuken/diveintohtml5](https://github.com/kasuken/diveintohtml5)
+1. ❌ Labeled PR [#7](undefined) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+2. ❌ Labeled PR [#5](undefined) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+3. 🗣 Commented on [#5](https://github.com/kasuken/learngit.space/pull/5#issuecomment-3488173311) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+4. 🗣 Commented on [#5](https://github.com/kasuken/learngit.space/pull/5#issuecomment-3488164883) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+5. ❌ Labeled PR [#1](undefined) in [kasuken/diveintohtml5](https://github.com/kasuken/diveintohtml5)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
