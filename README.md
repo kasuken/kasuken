@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V2.2.0](https://github.com/kasuken/learngit.space/releases/tag/V2.2.0) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-2. 🔓 Reopened issue [#3](https://github.com/kasuken/learngit.space/issues/3) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-3. ❌ Labeled PR [#10](undefined) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-4. 🗣 Commented on [#3](https://github.com/kasuken/learngit.space/issues/3#issuecomment-3491203697) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-5. 🔒 Closed issue [#3](https://github.com/kasuken/learngit.space/issues/3) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+1. 💪 Opened PR [#15](undefined) in [apvee/azure-functions-nodejs-monorepo](https://github.com/apvee/azure-functions-nodejs-monorepo)
+2. 🚀 Published release [V2.2.0](https://github.com/kasuken/learngit.space/releases/tag/V2.2.0) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+3. 🔓 Reopened issue [#3](https://github.com/kasuken/learngit.space/issues/3) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+4. ❌ Labeled PR [#10](undefined) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+5. 🗣 Commented on [#3](https://github.com/kasuken/learngit.space/issues/3#issuecomment-3491203697) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
