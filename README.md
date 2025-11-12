@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/kasuken/banner-creator/releases/tag/v1.0.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
-2. 💪 Opened PR [#15](undefined) in [apvee/azure-functions-nodejs-monorepo](https://github.com/apvee/azure-functions-nodejs-monorepo)
-3. 🚀 Published release [V2.2.0](https://github.com/kasuken/learngit.space/releases/tag/V2.2.0) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-4. 🔓 Reopened issue [#3](https://github.com/kasuken/learngit.space/issues/3) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-5. ❌ Labeled PR [#10](undefined) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+1. 🚀 Published release [v1.2.0](https://github.com/kasuken/banner-creator/releases/tag/v1.2.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+2. 🚀 Published release [v1.1.0](https://github.com/kasuken/banner-creator/releases/tag/v1.1.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+3. 🚀 Published release [v1.0.0](https://github.com/kasuken/banner-creator/releases/tag/v1.0.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+4. 💪 Opened PR [#15](undefined) in [apvee/azure-functions-nodejs-monorepo](https://github.com/apvee/azure-functions-nodejs-monorepo)
+5. 🚀 Published release [V2.2.0](https://github.com/kasuken/learngit.space/releases/tag/V2.2.0) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
