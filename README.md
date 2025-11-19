@@ -3,7 +3,7 @@
 
 <img src="https://github.com/user-attachments/assets/e218c4da-4eec-4885-b54f-d5f6603d48fa" alt="Emanuele Bartolesi - software engineer, content creator and community organizer" />
 
-I'm a **Senior Cloud Engineer**, and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
+I'm the **GitHub Technical Lead - DACH**, and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
 I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
 I also became a Twitch Affiliate as a **live coder** and you can follow me at <a href="https://twitch.tv/kasuken" target="_blank">twitch.tv/kasuken</a> to write some code together. 
@@ -19,9 +19,9 @@ GitHub Star of the Year 2023. 🏆
 
 ## ✨ Current situation
 
-- ☁️ I work as a Senior Cloud Engineer at [Xebia](https://xebia.com/)
-- 🤓 I am the CTO and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI
-- 🌱 I’m currently learning Blazor, ASP.NET Core GraphQL, OpenAI, and Semantic Kernel
+- ☁️ I work as a GitHub Technical Lead at [Xebia](https://xebia.com/)
+- 🤓 I am the CIO (ex CTO) and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI
+- 🌱 I’m currently learning Blazor, ASP.NET Core GraphQL, LLM and SLM
 - 📙 I wrote a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)**
 - 📝 I am writing a book about Cloud Automation with GitHub Copilot for Packt
 - 🧙‍♂️ I released a course "**[Learning GitHub](https://bit.ly/learningithub)**" on **LinkedIn Learning**
