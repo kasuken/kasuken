@@ -117,11 +117,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Built TaskDeck and How It Improves Your VS Code Workflow](https://dev.to/this-is-learning/why-i-built-taskdeck-and-how-it-improves-your-vs-code-workflow-4fk9)
 - [Why I Use JetBrains Rider for .NET Development](https://dev.to/this-is-learning/why-i-use-jetbrains-rider-for-net-development-2a8k)
 - [⚡ Turn On or Off Fast Startup in Windows 11](https://dev.to/kasuken/turn-on-or-off-fast-startup-in-windows-11-4pgh)
 - [Building My New Website with Astro, GitHub Copilot, and AWS Amplify](https://dev.to/this-is-learning/building-my-new-website-with-astro-github-copilot-and-aws-amplify-3eoc)
 - [🌱 Introducing Green Software Indicator: a Browser Extension for a greener web](https://dev.to/this-is-learning/introducing-green-software-indicator-a-browser-extension-for-a-greener-web-5692)
-- [Weekly 0087](https://dev.to/kasuken/weekly-0087-4l3d)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
