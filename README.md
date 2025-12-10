@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.10.0](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.10.0) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-2. 🚀 Published release [v0.9.0](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.9.0) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-3. 🚀 Published release [v1.2.0](https://github.com/kasuken/banner-creator/releases/tag/v1.2.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
-4. 🚀 Published release [v1.1.0](https://github.com/kasuken/banner-creator/releases/tag/v1.1.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
-5. 🚀 Published release [v1.0.0](https://github.com/kasuken/banner-creator/releases/tag/v1.0.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+1. 🚀 Published release [2025-12-10](https://github.com/kasuken/Windows11-Setup/releases/tag/2025-12-10) in [kasuken/Windows11-Setup](https://github.com/kasuken/Windows11-Setup)
+2. 🚀 Published release [v0.10.0](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.10.0) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
+3. 🚀 Published release [v0.9.0](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.9.0) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
+4. 🚀 Published release [v1.2.0](https://github.com/kasuken/banner-creator/releases/tag/v1.2.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+5. 🚀 Published release [v1.1.0](https://github.com/kasuken/banner-creator/releases/tag/v1.1.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
