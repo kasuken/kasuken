@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.11.1](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.11.1) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-2. 🔒 Closed issue [#1](https://github.com/kasuken/vscode-taskdeck/issues/1) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-3. 🗣 Commented on [#1](https://github.com/kasuken/vscode-taskdeck/issues/1#issuecomment-3649089041) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-4. 🚀 Published release [v0.11.0](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.11.0) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-5. 🚀 Published release [2025-12-10](https://github.com/kasuken/Windows11-Setup/releases/tag/2025-12-10) in [kasuken/Windows11-Setup](https://github.com/kasuken/Windows11-Setup)
+1. ❌ Merged PR [#12](undefined) in [kasuken/website](https://github.com/kasuken/website)
+2. 💪 Opened PR [#12](undefined) in [kasuken/website](https://github.com/kasuken/website)
+3. 🚀 Published release [v0.11.1](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.11.1) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
+4. 🔒 Closed issue [#1](https://github.com/kasuken/vscode-taskdeck/issues/1) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
+5. 🗣 Commented on [#1](https://github.com/kasuken/vscode-taskdeck/issues/1#issuecomment-3649089041) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
