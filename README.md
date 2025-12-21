@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.0](https://github.com/kasuken/tab-stack-extension/releases/tag/v1.0.0) in [kasuken/tab-stack-extension](https://github.com/kasuken/tab-stack-extension)
-2. ❌ Merged PR [#12](undefined) in [kasuken/website](https://github.com/kasuken/website)
-3. 💪 Opened PR [#12](undefined) in [kasuken/website](https://github.com/kasuken/website)
-4. 🚀 Published release [v0.11.1](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.11.1) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-5. 🔒 Closed issue [#1](https://github.com/kasuken/vscode-taskdeck/issues/1) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
+1.  Assigned issue [#14](https://github.com/kasuken/DevGearBox/issues/14) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+2. 🔒 Closed issue [#5](https://github.com/kasuken/DevGearBox/issues/5) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+3.  Assigned issue [#5](https://github.com/kasuken/DevGearBox/issues/5) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+4. 🚀 Published release [v1.0.0](https://github.com/kasuken/tab-stack-extension/releases/tag/v1.0.0) in [kasuken/tab-stack-extension](https://github.com/kasuken/tab-stack-extension)
+5. ❌ Merged PR [#12](undefined) in [kasuken/website](https://github.com/kasuken/website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
