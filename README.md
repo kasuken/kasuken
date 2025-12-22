@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#14](https://github.com/kasuken/DevGearBox/issues/14) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
-2. 🔒 Closed issue [#5](https://github.com/kasuken/DevGearBox/issues/5) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
-3.  Assigned issue [#5](https://github.com/kasuken/DevGearBox/issues/5) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
-4. 🚀 Published release [v1.0.0](https://github.com/kasuken/tab-stack-extension/releases/tag/v1.0.0) in [kasuken/tab-stack-extension](https://github.com/kasuken/tab-stack-extension)
-5. ❌ Merged PR [#12](undefined) in [kasuken/website](https://github.com/kasuken/website)
+1. 🔒 Closed issue [#13](https://github.com/kasuken/DevGearBox/issues/13) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+2. 🔒 Closed issue [#7](https://github.com/kasuken/DevGearBox/issues/7) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+3. 🔒 Closed issue [#9](https://github.com/kasuken/DevGearBox/issues/9) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+4. 🔒 Closed issue [#12](https://github.com/kasuken/DevGearBox/issues/12) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
+5. 🔒 Closed issue [#11](https://github.com/kasuken/DevGearBox/issues/11) in [kasuken/DevGearBox](https://github.com/kasuken/DevGearBox)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
