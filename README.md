@@ -45,7 +45,8 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 [Access the course](https://bit.ly/learningithub)
 
-![Learning GitHub on LinkedIn Learning](https://res.cloudinary.com/practicaldev/image/fetch/s--Laqhrfbs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://res.cloudinary.com/practicaldev/image/fetch/s--5kHCcnIf--/c_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/32086c2rvlxyk1rb1y6i.png)
+![Learning GitHub on LinkedIn Learning](https://github.com/user-attachments/assets/50a0eb9b-036e-4ceb-aada-7505d4820c53")
+
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
