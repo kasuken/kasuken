@@ -45,7 +45,7 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 [Access the course](https://bit.ly/learningithub)
 
-![Learning GitHub on LinkedIn Learning](https://github.com/user-attachments/assets/50a0eb9b-036e-4ceb-aada-7505d4820c53")
+![Learning GitHub on LinkedIn Learning](https://github.com/user-attachments/assets/50a0eb9b-036e-4ceb-aada-7505d4820c53)
 
 
 ## 👨🏻‍💻 Programming Languages
