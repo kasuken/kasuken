@@ -127,11 +127,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#3](https://github.com/kasuken/vscode-copilot-insights/issues/3) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-2. ❗ Opened issue [#3](https://github.com/kasuken/vscode-copilot-insights/issues/3) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-3.  Labeled issue [#2](https://github.com/kasuken/vscode-copilot-insights/issues/2) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-4. ❗ Opened issue [#2](https://github.com/kasuken/vscode-copilot-insights/issues/2) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5.  Labeled issue [#1](https://github.com/kasuken/vscode-copilot-insights/issues/1) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+1. 🚀 Published release [v1.5.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v1.5.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+2. 🚀 Published release [v1.4.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v1.4.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+3. 🔒 Closed issue [#3](https://github.com/kasuken/vscode-copilot-insights/issues/3) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+4. 🔒 Closed issue [#2](https://github.com/kasuken/vscode-copilot-insights/issues/2) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+5. 🚀 Published release [v1.3.1](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v1.3.1) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
