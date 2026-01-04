@@ -111,10 +111,9 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kasuken&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kasuken&theme=dracula&hide_border=false" />
-</p>
+[![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## 🏆GitHub Trophies
 <p align="center" style="witdh:100%">
