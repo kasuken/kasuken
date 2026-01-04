@@ -1,7 +1,7 @@
 
 # Hi, I'm Emanuele 👋 🏊🚴🏃 💻
 
-<img src="https://github.com/user-attachments/assets/e218c4da-4eec-4885-b54f-d5f6603d48fa" alt="Emanuele Bartolesi - software engineer, content creator and community organizer" />
+<img src="https://github.com/user-attachments/assets/9c27c178-403c-418f-a2bf-78e2c0045434" alt="Emanuele Bartolesi - software engineer, content creator and community organizer" />
 
 I'm the **GitHub Technical Lead - DACH**, and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
