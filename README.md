@@ -12,10 +12,10 @@ GitHub Star ⭐ (x4) and a Microsoft MVP (x12). <br />
 GitHub Star of the Year 2023. 🏆
 
 ## 🌎 Find me around the web 
-- Learning in public on <a href="https://www.twitch.tv/kasuken" target="_blank">Twitch</a> or <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a> 🎦 ✍🏾
 - Sharing updates on <a href="https://www.linkedin.com/in/bartolesiemanuele/">LinkedIn</a> 💼
 - My site: <a href="https://www.emanuelebartolesi.com/" target="_blank">www.emanuelebartolesi.com</a>
 - Writing articles: <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>
+- Learning in public on <a href="https://www.twitch.tv/kasuken" target="_blank">Twitch</a> or <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a> 🎦 ✍🏾
 
 ## ✨ Current situation
 
@@ -46,6 +46,12 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 [Access the course](https://bit.ly/learningithub)
 
 <img src="https://github.com/user-attachments/assets/50a0eb9b-036e-4ceb-aada-7505d4820c53" width="450px" />
+
+## GitHub Space Shooter
+
+<p align=center>
+<img src="game.gif" alt="GitHub Space Shooter">
+</p>
 
 ## 👨🏻‍💻 Programming Languages
 <p align="left">
