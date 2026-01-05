@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/golbin/gw/issues/1) in [golbin/gw](https://github.com/golbin/gw)
-2. 🚀 Published release [v1.5.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v1.5.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-3. 🚀 Published release [v1.4.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v1.4.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-4. 🔒 Closed issue [#3](https://github.com/kasuken/vscode-copilot-insights/issues/3) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. 🔒 Closed issue [#2](https://github.com/kasuken/vscode-copilot-insights/issues/2) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+1. ℹ️ Labeled issue [#8](https://github.com/kasuken/vscode-copilot-insights/issues/8) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+2. ℹ️ Assigned issue [#8](https://github.com/kasuken/vscode-copilot-insights/issues/8) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+3. ❗ Opened issue [#1](https://github.com/golbin/gw/issues/1) in [golbin/gw](https://github.com/golbin/gw)
+4. 🚀 Published release [v1.5.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v1.5.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+5. 🚀 Published release [v1.4.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v1.4.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
