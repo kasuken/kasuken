@@ -117,7 +117,7 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 🏆GitHub Trophies
 <p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy.vercel.app/?username=kasuken&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=kasuken&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
 
 ## 📝 Blog posts
