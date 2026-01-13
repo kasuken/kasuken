@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/kasuken/vscode-copilot-insights/pull/9#issuecomment-3738840107) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-2. 🔒 Closed issue [#8](https://github.com/kasuken/vscode-copilot-insights/issues/8) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-3. 🗣 Commented on [#8](https://github.com/kasuken/vscode-copilot-insights/issues/8#issuecomment-3738835313) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-4. 🚀 Published release [v1.8.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v1.8.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. ℹ️ Labeled PR [#9](https://github.com/kasuken/vscode-copilot-insights/pull/9) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+1. 🚀 Published release [v2.0.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v2.0.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+2. 🗣 Commented on [#9](https://github.com/kasuken/vscode-copilot-insights/pull/9#issuecomment-3738840107) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+3. 🔒 Closed issue [#8](https://github.com/kasuken/vscode-copilot-insights/issues/8) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+4. 🗣 Commented on [#8](https://github.com/kasuken/vscode-copilot-insights/issues/8#issuecomment-3738835313) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+5. 🚀 Published release [v1.8.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v1.8.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
