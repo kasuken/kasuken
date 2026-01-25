@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.2](https://github.com/kasuken/github-copilot-superpowers/releases/tag/v1.0.2) in [kasuken/github-copilot-superpowers](https://github.com/kasuken/github-copilot-superpowers)
-2. 🚀 Published release [v1.0.1](https://github.com/kasuken/github-copilot-superpowers/releases/tag/v1.0.1) in [kasuken/github-copilot-superpowers](https://github.com/kasuken/github-copilot-superpowers)
-3. 🚀 Published release [v1.0.0](https://github.com/kasuken/github-copilot-superpowers/releases/tag/v1.0.0) in [kasuken/github-copilot-superpowers](https://github.com/kasuken/github-copilot-superpowers)
-4. 🎉 Merged PR [#1174](https://github.com/xdesro/personalsit.es/pull/1174) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
-5. 💪 Opened PR [#1174](https://github.com/xdesro/personalsit.es/pull/1174) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
+1. 🚀 Published release [v1.0.0](https://github.com/kasuken/vscode-shipit/releases/tag/v1.0.0) in [kasuken/vscode-shipit](https://github.com/kasuken/vscode-shipit)
+2. 🚀 Published release [v1.0.2](https://github.com/kasuken/github-copilot-superpowers/releases/tag/v1.0.2) in [kasuken/github-copilot-superpowers](https://github.com/kasuken/github-copilot-superpowers)
+3. 🚀 Published release [v1.0.1](https://github.com/kasuken/github-copilot-superpowers/releases/tag/v1.0.1) in [kasuken/github-copilot-superpowers](https://github.com/kasuken/github-copilot-superpowers)
+4. 🚀 Published release [v1.0.0](https://github.com/kasuken/github-copilot-superpowers/releases/tag/v1.0.0) in [kasuken/github-copilot-superpowers](https://github.com/kasuken/github-copilot-superpowers)
+5. 🎉 Merged PR [#1174](https://github.com/xdesro/personalsit.es/pull/1174) in [xdesro/personalsit.es](https://github.com/xdesro/personalsit.es)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
