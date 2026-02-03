@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/estruyf/ghostwriter-app/pull/1) in [estruyf/ghostwriter-app](https://github.com/estruyf/ghostwriter-app)
-2. 🚀 Published release [v3.0.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.0.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-3. 🚀 Published release [v2.0.0](https://github.com/kasuken/vscode-shipit/releases/tag/v2.0.0) in [kasuken/vscode-shipit](https://github.com/kasuken/vscode-shipit)
-4. 💪 Opened PR [#1](https://github.com/estruyf/ghostwriter-app/pull/1) in [estruyf/ghostwriter-app](https://github.com/estruyf/ghostwriter-app)
-5. 🗣 Commented on [#11](https://github.com/kasuken/vscode-copilot-insights/pull/11#issuecomment-3798255269) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+1. 🗣 Commented on [#1](https://github.com/xebia/git-github-training-scratch/pull/1#issuecomment-3840271372) in [xebia/git-github-training-scratch](https://github.com/xebia/git-github-training-scratch)
+2. 🎉 Merged PR [#1](https://github.com/estruyf/ghostwriter-app/pull/1) in [estruyf/ghostwriter-app](https://github.com/estruyf/ghostwriter-app)
+3. 🚀 Published release [v3.0.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.0.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+4. 🚀 Published release [v2.0.0](https://github.com/kasuken/vscode-shipit/releases/tag/v2.0.0) in [kasuken/vscode-shipit](https://github.com/kasuken/vscode-shipit)
+5. 💪 Opened PR [#1](https://github.com/estruyf/ghostwriter-app/pull/1) in [estruyf/ghostwriter-app](https://github.com/estruyf/ghostwriter-app)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
