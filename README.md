@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.5.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.5.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-2. 🗣 Commented on [#1](https://github.com/xebia/git-github-training-scratch/pull/1#issuecomment-3840271372) in [xebia/git-github-training-scratch](https://github.com/xebia/git-github-training-scratch)
-3. 🎉 Merged PR [#1](https://github.com/estruyf/ghostwriter-app/pull/1) in [estruyf/ghostwriter-app](https://github.com/estruyf/ghostwriter-app)
-4. 🚀 Published release [v3.0.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.0.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. 🚀 Published release [v2.0.0](https://github.com/kasuken/vscode-shipit/releases/tag/v2.0.0) in [kasuken/vscode-shipit](https://github.com/kasuken/vscode-shipit)
+1. 🚀 Published release [v3.0.0](https://github.com/kasuken/vscode-shipit/releases/tag/v3.0.0) in [kasuken/vscode-shipit](https://github.com/kasuken/vscode-shipit)
+2. 🚀 Published release [v3.5.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.5.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+3. 🗣 Commented on [#1](https://github.com/xebia/git-github-training-scratch/pull/1#issuecomment-3840271372) in [xebia/git-github-training-scratch](https://github.com/xebia/git-github-training-scratch)
+4. 🎉 Merged PR [#1](https://github.com/estruyf/ghostwriter-app/pull/1) in [estruyf/ghostwriter-app](https://github.com/estruyf/ghostwriter-app)
+5. 🚀 Published release [v3.0.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.0.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
