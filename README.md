@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/kasuken/Harvest.CLI/pull/2) in [kasuken/Harvest.CLI](https://github.com/kasuken/Harvest.CLI)
-2. 💪 Opened PR [#2](https://github.com/kasuken/Harvest.CLI/pull/2) in [kasuken/Harvest.CLI](https://github.com/kasuken/Harvest.CLI)
-3. 🚀 Published release [v3.0.0](https://github.com/kasuken/vscode-shipit/releases/tag/v3.0.0) in [kasuken/vscode-shipit](https://github.com/kasuken/vscode-shipit)
-4. 🚀 Published release [v3.5.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.5.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. 🗣 Commented on [#1](https://github.com/xebia/git-github-training-scratch/pull/1#issuecomment-3840271372) in [xebia/git-github-training-scratch](https://github.com/xebia/git-github-training-scratch)
+1. ℹ️ Labeled issue [#4](https://github.com/kasuken/vibe-research/issues/4) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
+2. ❗ Opened issue [#4](https://github.com/kasuken/vibe-research/issues/4) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
+3. ℹ️ Labeled issue [#3](https://github.com/kasuken/vibe-research/issues/3) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
+4. ❗ Opened issue [#3](https://github.com/kasuken/vibe-research/issues/3) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
+5. 🔒 Closed issue [#1](https://github.com/kasuken/vibe-research/issues/1) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
