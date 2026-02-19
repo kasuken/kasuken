@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4](https://github.com/kasuken/vibe-research/issues/4) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
-2. ❗ Opened issue [#4](https://github.com/kasuken/vibe-research/issues/4) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
-3. ℹ️ Labeled issue [#3](https://github.com/kasuken/vibe-research/issues/3) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
-4. ❗ Opened issue [#3](https://github.com/kasuken/vibe-research/issues/3) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
-5. 🔒 Closed issue [#1](https://github.com/kasuken/vibe-research/issues/1) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
+1. 🚀 Published release [v1.0.3](https://github.com/kasuken/github-copilot-superpowers/releases/tag/v1.0.3) in [kasuken/github-copilot-superpowers](https://github.com/kasuken/github-copilot-superpowers)
+2. ℹ️ Labeled issue [#4](https://github.com/kasuken/vibe-research/issues/4) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
+3. ❗ Opened issue [#4](https://github.com/kasuken/vibe-research/issues/4) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
+4. ℹ️ Labeled issue [#3](https://github.com/kasuken/vibe-research/issues/3) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
+5. ❗ Opened issue [#3](https://github.com/kasuken/vibe-research/issues/3) in [kasuken/vibe-research](https://github.com/kasuken/vibe-research)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
