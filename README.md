@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Unassigned issue [#1](https://github.com/kasuken/LearnStack/issues/1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-2. ℹ️ Labeled issue [#2](https://github.com/kasuken/LearnStack/issues/2) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. ❗ Opened issue [#2](https://github.com/kasuken/LearnStack/issues/2) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. ℹ️ Assigned issue [#1](https://github.com/kasuken/LearnStack/issues/1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. ℹ️ Labeled issue [#1](https://github.com/kasuken/LearnStack/issues/1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 🚀 Published release [v1.0.0](https://github.com/kasuken/copilot-devpersona/releases/tag/v1.0.0) in [kasuken/copilot-devpersona](https://github.com/kasuken/copilot-devpersona)
+2. ℹ️ Unassigned issue [#1](https://github.com/kasuken/LearnStack/issues/1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+3. ℹ️ Labeled issue [#2](https://github.com/kasuken/LearnStack/issues/2) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+4. ❗ Opened issue [#2](https://github.com/kasuken/LearnStack/issues/2) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. ℹ️ Assigned issue [#1](https://github.com/kasuken/LearnStack/issues/1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
