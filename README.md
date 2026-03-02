@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#17](https://github.com/kasuken/LearnStack/issues/17) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-2. ℹ️ Labeled issue [#17](https://github.com/kasuken/LearnStack/issues/17) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. ❗ Opened issue [#17](https://github.com/kasuken/LearnStack/issues/17) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. ℹ️ Assigned issue [#16](https://github.com/kasuken/LearnStack/issues/16) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. ℹ️ Labeled issue [#16](https://github.com/kasuken/LearnStack/issues/16) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 🔒 Closed issue [#15](https://github.com/kasuken/LearnStack/issues/15) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+2. 🔒 Closed issue [#16](https://github.com/kasuken/LearnStack/issues/16) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+3. ℹ️ Assigned issue [#17](https://github.com/kasuken/LearnStack/issues/17) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+4. ℹ️ Labeled issue [#17](https://github.com/kasuken/LearnStack/issues/17) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. ❗ Opened issue [#17](https://github.com/kasuken/LearnStack/issues/17) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
