@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/kasuken/website/pull/13) in [kasuken/website](https://github.com/kasuken/website)
-2. 💪 Opened PR [#13](https://github.com/kasuken/website/pull/13) in [kasuken/website](https://github.com/kasuken/website)
-3. 🔒 Closed issue [#9](https://github.com/kasuken/LearnStack/issues/9) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. 🔒 Closed issue [#8](https://github.com/kasuken/LearnStack/issues/8) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. 🔒 Closed issue [#19](https://github.com/kasuken/LearnStack/issues/19) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 🚀 Published release [v3.7.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.7.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+2. 🎉 Merged PR [#13](https://github.com/kasuken/website/pull/13) in [kasuken/website](https://github.com/kasuken/website)
+3. 💪 Opened PR [#13](https://github.com/kasuken/website/pull/13) in [kasuken/website](https://github.com/kasuken/website)
+4. 🔒 Closed issue [#9](https://github.com/kasuken/LearnStack/issues/9) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. 🔒 Closed issue [#8](https://github.com/kasuken/LearnStack/issues/8) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
