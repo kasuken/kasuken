@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v2.0.0](https://github.com/kasuken/banner-creator/releases/tag/v2.0.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
-2. 🗣 Commented on [#703](https://github.com/github/copilot-sdk/issues/703#issuecomment-4067769661) in [github/copilot-sdk](https://github.com/github/copilot-sdk)
-3. 🚀 Published release [v3.7.1](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.7.1) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-4. 🔒 Closed issue [#13](https://github.com/kasuken/vscode-copilot-insights/issues/13) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. 🚀 Published release [v3.7.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.7.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+1. 🚀 Published release [v1.0.2](https://github.com/kasuken/vs-copilot-insights/releases/tag/v1.0.2) in [kasuken/vs-copilot-insights](https://github.com/kasuken/vs-copilot-insights)
+2. 🚀 Published release [v2.0.0](https://github.com/kasuken/banner-creator/releases/tag/v2.0.0) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+3. 🗣 Commented on [#703](https://github.com/github/copilot-sdk/issues/703#issuecomment-4067769661) in [github/copilot-sdk](https://github.com/github/copilot-sdk)
+4. 🚀 Published release [v3.7.1](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.7.1) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+5. 🔒 Closed issue [#13](https://github.com/kasuken/vscode-copilot-insights/issues/13) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
