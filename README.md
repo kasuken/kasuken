@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/kasuken/LearnStack/pull/24) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-2. 💪 Opened PR [#24](https://github.com/kasuken/LearnStack/pull/24) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. 🔒 Closed issue [#11](https://github.com/kasuken/LearnStack/issues/11) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. 🚀 Published release [v0.1.1](https://github.com/kasuken/LearnStack/releases/tag/v0.1.1) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. 🎉 Merged PR [#21](https://github.com/kasuken/LearnStack/pull/21) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 🎉 Merged PR [#27](https://github.com/kasuken/LearnStack/pull/27) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+2. 💪 Opened PR [#27](https://github.com/kasuken/LearnStack/pull/27) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+3. 🚀 Published release [v1.1.0](https://github.com/kasuken/LearnStack/releases/tag/v1.1.0) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+4. 🔒 Closed issue [#26](https://github.com/kasuken/LearnStack/issues/26) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. ℹ️ Labeled issue [#26](https://github.com/kasuken/LearnStack/issues/26) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
