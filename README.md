@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.0](https://github.com/kasuken/LearnStack/releases/tag/v1.2.0) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-2. 🎉 Merged PR [#28](https://github.com/kasuken/LearnStack/pull/28) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. 💪 Opened PR [#28](https://github.com/kasuken/LearnStack/pull/28) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. 🎉 Merged PR [#27](https://github.com/kasuken/LearnStack/pull/27) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. 💪 Opened PR [#27](https://github.com/kasuken/LearnStack/pull/27) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 🚀 Published release [v0.0.3](https://github.com/kasuken/vscode-copilot-dashboard/releases/tag/v0.0.3) in [kasuken/vscode-copilot-dashboard](https://github.com/kasuken/vscode-copilot-dashboard)
+2. 🎉 Merged PR [#524](https://github.com/rajbos/github-copilot-token-usage/pull/524) in [rajbos/github-copilot-token-usage](https://github.com/rajbos/github-copilot-token-usage)
+3. 💪 Opened PR [#524](https://github.com/rajbos/github-copilot-token-usage/pull/524) in [rajbos/github-copilot-token-usage](https://github.com/rajbos/github-copilot-token-usage)
+4. 🚀 Published release [v1.2.0](https://github.com/kasuken/LearnStack/releases/tag/v1.2.0) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. 🎉 Merged PR [#28](https://github.com/kasuken/LearnStack/pull/28) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
