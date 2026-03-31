@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.4](https://github.com/kasuken/vscode-copilot-dashboard/releases/tag/v0.0.4) in [kasuken/vscode-copilot-dashboard](https://github.com/kasuken/vscode-copilot-dashboard)
-2. 🚀 Published release [v0.0.3](https://github.com/kasuken/vscode-copilot-dashboard/releases/tag/v0.0.3) in [kasuken/vscode-copilot-dashboard](https://github.com/kasuken/vscode-copilot-dashboard)
-3. 🎉 Merged PR [#524](https://github.com/rajbos/github-copilot-token-usage/pull/524) in [rajbos/github-copilot-token-usage](https://github.com/rajbos/github-copilot-token-usage)
-4. 💪 Opened PR [#524](https://github.com/rajbos/github-copilot-token-usage/pull/524) in [rajbos/github-copilot-token-usage](https://github.com/rajbos/github-copilot-token-usage)
-5. 🚀 Published release [v1.2.0](https://github.com/kasuken/LearnStack/releases/tag/v1.2.0) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 🚀 Published release [v3.8.5](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v3.8.5) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+2. 🗣 Commented on [#12](https://github.com/kasuken/vscode-copilot-insights/issues/12#issuecomment-4158456037) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+3. 🗣 Commented on [#15](https://github.com/kasuken/vscode-copilot-insights/issues/15#issuecomment-4158451080) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+4. 🔒 Closed issue [#15](https://github.com/kasuken/vscode-copilot-insights/issues/15) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+5. ℹ️ Labeled issue [#17](https://github.com/kasuken/vscode-copilot-insights/issues/17) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
