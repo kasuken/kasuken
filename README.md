@@ -122,11 +122,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using GitHub Copilot CLI with Azure AI Foundry &lpar;BYOK Models&rpar; – Part 2](https://dev.to/playfulprogramming/using-github-copilot-cli-with-azure-ai-foundry-byok-models-part-2-4e5n)
 - [Using GitHub Copilot CLI with Local Models &lpar;LM Studio&rpar;](https://dev.to/playfulprogramming/using-github-copilot-cli-with-local-models-lm-studio-5e3b)
 - [GitHub Copilot Is Too Nice. Fix It With a Tone of Voice File.](https://dev.to/playfulprogramming/github-copilot-is-too-nice-fix-it-with-a-tone-of-voice-file-39ij)
 - [Git Mirroring During Migrations: `--all` vs `--mirror`](https://dev.to/playfulprogramming/git-mirroring-during-migrations-all-vs-mirror-2i4h)
 - [GitHub Copilot to Generate Conventional Commit Messages in VSCode and JetBrains Rider](https://dev.to/playfulprogramming/github-copilot-to-generate-conventional-commit-messages-in-vscode-and-jetbrains-rider-1n3b)
-- [A Practical GitFlow Setup That Works on GitHub](https://dev.to/playfulprogramming/a-practical-gitflow-setup-that-works-on-github-46lb)
 <!-- BLOG-POST-LIST:END -->
 
 ## ⚡ Recent Activities
