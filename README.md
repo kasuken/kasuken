@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.14.0](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.14.0) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-2. 🔒 Closed issue [#5](https://github.com/kasuken/vscode-taskdeck/issues/5) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-3. 🗣 Commented on [#5](https://github.com/kasuken/vscode-taskdeck/issues/5#issuecomment-4225113486) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-4. ℹ️ Labeled issue [#5](https://github.com/kasuken/vscode-taskdeck/issues/5) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-5. ℹ️ Assigned issue [#5](https://github.com/kasuken/vscode-taskdeck/issues/5) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
+1. 🚀 Published release [v0.1](https://github.com/kasuken/chrome-edge-extension-github-copilot-render/releases/tag/v0.1) in [kasuken/chrome-edge-extension-github-copilot-render](https://github.com/kasuken/chrome-edge-extension-github-copilot-render)
+2. 🚀 Published release [v0.14.0](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.14.0) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
+3. 🔒 Closed issue [#5](https://github.com/kasuken/vscode-taskdeck/issues/5) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
+4. 🗣 Commented on [#5](https://github.com/kasuken/vscode-taskdeck/issues/5#issuecomment-4225113486) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
+5. ℹ️ Labeled issue [#5](https://github.com/kasuken/vscode-taskdeck/issues/5) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
