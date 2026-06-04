@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.1.1](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.1.1) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-2. 🚀 Published release [v4.0.2](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.0.2) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-3. 🚀 Published release [v4.0.1](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.0.1) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-4. 🚀 Published release [v4.0.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.0.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. 🔒 Closed issue [#21](https://github.com/kasuken/vscode-copilot-insights/issues/21) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+1. ℹ️ Labeled issue [#13](https://github.com/kasuken/LearnStack/issues/13) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+2. ℹ️ Labeled issue [#30](https://github.com/kasuken/LearnStack/issues/30) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+3. ❗ Opened issue [#30](https://github.com/kasuken/LearnStack/issues/30) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+4. ℹ️ Labeled issue [#29](https://github.com/kasuken/LearnStack/issues/29) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. ❗ Opened issue [#29](https://github.com/kasuken/LearnStack/issues/29) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
