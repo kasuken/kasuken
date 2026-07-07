@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v4.6.5](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.5) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-2. 🚀 Published release [v4.6.4](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.4) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-3. 🚀 Published release [v4.6.3](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.3) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-4. 🚀 Published release [v4.6.2](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.2) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. 🚀 Published release [v4.6.1](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.1) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+1. 🚀 Published release [v4.6.6](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.6) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+2. 🚀 Published release [v4.6.5](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.5) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+3. 🚀 Published release [v4.6.4](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.4) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+4. 🚀 Published release [v4.6.3](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.3) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+5. 🚀 Published release [v4.6.2](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.2) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
