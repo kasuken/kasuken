@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/kasuken/website/pull/15) in [kasuken/website](https://github.com/kasuken/website)
-2. 💪 Opened PR [#15](https://github.com/kasuken/website/pull/15) in [kasuken/website](https://github.com/kasuken/website)
-3. 🚀 Published release [v4.6.6](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.6) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-4. 🚀 Published release [v4.6.5](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.5) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. 🚀 Published release [v4.6.4](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.4) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+1. 🎉 Merged PR [#17](https://github.com/kasuken/website/pull/17) in [kasuken/website](https://github.com/kasuken/website)
+2. 💪 Opened PR [#17](https://github.com/kasuken/website/pull/17) in [kasuken/website](https://github.com/kasuken/website)
+3. 🎉 Merged PR [#15](https://github.com/kasuken/website/pull/15) in [kasuken/website](https://github.com/kasuken/website)
+4. 💪 Opened PR [#15](https://github.com/kasuken/website/pull/15) in [kasuken/website](https://github.com/kasuken/website)
+5. 🚀 Published release [v4.6.6](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.6) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
