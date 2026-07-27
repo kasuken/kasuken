@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#31](https://github.com/kasuken/vscode-copilot-insights/pull/31#issuecomment-5081420952) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-2. 🚀 Published release [v.4.6.7](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.7) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-3. 🎉 Merged PR [#17](https://github.com/kasuken/website/pull/17) in [kasuken/website](https://github.com/kasuken/website)
-4. 💪 Opened PR [#17](https://github.com/kasuken/website/pull/17) in [kasuken/website](https://github.com/kasuken/website)
-5. 🎉 Merged PR [#15](https://github.com/kasuken/website/pull/15) in [kasuken/website](https://github.com/kasuken/website)
+1. 🗣 Commented on [#31](https://github.com/kasuken/vscode-copilot-insights/pull/31#issuecomment-5089465819) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+2. 🚀 Published release [v5.0.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.0.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+3. 🗣 Commented on [#31](https://github.com/kasuken/vscode-copilot-insights/pull/31#issuecomment-5081420952) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+4. 🚀 Published release [v.4.6.7](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v4.6.7) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+5. 🎉 Merged PR [#17](https://github.com/kasuken/website/pull/17) in [kasuken/website](https://github.com/kasuken/website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
