@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.7.0](https://github.com/kasuken/Brainy/releases/tag/v1.7.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-2. 🚀 Published release [v3.0.0](https://github.com/kasuken/learngit.space/releases/tag/v3.0.0) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-3. 🎉 Merged PR [#11](https://github.com/kasuken/learngit.space/pull/11) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-4. 💪 Opened PR [#11](https://github.com/kasuken/learngit.space/pull/11) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
-5. 🚀 Published release [v1.6.0](https://github.com/kasuken/Brainy/releases/tag/v1.6.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+1. 🚀 Published release [v1.8.0](https://github.com/kasuken/Brainy/releases/tag/v1.8.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+2. 🚀 Published release [v1.7.0](https://github.com/kasuken/Brainy/releases/tag/v1.7.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+3. 🚀 Published release [v3.0.0](https://github.com/kasuken/learngit.space/releases/tag/v3.0.0) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+4. 🎉 Merged PR [#11](https://github.com/kasuken/learngit.space/pull/11) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
+5. 💪 Opened PR [#11](https://github.com/kasuken/learngit.space/pull/11) in [kasuken/learngit.space](https://github.com/kasuken/learngit.space)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
