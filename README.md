@@ -132,11 +132,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v3.4.0](https://github.com/kasuken/Brainy/releases/tag/v3.4.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-2. 🚀 Published release [v3.3.0](https://github.com/kasuken/Brainy/releases/tag/v3.3.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-3. 🚀 Published release [v3.2.0](https://github.com/kasuken/Brainy/releases/tag/v3.2.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-4. 🚀 Published release [v3.1.0](https://github.com/kasuken/Brainy/releases/tag/v3.1.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-5. 🚀 Published release [v2.1.0](https://github.com/kasuken/Brainy/releases/tag/v2.1.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+1. 🚀 Published release [v4.0.0](https://github.com/kasuken/Brainy/releases/tag/v4.0.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+2. 🎉 Merged PR [#277](https://github.com/kasuken/Brainy/pull/277) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+3. 💪 Opened PR [#277](https://github.com/kasuken/Brainy/pull/277) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+4. 🚀 Published release [v3.4.0](https://github.com/kasuken/Brainy/releases/tag/v3.4.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+5. 🚀 Published release [v3.3.0](https://github.com/kasuken/Brainy/releases/tag/v3.3.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
