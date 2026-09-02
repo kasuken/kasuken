@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.13.2](https://github.com/kasuken/Brainy/releases/tag/v5.13.2) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-2. 🚀 Published release [v5.13.1](https://github.com/kasuken/Brainy/releases/tag/v5.13.1) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-3. 🚀 Published release [v5.13.0](https://github.com/kasuken/Brainy/releases/tag/v5.13.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-4. 🚀 Published release [v5.12.4](https://github.com/kasuken/Brainy/releases/tag/v5.12.4) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-5. 🎉 Merged PR [#37](https://github.com/kasuken/LearnStack/pull/37) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. ℹ️ Labeled issue [#19](https://github.com/kasuken/Needly/issues/19) in [kasuken/Needly](https://github.com/kasuken/Needly)
+2. ℹ️ Labeled issue [#19](https://github.com/kasuken/Needly/issues/19) in [kasuken/Needly](https://github.com/kasuken/Needly)
+3. ❗ Opened issue [#19](https://github.com/kasuken/Needly/issues/19) in [kasuken/Needly](https://github.com/kasuken/Needly)
+4. ℹ️ Labeled issue [#19](https://github.com/kasuken/Needly/issues/19) in [kasuken/Needly](https://github.com/kasuken/Needly)
+5. ℹ️ Labeled issue [#19](https://github.com/kasuken/Needly/issues/19) in [kasuken/Needly](https://github.com/kasuken/Needly)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
