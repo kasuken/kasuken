@@ -3,6 +3,11 @@
 
 <img src="https://github.com/user-attachments/assets/9c27c178-403c-418f-a2bf-78e2c0045434" alt="Emanuele Bartolesi - software engineer, content creator and community organizer" />
 
+<p>
+  <a href="https://github.com/kasuken"><img src="https://img.shields.io/github/followers/kasuken?style=for-the-badge&logo=github&labelColor=black&color=blueviolet" alt="GitHub followers" /></a>
+  <a href="https://www.twitch.tv/kasuken"><img src="https://img.shields.io/twitch/status/kasuken?style=for-the-badge&logo=twitch&logoColor=white&labelColor=black&color=blueviolet" alt="Twitch status" /></a>
+</p>
+
 I'm the **GitHub Technical Lead - DACH**, and I'm passionate about **frontend technologies** and everything related to the cloud, especially **Microsoft Azure**.
 I currently live in **Zurich** and actively participate in local and international community activities and events.
 I share my love for technology through my blog <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>.
@@ -15,17 +20,34 @@ GitHub Star of the Year 2023. 🏆
 - Sharing updates on <a href="https://www.linkedin.com/in/bartolesiemanuele/">LinkedIn</a> 💼
 - My site: <a href="https://www.emanuelebartolesi.com/" target="_blank">www.emanuelebartolesi.com</a>
 - Writing articles: <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a>
-- Learning in public on <a href="https://www.twitch.tv/kasuken" target="_blank">Twitch</a> or <a href="https://dev.to/kasuken" target="_blank">dev.to/kasuken</a> 🎦 ✍🏾
+- Learning in public on <a href="https://www.twitch.tv/kasuken" target="_blank">Twitch</a> and thinking to move to Kick in the future.
 
 ## ✨ Current situation
 
 - ☁️ I work as a GitHub Technical Lead at [Xebia](https://xebia.com/)
 - 🤓 I am the CIO (ex CTO) and co-founder of [Brandplane](https://www.brandplane.co), a marketing agency driven by AI
+- 🚀 I am building a portfolio of SaaS products — check them out [below](#-my-saas-products)
 - 🌱 I’m currently learning Blazor, ASP.NET Core GraphQL, LLM and SLM
 - 📙 I wrote a **book** about **Minimal APIs** for **[Packt](https://www.packtpub.com/product/minimal-apis-in-asp-net-core-6/9781803237824)**
 - 📝 I am writing a book about Cloud Automation with GitHub Copilot for Packt
 - 🧙‍♂️ I released a course "**[Learning GitHub](https://bit.ly/learningithub)**" on **LinkedIn Learning**
 - 🏊🚴🏃 Sport fact: I am an Ironman finisher, still training for triathlon, came back to martial arts (kick boxing) for a while
+
+## 🚀 My SaaS Products
+
+I love building products. These are the SaaS I run in production or I am actively developing:
+
+<!-- TODO: replace the GitHub links with product URLs and add links for MoneyBrain, Relio, Needly, OctoWatch and CallStage -->
+
+| Product | Status | What it does |
+| --- | --- | --- |
+| 🧠 [Brainy](https://github.com/kasuken/Brainy) | 🟢 In production | Your second brain, inspired by the PARA method and the CODE workflow. Built with .NET and Blazor. |
+| 📚 [LearnStack](https://github.com/kasuken/LearnStack) | 🟢 In production | A personal learning queue that helps you collect, prioritize, and turn knowledge into output. |
+| 💰 MoneyBrain | 🟢 In production | Personal finance, minus the spreadsheets: track, budget, and understand your money. |
+| 🤝 Relio | 🚧 In development | A lightweight personal CRM to keep your personal relationships alive. |
+| 📌 Needly | 🚧 In development | The engineering action inbox for GitHub. |
+| 🐙 OctoWatch | 🚧 In development | Keep an eye on your GitHub repositories, Organizations, Teams, and activity in one place. |
+| 🎤 CallStage | 🚧 In development | Track call-for-papers, submissions, and speaking engagements in one place. |
 
 ## 📖 Books
 ### Mastering Minimal APIs in ASP.NET Core
@@ -39,7 +61,7 @@ By the end of this book, you’ll be able to fully leverage new features in .NET
 
 ![](https://static.packt-cdn.com/products/9781803237824/cover/smaller)
 
-## Courses
+## 🎓 Courses
 ### Learning GitHub on LinkedIn Learning
 GitHub is the industry-standard tool for collaborating on and sharing code. It’s popular among software developers, project managers, designers, and students for its flexibility and control. This course introduces GitHub and Git, the version control system that GitHub is built upon. Instructor Emanuele Bartolesi shows how GitHub can create collaborative workflows for you and your team. Explore how version control enables you and your team to track the changes in your files, maintain a history of them, and get some advice on working better with open-source projects. Emanuele gives you the knowledge you need to be able to select appropriate projects to be pushed to GitHub, successfully initialize Git on an existing project, navigate the GitHub UI to perform common tasks like branching, commits, and pull requests, and more.
 
@@ -47,13 +69,16 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 <img src="https://github.com/user-attachments/assets/50a0eb9b-036e-4ceb-aada-7505d4820c53" width="450px" />
 
-## GitHub Space Shooter
+## 🎮 GitHub Space Shooter
 
 <p align=center>
 <img src="game.gif" alt="GitHub Space Shooter">
 </p>
 
-## 👨🏻‍💻 Programming Languages
+## 🧰 Tech Stack
+
+<details open>
+<summary><b>👨🏻‍💻 Programming Languages</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -63,8 +88,10 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
+</details>
 
-## 💻 Framework and Libraries
+<details>
+<summary><b>💻 Framework and Libraries</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -75,39 +102,50 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
   <img src="https://img.shields.io/badge/gatsby-000000?style=for-the-badge&logo=gatsby&logoColor=white" />
   <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
 </p>
+</details>
 
-## ☁️ Cloud Services
+<details>
+<summary><b>☁️ Cloud Services</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
+</details>
 
-## 💾 Databases
+<details>
+<summary><b>💾 Databases</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
+</details>
 
-## ⚙️ IDE & Editors
+<details>
+<summary><b>⚙️ IDE & Editors</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
 </p>
+</details>
 
-## 🔨 Productivity Tools
+<details>
+<summary><b>🔨 Productivity Tools</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
 </p>
+</details>
 
-## 🦾 Tools
+<details>
+<summary><b>🦾 Tools</b></summary>
 <p align="left">
   <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+</details>
 
 ## 📈 GitHub Stats
 
@@ -115,10 +153,8 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/kasuken/kasuken/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## 🏆GitHub Trophies
-<p align="center" style="witdh:100%">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=kasuken&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=1" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=kasuken)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -128,6 +164,8 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 - [Using GitHub Copilot CLI with Local Models &lpar;LM Studio&rpar;](https://dev.to/playfulprogramming/using-github-copilot-cli-with-local-models-lm-studio-5e3b)
 - [GitHub Copilot Is Too Nice. Fix It With a Tone of Voice File.](https://dev.to/playfulprogramming/github-copilot-is-too-nice-fix-it-with-a-tone-of-voice-file-39ij)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [More articles on dev.to](https://dev.to/kasuken)
 
 ## ⚡ Recent Activities
 
@@ -149,7 +187,7 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 [<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/channel/UCU67JYtJURWRTx7vrdx9APg)
 
 ---
-<p align="center"> © 2025 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
+<p align="center"> © 2026 Emanuele Bartolesi, all rights reserved. Made with ❤️. </p>
 <p align="center">
 https://www.emanuelebartolesi.com
 </p>
