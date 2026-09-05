@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#305](https://github.com/kasuken/Brainy/issues/305) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-2. ℹ️ Labeled issue [#305](https://github.com/kasuken/Brainy/issues/305) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+1. 🗣 Commented on [#304](https://github.com/kasuken/Brainy/issues/304#issuecomment-5552425751) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+2. 🔒 Closed issue [#304](https://github.com/kasuken/Brainy/issues/304) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
 3. ℹ️ Labeled issue [#305](https://github.com/kasuken/Brainy/issues/305) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
 4. ℹ️ Labeled issue [#305](https://github.com/kasuken/Brainy/issues/305) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-5. ❗ Opened issue [#305](https://github.com/kasuken/Brainy/issues/305) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+5. ℹ️ Labeled issue [#305](https://github.com/kasuken/Brainy/issues/305) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
