@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#59](https://github.com/kasuken/Needly/pull/59) in [kasuken/Needly](https://github.com/kasuken/Needly)
-2. 🚀 Published release [v0.0.5](https://github.com/kasuken/Needly/releases/tag/v0.0.5) in [kasuken/Needly](https://github.com/kasuken/Needly)
-3. 🎉 Merged PR [#58](https://github.com/kasuken/Needly/pull/58) in [kasuken/Needly](https://github.com/kasuken/Needly)
-4. 🔒 Closed issue [#24](https://github.com/kasuken/Needly/issues/24) in [kasuken/Needly](https://github.com/kasuken/Needly)
-5. 🎉 Merged PR [#57](https://github.com/kasuken/Needly/pull/57) in [kasuken/Needly](https://github.com/kasuken/Needly)
+1. 🎉 Merged PR [#62](https://github.com/kasuken/Needly/pull/62) in [kasuken/Needly](https://github.com/kasuken/Needly)
+2. 💪 Opened PR [#62](https://github.com/kasuken/Needly/pull/62) in [kasuken/Needly](https://github.com/kasuken/Needly)
+3. 🎉 Merged PR [#61](https://github.com/kasuken/Needly/pull/61) in [kasuken/Needly](https://github.com/kasuken/Needly)
+4. 🔒 Closed issue [#34](https://github.com/kasuken/Needly/issues/34) in [kasuken/Needly](https://github.com/kasuken/Needly)
+5. 🔒 Closed issue [#35](https://github.com/kasuken/Needly/issues/35) in [kasuken/Needly](https://github.com/kasuken/Needly)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
