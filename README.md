@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#62](https://github.com/kasuken/Needly/pull/62) in [kasuken/Needly](https://github.com/kasuken/Needly)
-2. 💪 Opened PR [#62](https://github.com/kasuken/Needly/pull/62) in [kasuken/Needly](https://github.com/kasuken/Needly)
-3. 🎉 Merged PR [#61](https://github.com/kasuken/Needly/pull/61) in [kasuken/Needly](https://github.com/kasuken/Needly)
-4. 🔒 Closed issue [#34](https://github.com/kasuken/Needly/issues/34) in [kasuken/Needly](https://github.com/kasuken/Needly)
-5. 🔒 Closed issue [#35](https://github.com/kasuken/Needly/issues/35) in [kasuken/Needly](https://github.com/kasuken/Needly)
+1. 🎉 Merged PR [#22](https://github.com/kasuken/website/pull/22) in [kasuken/website](https://github.com/kasuken/website)
+2. 💪 Opened PR [#22](https://github.com/kasuken/website/pull/22) in [kasuken/website](https://github.com/kasuken/website)
+3. 🎉 Merged PR [#21](https://github.com/kasuken/website/pull/21) in [kasuken/website](https://github.com/kasuken/website)
+4. 💪 Opened PR [#21](https://github.com/kasuken/website/pull/21) in [kasuken/website](https://github.com/kasuken/website)
+5. 🎉 Merged PR [#62](https://github.com/kasuken/Needly/pull/62) in [kasuken/Needly](https://github.com/kasuken/Needly)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
