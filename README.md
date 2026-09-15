@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/kasuken/website/pull/22) in [kasuken/website](https://github.com/kasuken/website)
-2. 💪 Opened PR [#22](https://github.com/kasuken/website/pull/22) in [kasuken/website](https://github.com/kasuken/website)
-3. 🎉 Merged PR [#21](https://github.com/kasuken/website/pull/21) in [kasuken/website](https://github.com/kasuken/website)
-4. 💪 Opened PR [#21](https://github.com/kasuken/website/pull/21) in [kasuken/website](https://github.com/kasuken/website)
-5. 🎉 Merged PR [#62](https://github.com/kasuken/Needly/pull/62) in [kasuken/Needly](https://github.com/kasuken/Needly)
+1. 🗣 Commented on [#326](https://github.com/kasuken/Brainy/pull/326#issuecomment-5683263542) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+2. 🔒 Closed issue [#307](https://github.com/kasuken/Brainy/issues/307) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+3. 🎉 Merged PR [#325](https://github.com/kasuken/Brainy/pull/325) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+4. 💪 Opened PR [#326](https://github.com/kasuken/Brainy/pull/326) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+5. 🎉 Merged PR [#22](https://github.com/kasuken/website/pull/22) in [kasuken/website](https://github.com/kasuken/website)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
