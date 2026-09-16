@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.2.3](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.2.3) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-2. 🚀 Published release [v7.1.0](https://github.com/kasuken/Brainy/releases/tag/v7.1.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-3. 🚀 Published release [v5.2.2](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.2.2) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-4. 🚀 Published release [v5.2.1](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.2.1) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. 🚀 Published release [v7.0.0](https://github.com/kasuken/Brainy/releases/tag/v7.0.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+1. 🚀 Published release [v7.1.2](https://github.com/kasuken/Brainy/releases/tag/v7.1.2) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+2. 🚀 Published release [v7.1.1](https://github.com/kasuken/Brainy/releases/tag/v7.1.1) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+3. 🚀 Published release [v5.2.3](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.2.3) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+4. 🚀 Published release [v7.1.0](https://github.com/kasuken/Brainy/releases/tag/v7.1.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+5. 🚀 Published release [v5.2.2](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.2.2) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
