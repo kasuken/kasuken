@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v7.1.3](https://github.com/kasuken/Brainy/releases/tag/v7.1.3) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-2. 🚀 Published release [v7.1.2](https://github.com/kasuken/Brainy/releases/tag/v7.1.2) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-3. 🚀 Published release [v7.1.1](https://github.com/kasuken/Brainy/releases/tag/v7.1.1) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-4. 🚀 Published release [v5.2.3](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.2.3) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-5. 🚀 Published release [v7.1.0](https://github.com/kasuken/Brainy/releases/tag/v7.1.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+1. 🗣 Commented on [#13](https://github.com/kasuken/LearnStack/issues/13#issuecomment-5712483209) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+2. 🔒 Closed issue [#13](https://github.com/kasuken/LearnStack/issues/13) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+3. 🎉 Merged PR [#73](https://github.com/kasuken/LearnStack/pull/73) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+4. 💪 Opened PR [#73](https://github.com/kasuken/LearnStack/pull/73) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. 🚀 Published release [v7.1.3](https://github.com/kasuken/Brainy/releases/tag/v7.1.3) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
