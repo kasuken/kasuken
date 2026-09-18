@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/kasuken/LearnStack/pull/84) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-2. 💪 Opened PR [#83](https://github.com/kasuken/LearnStack/pull/83) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. 🗣 Commented on [#40](https://github.com/kasuken/LearnStack/issues/40#issuecomment-5721121970) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. 🔒 Closed issue [#40](https://github.com/kasuken/LearnStack/issues/40) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. 🗣 Commented on [#58](https://github.com/kasuken/LearnStack/issues/58#issuecomment-5721121581) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 🚀 Published release [v0.0.6](https://github.com/kasuken/Needly/releases/tag/v0.0.6) in [kasuken/Needly](https://github.com/kasuken/Needly)
+2. 🎉 Merged PR [#63](https://github.com/kasuken/Needly/pull/63) in [kasuken/Needly](https://github.com/kasuken/Needly)
+3. 💪 Opened PR [#63](https://github.com/kasuken/Needly/pull/63) in [kasuken/Needly](https://github.com/kasuken/Needly)
+4. 💪 Opened PR [#84](https://github.com/kasuken/LearnStack/pull/84) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. 💪 Opened PR [#83](https://github.com/kasuken/LearnStack/pull/83) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
