@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#31](https://github.com/kasuken/LearnStack/pull/31) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-2. ❌ Closed PR [#20](https://github.com/kasuken/LearnStack/pull/20) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. 🎉 Merged PR [#74](https://github.com/kasuken/LearnStack/pull/74) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. 🔒 Closed issue [#29](https://github.com/kasuken/LearnStack/issues/29) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. 💪 Opened PR [#74](https://github.com/kasuken/LearnStack/pull/74) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 💪 Opened PR [#84](https://github.com/kasuken/LearnStack/pull/84) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+2. 💪 Opened PR [#83](https://github.com/kasuken/LearnStack/pull/83) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+3. 🗣 Commented on [#40](https://github.com/kasuken/LearnStack/issues/40#issuecomment-5721121970) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+4. 🔒 Closed issue [#40](https://github.com/kasuken/LearnStack/issues/40) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. 🗣 Commented on [#58](https://github.com/kasuken/LearnStack/issues/58#issuecomment-5721121581) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
