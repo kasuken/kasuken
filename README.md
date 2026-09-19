@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#87](https://github.com/kasuken/LearnStack/pull/87) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-2. 💪 Opened PR [#87](https://github.com/kasuken/LearnStack/pull/87) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. 🎉 Merged PR [#86](https://github.com/kasuken/LearnStack/pull/86) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. 🗣 Commented on [#86](https://github.com/kasuken/LearnStack/pull/86#issuecomment-5740085429) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. 💪 Opened PR [#86](https://github.com/kasuken/LearnStack/pull/86) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 🎉 Merged PR [#13](https://github.com/kasuken/Passwordify/pull/13) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+2. 💪 Opened PR [#13](https://github.com/kasuken/Passwordify/pull/13) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+3. 🎉 Merged PR [#64](https://github.com/kasuken/Needly/pull/64) in [kasuken/Needly](https://github.com/kasuken/Needly)
+4. 💪 Opened PR [#64](https://github.com/kasuken/Needly/pull/64) in [kasuken/Needly](https://github.com/kasuken/Needly)
+5. 🔒 Closed issue [#2](https://github.com/kasuken/Passwordify/issues/2) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
