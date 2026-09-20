@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.8](https://github.com/kasuken/Needly/releases/tag/v0.0.8) in [kasuken/Needly](https://github.com/kasuken/Needly)
-2. 🎉 Merged PR [#66](https://github.com/kasuken/Needly/pull/66) in [kasuken/Needly](https://github.com/kasuken/Needly)
-3. 💪 Opened PR [#66](https://github.com/kasuken/Needly/pull/66) in [kasuken/Needly](https://github.com/kasuken/Needly)
-4. 🚀 Published release [v0.0.7](https://github.com/kasuken/Needly/releases/tag/v0.0.7) in [kasuken/Needly](https://github.com/kasuken/Needly)
-5. 🎉 Merged PR [#65](https://github.com/kasuken/Needly/pull/65) in [kasuken/Needly](https://github.com/kasuken/Needly)
+1. 🚀 Published release [v8.0.0](https://github.com/kasuken/Brainy/releases/tag/v8.0.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+2. 🎉 Merged PR [#331](https://github.com/kasuken/Brainy/pull/331) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+3. 💪 Opened PR [#331](https://github.com/kasuken/Brainy/pull/331) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+4. 🚀 Published release [v0.0.9](https://github.com/kasuken/Needly/releases/tag/v0.0.9) in [kasuken/Needly](https://github.com/kasuken/Needly)
+5. 🎉 Merged PR [#67](https://github.com/kasuken/Needly/pull/67) in [kasuken/Needly](https://github.com/kasuken/Needly)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
