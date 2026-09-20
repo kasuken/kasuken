@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/kasuken/Passwordify/pull/13) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-2. 💪 Opened PR [#13](https://github.com/kasuken/Passwordify/pull/13) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-3. 🎉 Merged PR [#64](https://github.com/kasuken/Needly/pull/64) in [kasuken/Needly](https://github.com/kasuken/Needly)
-4. 💪 Opened PR [#64](https://github.com/kasuken/Needly/pull/64) in [kasuken/Needly](https://github.com/kasuken/Needly)
-5. 🔒 Closed issue [#2](https://github.com/kasuken/Passwordify/issues/2) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+1. 🎉 Merged PR [#330](https://github.com/kasuken/Brainy/pull/330) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+2. 💪 Opened PR [#330](https://github.com/kasuken/Brainy/pull/330) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+3. 🎉 Merged PR [#328](https://github.com/kasuken/Brainy/pull/328) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+4. 🎉 Merged PR [#329](https://github.com/kasuken/Brainy/pull/329) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+5. 💪 Opened PR [#329](https://github.com/kasuken/Brainy/pull/329) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
