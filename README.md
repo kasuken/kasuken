@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/kasuken/Passwordify/pull/15) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-2. 💪 Opened PR [#15](https://github.com/kasuken/Passwordify/pull/15) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-3. 🎉 Merged PR [#14](https://github.com/kasuken/Passwordify/pull/14) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-4. 🚀 Published release [v8.1.0](https://github.com/kasuken/Brainy/releases/tag/v8.1.0) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-5. 🎉 Merged PR [#332](https://github.com/kasuken/Brainy/pull/332) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+1. 🎉 Merged PR [#17](https://github.com/kasuken/Passwordify/pull/17) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+2. 💪 Opened PR [#17](https://github.com/kasuken/Passwordify/pull/17) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+3. 🎉 Merged PR [#16](https://github.com/kasuken/Passwordify/pull/16) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+4. 💪 Opened PR [#16](https://github.com/kasuken/Passwordify/pull/16) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+5. 🎉 Merged PR [#15](https://github.com/kasuken/Passwordify/pull/15) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
