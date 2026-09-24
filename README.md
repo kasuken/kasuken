@@ -158,11 +158,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Moving to European Digital Services, One Decision at a Time](https://dev.to/playfulprogramming/moving-to-european-digital-services-one-decision-at-a-time-3j68)
 - [Fixing “Your organization has deleted this device” Without Reconnecting Everything](https://dev.to/kasuken/fixing-your-organization-has-deleted-this-device-without-reconnecting-everything-2dl6)
 - [Stop Coding Through Remote Desktop. Use VS Code Remote Tunnels Instead](https://dev.to/playfulprogramming/stop-coding-through-remote-desktop-use-vs-code-remote-tunnels-instead-37oc)
 - [Using GitHub Copilot CLI with Azure AI Foundry &lpar;BYOK Models&rpar; – Part 2](https://dev.to/playfulprogramming/using-github-copilot-cli-with-azure-ai-foundry-byok-models-part-2-4e5n)
 - [Using GitHub Copilot CLI with Local Models &lpar;LM Studio&rpar;](https://dev.to/playfulprogramming/using-github-copilot-cli-with-local-models-lm-studio-5e3b)
-- [GitHub Copilot Is Too Nice. Fix It With a Tone of Voice File.](https://dev.to/playfulprogramming/github-copilot-is-too-nice-fix-it-with-a-tone-of-voice-file-39ij)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on dev.to](https://dev.to/kasuken)
