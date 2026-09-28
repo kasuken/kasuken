@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/kasuken/LearnStack/pull/88) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-2. 💪 Opened PR [#88](https://github.com/kasuken/LearnStack/pull/88) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. 🚀 Published release [v0.0.1](https://github.com/kasuken/casegrid/releases/tag/v0.0.1) in [kasuken/casegrid](https://github.com/kasuken/casegrid)
-4. 🎉 Merged PR [#1](https://github.com/kasuken/banner-creator/pull/1) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
-5. 💪 Opened PR [#1](https://github.com/kasuken/banner-creator/pull/1) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+1. 🎉 Merged PR [#90](https://github.com/kasuken/LearnStack/pull/90) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+2. 💪 Opened PR [#90](https://github.com/kasuken/LearnStack/pull/90) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+3. 🎉 Merged PR [#89](https://github.com/kasuken/LearnStack/pull/89) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+4. 💪 Opened PR [#89](https://github.com/kasuken/LearnStack/pull/89) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. 🎉 Merged PR [#88](https://github.com/kasuken/LearnStack/pull/88) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
