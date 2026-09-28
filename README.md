@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/kasuken/banner-creator/pull/1) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
-2. 💪 Opened PR [#1](https://github.com/kasuken/banner-creator/pull/1) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
-3. 🎉 Merged PR [#17](https://github.com/kasuken/Passwordify/pull/17) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-4. 💪 Opened PR [#17](https://github.com/kasuken/Passwordify/pull/17) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-5. 🎉 Merged PR [#16](https://github.com/kasuken/Passwordify/pull/16) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+1. 🚀 Published release [v0.0.1](https://github.com/kasuken/casegrid/releases/tag/v0.0.1) in [kasuken/casegrid](https://github.com/kasuken/casegrid)
+2. 🎉 Merged PR [#1](https://github.com/kasuken/banner-creator/pull/1) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+3. 💪 Opened PR [#1](https://github.com/kasuken/banner-creator/pull/1) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+4. 🎉 Merged PR [#17](https://github.com/kasuken/Passwordify/pull/17) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+5. 💪 Opened PR [#17](https://github.com/kasuken/Passwordify/pull/17) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
