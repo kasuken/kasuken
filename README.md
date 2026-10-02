@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#9](https://github.com/kasuken/vscode-carbonbit/issues/9) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
-2. 🔒 Closed issue [#17](https://github.com/kasuken/vscode-carbonbit/issues/17) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
-3. 🔒 Closed issue [#4](https://github.com/kasuken/vscode-carbonbit/issues/4) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
-4. 🔒 Closed issue [#12](https://github.com/kasuken/vscode-carbonbit/issues/12) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
-5. 🔒 Closed issue [#11](https://github.com/kasuken/vscode-carbonbit/issues/11) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
+1. 🔒 Closed issue [#26](https://github.com/kasuken/vscode-carbonbit/issues/26) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
+2. 🔒 Closed issue [#9](https://github.com/kasuken/vscode-carbonbit/issues/9) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
+3. 🔒 Closed issue [#17](https://github.com/kasuken/vscode-carbonbit/issues/17) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
+4. 🔒 Closed issue [#4](https://github.com/kasuken/vscode-carbonbit/issues/4) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
+5. 🔒 Closed issue [#12](https://github.com/kasuken/vscode-carbonbit/issues/12) in [kasuken/vscode-carbonbit](https://github.com/kasuken/vscode-carbonbit)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
