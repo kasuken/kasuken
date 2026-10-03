@@ -35,19 +35,19 @@ GitHub Star of the Year 2023. 🏆
 
 ## 🚀 My SaaS Products
 
-I love building products. These are the SaaS I run in production or I am actively developing:
+I love building products. These are the SaaS I run in production or I am actively developing. The ones in production are open source under AGPL-3.0:
 
-<!-- TODO: replace the GitHub links with product URLs and add links for MoneyBrain, Relio, Needly, OctoWatch and CallStage -->
+<!-- TODO: add links for Relio, OctoWatch and CallStage -->
 
-| Product | Status | What it does |
-| --- | --- | --- |
-| 🧠 [Brainy](https://github.com/kasuken/Brainy) | 🟢 In production | Your second brain, inspired by the PARA method and the CODE workflow. Built with .NET and Blazor. |
-| 📚 [LearnStack](https://github.com/kasuken/LearnStack) | 🟢 In production | A personal learning queue that helps you collect, prioritize, and turn knowledge into output. |
-| 💰 MoneyBrain | 🟢 In production | Personal finance, minus the spreadsheets: track, budget, and understand your money. |
-| 🤝 Relio | 🚧 In development | A lightweight personal CRM to keep your personal relationships alive. |
-| 📌 Needly | 🚧 In development | The engineering action inbox for GitHub. |
-| 🐙 OctoWatch | 🚧 In development | Keep an eye on your GitHub repositories, Organizations, Teams, and activity in one place. |
-| 🎤 CallStage | 🚧 In development | Track call-for-papers, submissions, and speaking engagements in one place. |
+| Product | Status | What it does | Links |
+| --- | --- | --- | --- |
+| 🧠 [Brainy](https://www.brainy-me.com) | 🟢 In production | Your second brain, inspired by the PARA method and the CODE workflow. Built with .NET and Blazor. | [Website](https://www.brainy-me.com) · [Source](https://github.com/kasuken/Brainy) |
+| 📚 [LearnStack](https://learnstack.cloud) | 🟢 In production | A personal learning queue that helps you collect, prioritize, and turn knowledge into output. | [Website](https://learnstack.cloud) · [Source](https://github.com/kasuken/LearnStack) |
+| 💰 [MoneyBrain](https://moneybrain-prod001.azurewebsites.net) | 🟢 In production | Personal finance, minus the spreadsheets: track, budget, and understand your money. | [Website](https://moneybrain-prod001.azurewebsites.net) · [Source](https://github.com/kasuken/MoneyBrain) |
+| 📌 [Needly](https://www.needly.today) | 🟢 In production | The engineering action inbox for GitHub. | [Website](https://www.needly.today) · [Source](https://github.com/kasuken/Needly) |
+| 🤝 Relio | 🚧 In development | A lightweight personal CRM to keep your personal relationships alive. | |
+| 🐙 OctoWatch | 🚧 In development | Keep an eye on your GitHub repositories, Organizations, Teams, and activity in one place. | |
+| 🎤 CallStage | 🚧 In development | Track call-for-papers, submissions, and speaking engagements in one place. | |
 
 ## 📖 Books
 ### Mastering Minimal APIs in ASP.NET Core
