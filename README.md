@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#35](https://github.com/kasuken/Relio/issues/35) in [kasuken/Relio](https://github.com/kasuken/Relio)
-2. 🔒 Closed issue [#34](https://github.com/kasuken/Relio/issues/34) in [kasuken/Relio](https://github.com/kasuken/Relio)
-3. 🔒 Closed issue [#30](https://github.com/kasuken/Relio/issues/30) in [kasuken/Relio](https://github.com/kasuken/Relio)
-4. 🔒 Closed issue [#33](https://github.com/kasuken/Relio/issues/33) in [kasuken/Relio](https://github.com/kasuken/Relio)
-5. 🔒 Closed issue [#32](https://github.com/kasuken/Relio/issues/32) in [kasuken/Relio](https://github.com/kasuken/Relio)
+1. 🔒 Closed issue [#55](https://github.com/kasuken/Relio/issues/55) in [kasuken/Relio](https://github.com/kasuken/Relio)
+2. 🔒 Closed issue [#55](https://github.com/kasuken/Relio/issues/55) in [kasuken/Relio](https://github.com/kasuken/Relio)
+3. 🗣 Commented on [#55](https://github.com/kasuken/Relio/issues/55#issuecomment-6041583604) in [kasuken/Relio](https://github.com/kasuken/Relio)
+4. 🗣 Commented on [#43](https://github.com/kasuken/Relio/issues/43#issuecomment-6041582981) in [kasuken/Relio](https://github.com/kasuken/Relio)
+5. 🗣 Commented on [#65](https://github.com/kasuken/Relio/issues/65#issuecomment-6041582373) in [kasuken/Relio](https://github.com/kasuken/Relio)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
