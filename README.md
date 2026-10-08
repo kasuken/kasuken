@@ -170,10 +170,10 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#125](https://github.com/kasuken/Relio/issues/125) in [kasuken/Relio](https://github.com/kasuken/Relio)
-2. ℹ️ Labeled issue [#124](https://github.com/kasuken/Relio/issues/124) in [kasuken/Relio](https://github.com/kasuken/Relio)
-3. ℹ️ Labeled issue [#126](https://github.com/kasuken/Relio/issues/126) in [kasuken/Relio](https://github.com/kasuken/Relio)
-4. ℹ️ Labeled issue [#124](https://github.com/kasuken/Relio/issues/124) in [kasuken/Relio](https://github.com/kasuken/Relio)
+1. ℹ️ Labeled issue [#126](https://github.com/kasuken/Relio/issues/126) in [kasuken/Relio](https://github.com/kasuken/Relio)
+2. ℹ️ Labeled issue [#119](https://github.com/kasuken/Relio/issues/119) in [kasuken/Relio](https://github.com/kasuken/Relio)
+3. ℹ️ Labeled issue [#116](https://github.com/kasuken/Relio/issues/116) in [kasuken/Relio](https://github.com/kasuken/Relio)
+4. ℹ️ Labeled issue [#125](https://github.com/kasuken/Relio/issues/125) in [kasuken/Relio](https://github.com/kasuken/Relio)
 5. ℹ️ Labeled issue [#124](https://github.com/kasuken/Relio/issues/124) in [kasuken/Relio](https://github.com/kasuken/Relio)
 <!--END_SECTION:activity-->
 
