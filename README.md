@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/kasuken/Relio/issues/67#issuecomment-6051609416) in [kasuken/Relio](https://github.com/kasuken/Relio)
-2. 🗣 Commented on [#66](https://github.com/kasuken/Relio/issues/66#issuecomment-6051608882) in [kasuken/Relio](https://github.com/kasuken/Relio)
-3. 🗣 Commented on [#65](https://github.com/kasuken/Relio/issues/65#issuecomment-6051608487) in [kasuken/Relio](https://github.com/kasuken/Relio)
-4. 🗣 Commented on [#64](https://github.com/kasuken/Relio/issues/64#issuecomment-6051607945) in [kasuken/Relio](https://github.com/kasuken/Relio)
-5. 🔒 Closed issue [#66](https://github.com/kasuken/Relio/issues/66) in [kasuken/Relio](https://github.com/kasuken/Relio)
+1. ℹ️ Labeled issue [#125](https://github.com/kasuken/Relio/issues/125) in [kasuken/Relio](https://github.com/kasuken/Relio)
+2. ℹ️ Labeled issue [#124](https://github.com/kasuken/Relio/issues/124) in [kasuken/Relio](https://github.com/kasuken/Relio)
+3. ℹ️ Labeled issue [#126](https://github.com/kasuken/Relio/issues/126) in [kasuken/Relio](https://github.com/kasuken/Relio)
+4. ℹ️ Labeled issue [#124](https://github.com/kasuken/Relio/issues/124) in [kasuken/Relio](https://github.com/kasuken/Relio)
+5. ℹ️ Labeled issue [#124](https://github.com/kasuken/Relio/issues/124) in [kasuken/Relio](https://github.com/kasuken/Relio)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
