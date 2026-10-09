@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#79](https://github.com/kasuken/Needly/issues/79) in [kasuken/Needly](https://github.com/kasuken/Needly)
-2. ❗ Opened issue [#79](https://github.com/kasuken/Needly/issues/79) in [kasuken/Needly](https://github.com/kasuken/Needly)
-3. ℹ️ Labeled issue [#126](https://github.com/kasuken/Relio/issues/126) in [kasuken/Relio](https://github.com/kasuken/Relio)
-4. ℹ️ Labeled issue [#119](https://github.com/kasuken/Relio/issues/119) in [kasuken/Relio](https://github.com/kasuken/Relio)
-5. ℹ️ Labeled issue [#116](https://github.com/kasuken/Relio/issues/116) in [kasuken/Relio](https://github.com/kasuken/Relio)
+1. 🎉 Merged PR [#27](https://github.com/kasuken/website/pull/27) in [kasuken/website](https://github.com/kasuken/website)
+2. 💪 Opened PR [#27](https://github.com/kasuken/website/pull/27) in [kasuken/website](https://github.com/kasuken/website)
+3. 💪 Opened PR [#131](https://github.com/kasuken/Relio/pull/131) in [kasuken/Relio](https://github.com/kasuken/Relio)
+4. ℹ️ Labeled issue [#79](https://github.com/kasuken/Needly/issues/79) in [kasuken/Needly](https://github.com/kasuken/Needly)
+5. ❗ Opened issue [#79](https://github.com/kasuken/Needly/issues/79) in [kasuken/Needly](https://github.com/kasuken/Needly)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
