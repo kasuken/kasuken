@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#132](https://github.com/kasuken/Relio/issues/132) in [kasuken/Relio](https://github.com/kasuken/Relio)
+1. 🔒 Closed issue [#132](https://github.com/kasuken/Relio/issues/132) in [kasuken/Relio](https://github.com/kasuken/Relio)
 2. ℹ️ Assigned issue [#132](https://github.com/kasuken/Relio/issues/132) in [kasuken/Relio](https://github.com/kasuken/Relio)
-3. ℹ️ Labeled issue [#132](https://github.com/kasuken/Relio/issues/132) in [kasuken/Relio](https://github.com/kasuken/Relio)
-4. ❗ Opened issue [#132](https://github.com/kasuken/Relio/issues/132) in [kasuken/Relio](https://github.com/kasuken/Relio)
-5. 🎉 Merged PR [#27](https://github.com/kasuken/website/pull/27) in [kasuken/website](https://github.com/kasuken/website)
+3. ℹ️ Assigned issue [#132](https://github.com/kasuken/Relio/issues/132) in [kasuken/Relio](https://github.com/kasuken/Relio)
+4. ℹ️ Labeled issue [#132](https://github.com/kasuken/Relio/issues/132) in [kasuken/Relio](https://github.com/kasuken/Relio)
+5. ❗ Opened issue [#132](https://github.com/kasuken/Relio/issues/132) in [kasuken/Relio](https://github.com/kasuken/Relio)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
