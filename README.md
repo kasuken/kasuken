@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#145](https://github.com/kasuken/Relio/pull/145) in [kasuken/Relio](https://github.com/kasuken/Relio)
-2. 🔒 Closed issue [#123](https://github.com/kasuken/Relio/issues/123) in [kasuken/Relio](https://github.com/kasuken/Relio)
-3. 💪 Opened PR [#144](https://github.com/kasuken/Relio/pull/144) in [kasuken/Relio](https://github.com/kasuken/Relio)
-4. 💪 Opened PR [#143](https://github.com/kasuken/Relio/pull/143) in [kasuken/Relio](https://github.com/kasuken/Relio)
-5. 💪 Opened PR [#142](https://github.com/kasuken/Relio/pull/142) in [kasuken/Relio](https://github.com/kasuken/Relio)
+1. 🗣 Commented on [#111](https://github.com/kasuken/Relio/issues/111#issuecomment-6124648942) in [kasuken/Relio](https://github.com/kasuken/Relio)
+2. 🗣 Commented on [#120](https://github.com/kasuken/Relio/issues/120#issuecomment-6123854052) in [kasuken/Relio](https://github.com/kasuken/Relio)
+3. 🎉 Merged PR [#145](https://github.com/kasuken/Relio/pull/145) in [kasuken/Relio](https://github.com/kasuken/Relio)
+4. 🎉 Merged PR [#141](https://github.com/kasuken/Relio/pull/141) in [kasuken/Relio](https://github.com/kasuken/Relio)
+5. 🎉 Merged PR [#143](https://github.com/kasuken/Relio/pull/143) in [kasuken/Relio](https://github.com/kasuken/Relio)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
