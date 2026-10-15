@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#151](https://github.com/kasuken/Relio/pull/151) in [kasuken/Relio](https://github.com/kasuken/Relio)
-2. 💪 Opened PR [#151](https://github.com/kasuken/Relio/pull/151) in [kasuken/Relio](https://github.com/kasuken/Relio)
-3. 🎉 Merged PR [#150](https://github.com/kasuken/Relio/pull/150) in [kasuken/Relio](https://github.com/kasuken/Relio)
-4. 💪 Opened PR [#150](https://github.com/kasuken/Relio/pull/150) in [kasuken/Relio](https://github.com/kasuken/Relio)
-5. 🎉 Merged PR [#149](https://github.com/kasuken/Relio/pull/149) in [kasuken/Relio](https://github.com/kasuken/Relio)
+1. 🔒 Closed issue [#10](https://github.com/kasuken/home-robot/issues/10) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+2. 🔒 Closed issue [#9](https://github.com/kasuken/home-robot/issues/9) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+3. 🔒 Closed issue [#7](https://github.com/kasuken/home-robot/issues/7) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+4. 🔒 Closed issue [#6](https://github.com/kasuken/home-robot/issues/6) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+5. 🔒 Closed issue [#5](https://github.com/kasuken/home-robot/issues/5) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
