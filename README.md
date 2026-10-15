@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/kasuken/home-robot/issues/10) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-2. 🔒 Closed issue [#9](https://github.com/kasuken/home-robot/issues/9) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-3. 🔒 Closed issue [#7](https://github.com/kasuken/home-robot/issues/7) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-4. 🔒 Closed issue [#6](https://github.com/kasuken/home-robot/issues/6) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-5. 🔒 Closed issue [#5](https://github.com/kasuken/home-robot/issues/5) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+1. 🔒 Closed issue [#28](https://github.com/kasuken/home-robot/issues/28) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+2. 🔒 Closed issue [#30](https://github.com/kasuken/home-robot/issues/30) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+3. 🔒 Closed issue [#27](https://github.com/kasuken/home-robot/issues/27) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+4. 🔒 Closed issue [#24](https://github.com/kasuken/home-robot/issues/24) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+5. 🗣 Commented on [#1](https://github.com/kasuken/home-robot/issues/1#issuecomment-6184375226) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
