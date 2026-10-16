@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/kasuken/home-robot/issues/37#issuecomment-6191232236) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-2. 🗣 Commented on [#26](https://github.com/kasuken/home-robot/issues/26#issuecomment-6188120701) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-3. ℹ️ Labeled issue [#53](https://github.com/kasuken/home-robot/issues/53) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-4. 🔒 Closed issue [#47](https://github.com/kasuken/home-robot/issues/47) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-5. ℹ️ Labeled issue [#53](https://github.com/kasuken/home-robot/issues/53) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+1. 🗣 Commented on [#46](https://github.com/kasuken/home-robot/issues/46#issuecomment-6198295714) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+2. 🗣 Commented on [#43](https://github.com/kasuken/home-robot/issues/43#issuecomment-6193025353) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+3. 🗣 Commented on [#31](https://github.com/kasuken/home-robot/issues/31#issuecomment-6189875751) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+4. 🚀 Published release [Copilot DevPersona v1.1.0](https://github.com/kasuken/copilot-devpersona/releases/tag/v1.1.0) in [kasuken/copilot-devpersona](https://github.com/kasuken/copilot-devpersona)
+5. 🗣 Commented on [#42](https://github.com/kasuken/home-robot/issues/42#issuecomment-6193026512) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
