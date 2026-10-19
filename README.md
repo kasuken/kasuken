@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.0 - AprilTag position fixes](https://github.com/kasuken/home-robot/releases/tag/v0.3.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-2. 🚀 Published release [v0.2.0 - The plan of the house](https://github.com/kasuken/home-robot/releases/tag/v0.2.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-3. 🚀 Published release [v0.1.1 - Merge into main and self-restart](https://github.com/kasuken/home-robot/releases/tag/v0.1.1) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-4. 🚀 Published release [v0.1.0 - Learning new skills](https://github.com/kasuken/home-robot/releases/tag/v0.1.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-5. 🗣 Commented on [#46](https://github.com/kasuken/home-robot/issues/46#issuecomment-6198295714) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+1. 🚀 Published release [v0.4.0 - Status LEDs](https://github.com/kasuken/home-robot/releases/tag/v0.4.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+2. 🚀 Published release [v0.3.0 - AprilTag position fixes](https://github.com/kasuken/home-robot/releases/tag/v0.3.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+3. 🚀 Published release [v0.2.0 - The plan of the house](https://github.com/kasuken/home-robot/releases/tag/v0.2.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+4. 🚀 Published release [v0.1.1 - Merge into main and self-restart](https://github.com/kasuken/home-robot/releases/tag/v0.1.1) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+5. 🚀 Published release [v0.1.0 - Learning new skills](https://github.com/kasuken/home-robot/releases/tag/v0.1.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
