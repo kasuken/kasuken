@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v8.2.1](https://github.com/kasuken/Brainy/releases/tag/v8.2.1) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-2. 🎉 Merged PR [#338](https://github.com/kasuken/Brainy/pull/338) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-3. 💪 Opened PR [#338](https://github.com/kasuken/Brainy/pull/338) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-4. 🚀 Published release [v0.4.0 - Status LEDs](https://github.com/kasuken/home-robot/releases/tag/v0.4.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
-5. 🚀 Published release [v0.3.0 - AprilTag position fixes](https://github.com/kasuken/home-robot/releases/tag/v0.3.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
+1. 🚀 Published release [v5.4.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.4.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
+2. 🚀 Published release [v8.2.1](https://github.com/kasuken/Brainy/releases/tag/v8.2.1) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+3. 🎉 Merged PR [#338](https://github.com/kasuken/Brainy/pull/338) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+4. 💪 Opened PR [#338](https://github.com/kasuken/Brainy/pull/338) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+5. 🚀 Published release [v0.4.0 - Status LEDs](https://github.com/kasuken/home-robot/releases/tag/v0.4.0) in [kasuken/home-robot](https://github.com/kasuken/home-robot)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
