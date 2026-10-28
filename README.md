@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.5.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.5.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-2. 🚀 Published release [v5.4.0](https://github.com/kasuken/vscode-copilot-insights/releases/tag/v5.4.0) in [kasuken/vscode-copilot-insights](https://github.com/kasuken/vscode-copilot-insights)
-3. 🚀 Published release [v8.2.1](https://github.com/kasuken/Brainy/releases/tag/v8.2.1) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-4. 🎉 Merged PR [#338](https://github.com/kasuken/Brainy/pull/338) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-5. 💪 Opened PR [#338](https://github.com/kasuken/Brainy/pull/338) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+1. 🔒 Closed issue [#3](https://github.com/kasuken/PostNook/issues/3) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+2. 🗣 Commented on [#3](https://github.com/kasuken/PostNook/issues/3#issuecomment-6457068671) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+3. 🔒 Closed issue [#13](https://github.com/kasuken/PostNook/issues/13) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+4. 🗣 Commented on [#13](https://github.com/kasuken/PostNook/issues/13#issuecomment-6457065718) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+5. 🔒 Closed issue [#12](https://github.com/kasuken/PostNook/issues/12) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
