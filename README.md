@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/kasuken/PostNook/issues/3) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
-2. 🗣 Commented on [#3](https://github.com/kasuken/PostNook/issues/3#issuecomment-6457068671) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
-3. 🔒 Closed issue [#13](https://github.com/kasuken/PostNook/issues/13) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
-4. 🗣 Commented on [#13](https://github.com/kasuken/PostNook/issues/13#issuecomment-6457065718) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
-5. 🔒 Closed issue [#12](https://github.com/kasuken/PostNook/issues/12) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+1. 🗣 Commented on [#34](https://github.com/kasuken/PostNook/issues/34#issuecomment-6463892445) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+2. 🗣 Commented on [#9](https://github.com/kasuken/PostNook/issues/9#issuecomment-6463893469) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+3. 🗣 Commented on [#35](https://github.com/kasuken/PostNook/issues/35#issuecomment-6463892894) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+4. 🗣 Commented on [#32](https://github.com/kasuken/PostNook/issues/32#issuecomment-6463892052) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+5. 🔒 Closed issue [#33](https://github.com/kasuken/PostNook/issues/33) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
