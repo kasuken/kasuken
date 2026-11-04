@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DayPulse v1.0.0](https://github.com/kasuken/DayPulse/releases/tag/v1.0.0) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
-2. 🚀 Published release [v0.15.0](https://github.com/kasuken/vscode-taskdeck/releases/tag/v0.15.0) in [kasuken/vscode-taskdeck](https://github.com/kasuken/vscode-taskdeck)
-3. 🚀 Published release [AI Quota v0.1.4](https://github.com/kasuken/vscode-aiquota/releases/tag/v0.1.4) in [kasuken/vscode-aiquota](https://github.com/kasuken/vscode-aiquota)
-4. 🚀 Published release [AI Quota v0.1.3](https://github.com/kasuken/vscode-aiquota/releases/tag/v0.1.3) in [kasuken/vscode-aiquota](https://github.com/kasuken/vscode-aiquota)
-5. 🗣 Commented on [#39](https://github.com/kasuken/PostNook/issues/39#issuecomment-6464106254) in [kasuken/PostNook](https://github.com/kasuken/PostNook)
+1. ℹ️ Labeled issue [#120](https://github.com/kasuken/Relio/issues/120) in [kasuken/Relio](https://github.com/kasuken/Relio)
+2. ℹ️ Labeled issue [#120](https://github.com/kasuken/Relio/issues/120) in [kasuken/Relio](https://github.com/kasuken/Relio)
+3. ℹ️ Labeled issue [#120](https://github.com/kasuken/Relio/issues/120) in [kasuken/Relio](https://github.com/kasuken/Relio)
+4. ℹ️ Labeled issue [#128](https://github.com/kasuken/Relio/issues/128) in [kasuken/Relio](https://github.com/kasuken/Relio)
+5. ℹ️ Labeled issue [#128](https://github.com/kasuken/Relio/issues/128) in [kasuken/Relio](https://github.com/kasuken/Relio)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
