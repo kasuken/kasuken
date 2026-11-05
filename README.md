@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#30](https://github.com/kasuken/website/issues/30) in [kasuken/website](https://github.com/kasuken/website)
-2. ℹ️ Labeled issue [#30](https://github.com/kasuken/website/issues/30) in [kasuken/website](https://github.com/kasuken/website)
-3. ℹ️ Labeled issue [#30](https://github.com/kasuken/website/issues/30) in [kasuken/website](https://github.com/kasuken/website)
-4. ❗ Opened issue [#30](https://github.com/kasuken/website/issues/30) in [kasuken/website](https://github.com/kasuken/website)
-5. ℹ️ Labeled issue [#120](https://github.com/kasuken/Relio/issues/120) in [kasuken/Relio](https://github.com/kasuken/Relio)
+1. 🔒 Closed issue [#29](https://github.com/kasuken/Passwordify/issues/29) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+2. 🔒 Closed issue [#27](https://github.com/kasuken/Passwordify/issues/27) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+3. 🔒 Closed issue [#26](https://github.com/kasuken/Passwordify/issues/26) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+4. 🔒 Closed issue [#21](https://github.com/kasuken/Passwordify/issues/21) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+5. 🔒 Closed issue [#164](https://github.com/kasuken/Relio/issues/164) in [kasuken/Relio](https://github.com/kasuken/Relio)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
