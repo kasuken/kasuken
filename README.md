@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#153](https://github.com/kasuken/Relio/issues/153) in [kasuken/Relio](https://github.com/kasuken/Relio)
-2. 🔒 Closed issue [#105](https://github.com/kasuken/LearnStack/issues/105) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-3. 🗣 Commented on [#105](https://github.com/kasuken/LearnStack/issues/105#issuecomment-6650700137) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-4. 🔒 Closed issue [#349](https://github.com/kasuken/Brainy/issues/349) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-5. 🔒 Closed issue [#116](https://github.com/kasuken/LearnStack/issues/116) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+1. 🗣 Commented on [#12](https://github.com/kasuken/MoneyBrain/issues/12#issuecomment-6688605232) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
+2. 🔒 Closed issue [#12](https://github.com/kasuken/MoneyBrain/issues/12) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
+3. 🔒 Closed issue [#31](https://github.com/kasuken/MoneyBrain/issues/31) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
+4. ℹ️ Labeled issue [#31](https://github.com/kasuken/MoneyBrain/issues/31) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
+5. ℹ️ Labeled issue [#31](https://github.com/kasuken/MoneyBrain/issues/31) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
