@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#20](https://github.com/kasuken/MoneyBrain/issues/20) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
-2. 🔒 Closed issue [#15](https://github.com/kasuken/MoneyBrain/issues/15) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
-3. 🔒 Closed issue [#6](https://github.com/kasuken/MoneyBrain/issues/6) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
-4. 🗣 Commented on [#16](https://github.com/kasuken/MoneyBrain/issues/16#issuecomment-6690964607) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
-5. 🔒 Closed issue [#16](https://github.com/kasuken/MoneyBrain/issues/16) in [kasuken/MoneyBrain](https://github.com/kasuken/MoneyBrain)
+1. 🗣 Commented on [#161](https://github.com/kasuken/Relio/issues/161#issuecomment-6700791607) in [kasuken/Relio](https://github.com/kasuken/Relio)
+2. 🗣 Commented on [#160](https://github.com/kasuken/Relio/issues/160#issuecomment-6700791323) in [kasuken/Relio](https://github.com/kasuken/Relio)
+3. 🗣 Commented on [#159](https://github.com/kasuken/Relio/issues/159#issuecomment-6700790886) in [kasuken/Relio](https://github.com/kasuken/Relio)
+4. 🗣 Commented on [#61](https://github.com/kasuken/DayPulse/issues/61#issuecomment-6700631871) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+5. 🗣 Commented on [#58](https://github.com/kasuken/DayPulse/issues/58#issuecomment-6700631479) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
