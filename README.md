@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#161](https://github.com/kasuken/Relio/issues/161#issuecomment-6700791607) in [kasuken/Relio](https://github.com/kasuken/Relio)
-2. 🗣 Commented on [#160](https://github.com/kasuken/Relio/issues/160#issuecomment-6700791323) in [kasuken/Relio](https://github.com/kasuken/Relio)
-3. 🗣 Commented on [#159](https://github.com/kasuken/Relio/issues/159#issuecomment-6700790886) in [kasuken/Relio](https://github.com/kasuken/Relio)
-4. 🗣 Commented on [#61](https://github.com/kasuken/DayPulse/issues/61#issuecomment-6700631871) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
-5. 🗣 Commented on [#58](https://github.com/kasuken/DayPulse/issues/58#issuecomment-6700631479) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+1. 🗣 Commented on [#10](https://github.com/kasuken/.github/issues/10#issuecomment-6704598328) in [kasuken/.github](https://github.com/kasuken/.github)
+2. 🗣 Commented on [#98](https://github.com/kasuken/Needly/issues/98#issuecomment-6704597891) in [kasuken/Needly](https://github.com/kasuken/Needly)
+3. 🗣 Commented on [#86](https://github.com/kasuken/Needly/issues/86#issuecomment-6704597688) in [kasuken/Needly](https://github.com/kasuken/Needly)
+4. 🔒 Closed issue [#98](https://github.com/kasuken/Needly/issues/98) in [kasuken/Needly](https://github.com/kasuken/Needly)
+5. 🔒 Closed issue [#86](https://github.com/kasuken/Needly/issues/86) in [kasuken/Needly](https://github.com/kasuken/Needly)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
