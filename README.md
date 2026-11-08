@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#88](https://github.com/kasuken/Needly/issues/88) in [kasuken/Needly](https://github.com/kasuken/Needly)
-2. 🔒 Closed issue [#87](https://github.com/kasuken/Needly/issues/87) in [kasuken/Needly](https://github.com/kasuken/Needly)
-3. 🗣 Commented on [#87](https://github.com/kasuken/Needly/issues/87#issuecomment-6713528155) in [kasuken/Needly](https://github.com/kasuken/Needly)
-4. 🗣 Commented on [#10](https://github.com/kasuken/.github/issues/10#issuecomment-6704598328) in [kasuken/.github](https://github.com/kasuken/.github)
-5. 🗣 Commented on [#98](https://github.com/kasuken/Needly/issues/98#issuecomment-6704597891) in [kasuken/Needly](https://github.com/kasuken/Needly)
+1. 🎉 Merged PR [#65](https://github.com/kasuken/DayPulse/pull/65) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+2. 💪 Opened PR [#65](https://github.com/kasuken/DayPulse/pull/65) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+3. 🎉 Merged PR [#64](https://github.com/kasuken/DayPulse/pull/64) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+4. 💪 Opened PR [#64](https://github.com/kasuken/DayPulse/pull/64) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+5. 🔒 Closed issue [#88](https://github.com/kasuken/Needly/issues/88) in [kasuken/Needly](https://github.com/kasuken/Needly)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
