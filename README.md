@@ -158,11 +158,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I can build the product with AI. Getting the first users is harder.](https://dev.to/playfulprogramming/i-can-build-the-product-with-ai-getting-the-first-users-is-harder-1pap)
 - [GitHub Universe 2026: Announcements, Sessions, and My Technical Takeaways](https://dev.to/playfulprogramming/github-universe-2026-announcements-sessions-and-my-technical-takeaways-hgh)
 - [How I build products with AI: from a brainstorm to a production release](https://dev.to/playfulprogramming/how-i-build-products-with-ai-from-a-brainstorm-to-a-production-release-3h3f)
 - [GitHub Universe 2026: My recap from San Francisco](https://dev.to/playfulprogramming/github-universe-2026-my-recap-from-san-francisco-23hd)
 - [Seasoned Developer Advice after 25 years in IT](https://dev.to/playfulprogramming/seasoned-developer-advice-after-25-years-in-it-5dpg)
-- [My Windows 11 Laptop Was Struggling with Claude and Codex. Defender Exclusions Helped.](https://dev.to/playfulprogramming/my-windows-11-laptop-was-struggling-with-claude-and-codex-defender-exclusions-helped-2iln)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on dev.to](https://dev.to/kasuken)
