@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/kasuken/DayPulse/pull/65) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
-2. 💪 Opened PR [#65](https://github.com/kasuken/DayPulse/pull/65) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
-3. 🎉 Merged PR [#64](https://github.com/kasuken/DayPulse/pull/64) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
-4. 💪 Opened PR [#64](https://github.com/kasuken/DayPulse/pull/64) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
-5. 🔒 Closed issue [#88](https://github.com/kasuken/Needly/issues/88) in [kasuken/Needly](https://github.com/kasuken/Needly)
+1. 🗣 Commented on [#30](https://github.com/kasuken/Passwordify/issues/30#issuecomment-6763005990) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+2. 🔒 Closed issue [#30](https://github.com/kasuken/Passwordify/issues/30) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+3. 🔒 Closed issue [#28](https://github.com/kasuken/Passwordify/issues/28) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+4. 🔒 Closed issue [#106](https://github.com/kasuken/LearnStack/issues/106) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+5. 🎉 Merged PR [#65](https://github.com/kasuken/DayPulse/pull/65) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
