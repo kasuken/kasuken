@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/kasuken/DayPulse/issues/59#issuecomment-6781436045) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
-2. 🚀 Published release [DayPulse v1.2.0](https://github.com/kasuken/DayPulse/releases/tag/v1.2.0) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
-3. 🔒 Closed issue [#59](https://github.com/kasuken/DayPulse/issues/59) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
-4. 🗣 Commented on [#30](https://github.com/kasuken/Passwordify/issues/30#issuecomment-6763005990) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-5. 🔒 Closed issue [#30](https://github.com/kasuken/Passwordify/issues/30) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+1. ❗ Opened issue [#8](https://github.com/kasuken/DeskWeave/issues/8) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
+2. ℹ️ Labeled issue [#8](https://github.com/kasuken/DeskWeave/issues/8) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
+3. ℹ️ Labeled issue [#8](https://github.com/kasuken/DeskWeave/issues/8) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
+4. ℹ️ Labeled issue [#8](https://github.com/kasuken/DeskWeave/issues/8) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
+5. ℹ️ Labeled issue [#8](https://github.com/kasuken/DeskWeave/issues/8) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
