@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/kasuken/Passwordify/issues/30#issuecomment-6763005990) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-2. 🔒 Closed issue [#30](https://github.com/kasuken/Passwordify/issues/30) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-3. 🔒 Closed issue [#28](https://github.com/kasuken/Passwordify/issues/28) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
-4. 🔒 Closed issue [#106](https://github.com/kasuken/LearnStack/issues/106) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
-5. 🎉 Merged PR [#65](https://github.com/kasuken/DayPulse/pull/65) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+1. 🗣 Commented on [#59](https://github.com/kasuken/DayPulse/issues/59#issuecomment-6781436045) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+2. 🚀 Published release [DayPulse v1.2.0](https://github.com/kasuken/DayPulse/releases/tag/v1.2.0) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+3. 🔒 Closed issue [#59](https://github.com/kasuken/DayPulse/issues/59) in [kasuken/DayPulse](https://github.com/kasuken/DayPulse)
+4. 🗣 Commented on [#30](https://github.com/kasuken/Passwordify/issues/30#issuecomment-6763005990) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
+5. 🔒 Closed issue [#30](https://github.com/kasuken/Passwordify/issues/30) in [kasuken/Passwordify](https://github.com/kasuken/Passwordify)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
