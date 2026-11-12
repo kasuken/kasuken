@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DeskWeave 0.3.0](https://github.com/kasuken/DeskWeave/releases/tag/v0.3.0) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
-2. 🔒 Closed issue [#4](https://github.com/kasuken/DeskWeave/issues/4) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
-3. 🚀 Published release [DeskWeave 0.2.0](https://github.com/kasuken/DeskWeave/releases/tag/v0.2.0) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
-4. ❗ Opened issue [#8](https://github.com/kasuken/DeskWeave/issues/8) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
-5. ℹ️ Labeled issue [#8](https://github.com/kasuken/DeskWeave/issues/8) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
+1. 🚀 Published release [DeskWeave 0.4.0](https://github.com/kasuken/DeskWeave/releases/tag/v0.4.0) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
+2. 🔒 Closed issue [#3](https://github.com/kasuken/DeskWeave/issues/3) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
+3. 🚀 Published release [DeskWeave 0.3.0](https://github.com/kasuken/DeskWeave/releases/tag/v0.3.0) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
+4. 🔒 Closed issue [#4](https://github.com/kasuken/DeskWeave/issues/4) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
+5. 🚀 Published release [DeskWeave 0.2.0](https://github.com/kasuken/DeskWeave/releases/tag/v0.2.0) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
