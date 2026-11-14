@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#59](https://github.com/kasuken/Pagelet/issues/59) in [kasuken/Pagelet](https://github.com/kasuken/Pagelet)
+1. 🚀 Published release [Pagelet 0.0.1 (first version, pre-release)](https://github.com/kasuken/Pagelet/releases/tag/v0.0.1) in [kasuken/Pagelet](https://github.com/kasuken/Pagelet)
 2. ℹ️ Labeled issue [#59](https://github.com/kasuken/Pagelet/issues/59) in [kasuken/Pagelet](https://github.com/kasuken/Pagelet)
 3. ℹ️ Labeled issue [#59](https://github.com/kasuken/Pagelet/issues/59) in [kasuken/Pagelet](https://github.com/kasuken/Pagelet)
-4. ❗ Opened issue [#59](https://github.com/kasuken/Pagelet/issues/59) in [kasuken/Pagelet](https://github.com/kasuken/Pagelet)
-5. ℹ️ Labeled issue [#58](https://github.com/kasuken/Pagelet/issues/58) in [kasuken/Pagelet](https://github.com/kasuken/Pagelet)
+4. ℹ️ Labeled issue [#59](https://github.com/kasuken/Pagelet/issues/59) in [kasuken/Pagelet](https://github.com/kasuken/Pagelet)
+5. ❗ Opened issue [#59](https://github.com/kasuken/Pagelet/issues/59) in [kasuken/Pagelet](https://github.com/kasuken/Pagelet)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
