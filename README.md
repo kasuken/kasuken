@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [DeskWeave 0.5.0](https://github.com/kasuken/DeskWeave/releases/tag/v0.5.0) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
-2. 🚀 Published release [DeskWeave 0.4.1](https://github.com/kasuken/DeskWeave/releases/tag/v0.4.1) in [kasuken/DeskWeave](https://github.com/kasuken/DeskWeave)
-3. ℹ️ Labeled issue [#9](https://github.com/michalpobuta/CarKit.Maui/issues/9) in [michalpobuta/CarKit.Maui](https://github.com/michalpobuta/CarKit.Maui)
-4. ❗ Opened issue [#9](https://github.com/michalpobuta/CarKit.Maui/issues/9) in [michalpobuta/CarKit.Maui](https://github.com/michalpobuta/CarKit.Maui)
-5. 🚀 Published release [Pagelet 0.0.1 (first version, pre-release)](https://github.com/kasuken/Pagelet/releases/tag/v0.0.1) in [kasuken/Pagelet](https://github.com/kasuken/Pagelet)
+1. 🚀 Published release [v1.2.1](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.2.1) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
+2. 🚀 Published release [v1.2.0](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.2.0) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
+3. 🚀 Published release [v1.1.3](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.1.3) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
+4. 🚀 Published release [v1.1.2](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.1.2) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
+5. 🚀 Published release [v1.1.1](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.1.1) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
