@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.1](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.2.1) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
-2. 🚀 Published release [v1.2.0](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.2.0) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
-3. 🚀 Published release [v1.1.3](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.1.3) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
-4. 🚀 Published release [v1.1.2](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.1.2) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
-5. 🚀 Published release [v1.1.1](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.1.1) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
+1. ❗ Opened issue [#3](https://github.com/kasuken/banner-creator/issues/3) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+2. ❗ Opened issue [#2](https://github.com/kasuken/banner-creator/issues/2) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+3. 🚀 Published release [v1.2.1](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.2.1) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
+4. 🚀 Published release [v1.2.0](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.2.0) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
+5. 🚀 Published release [v1.1.3](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.1.3) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
