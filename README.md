@@ -158,11 +158,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 
 ## 📝 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I Captured 89 Product Pages in Less Than 30 Seconds. Then Codex Built the Presentation.](https://dev.to/playfulprogramming/i-captured-89-product-pages-in-less-than-30-seconds-then-codex-built-the-presentation-41d)
 - [The .NET 11 changes I’d try first after .NET Conf 2026](https://dev.to/playfulprogramming/the-net-11-changes-id-try-first-after-net-conf-2026-2a7l)
 - [I built a VS Code start page for my Git repositories](https://dev.to/playfulprogramming/i-built-a-vs-code-start-page-for-my-git-repositories-5c6)
 - [I Turned a 2011 Kindle into an E-Ink Display for My Front Door](https://dev.to/kasuken/i-turned-a-2011-kindle-into-an-e-ink-display-for-my-front-door-34pj)
 - [I can build the product with AI. Getting the first users is harder.](https://dev.to/playfulprogramming/i-can-build-the-product-with-ai-getting-the-first-users-is-harder-1pap)
-- [GitHub Universe 2026: Announcements, Sessions, and My Technical Takeaways](https://dev.to/playfulprogramming/github-universe-2026-announcements-sessions-and-my-technical-takeaways-hgh)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More articles on dev.to](https://dev.to/kasuken)
