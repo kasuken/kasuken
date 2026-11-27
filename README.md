@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.4.0](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.4.0) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
-2. 🎉 Merged PR [#362](https://github.com/kasuken/Brainy/pull/362) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-3. 💪 Opened PR [#362](https://github.com/kasuken/Brainy/pull/362) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-4. 🚀 Published release [v1.3.0](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.3.0) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
-5. ❗ Opened issue [#3](https://github.com/kasuken/banner-creator/issues/3) in [kasuken/banner-creator](https://github.com/kasuken/banner-creator)
+1. 🚀 Published release [PowerShell Snippets 1.1.0](https://github.com/kasuken/powershell-snippets-vscode/releases/tag/v1.1.0) in [kasuken/powershell-snippets-vscode](https://github.com/kasuken/powershell-snippets-vscode)
+2. 🚀 Published release [v1.4.0](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.4.0) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
+3. 🎉 Merged PR [#362](https://github.com/kasuken/Brainy/pull/362) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+4. 💪 Opened PR [#362](https://github.com/kasuken/Brainy/pull/362) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+5. 🚀 Published release [v1.3.0](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.3.0) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
