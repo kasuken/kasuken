@@ -170,11 +170,11 @@ GitHub is the industry-standard tool for collaborating on and sharing code. It�
 ## ⚡ Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [PowerShell Snippets 1.1.0](https://github.com/kasuken/powershell-snippets-vscode/releases/tag/v1.1.0) in [kasuken/powershell-snippets-vscode](https://github.com/kasuken/powershell-snippets-vscode)
-2. 🚀 Published release [v1.4.0](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.4.0) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
-3. 🎉 Merged PR [#362](https://github.com/kasuken/Brainy/pull/362) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-4. 💪 Opened PR [#362](https://github.com/kasuken/Brainy/pull/362) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
-5. 🚀 Published release [v1.3.0](https://github.com/kasuken/vscode-repoboard/releases/tag/v1.3.0) in [kasuken/vscode-repoboard](https://github.com/kasuken/vscode-repoboard)
+1. 🎉 Merged PR [#167](https://github.com/kasuken/Relio/pull/167) in [kasuken/Relio](https://github.com/kasuken/Relio)
+2. 🎉 Merged PR [#366](https://github.com/kasuken/Brainy/pull/366) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
+3. 🎉 Merged PR [#123](https://github.com/kasuken/LearnStack/pull/123) in [kasuken/LearnStack](https://github.com/kasuken/LearnStack)
+4. 💪 Opened PR [#167](https://github.com/kasuken/Relio/pull/167) in [kasuken/Relio](https://github.com/kasuken/Relio)
+5. 💪 Opened PR [#366](https://github.com/kasuken/Brainy/pull/366) in [kasuken/Brainy](https://github.com/kasuken/Brainy)
 <!--END_SECTION:activity-->
 
 ## 💰You can help me by donating
